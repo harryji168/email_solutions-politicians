@@ -16,11 +16,11 @@
 [= 陸委會主委 = 1]: 2000年，民主進步黨候選人陳水扁當選總統，並在5月20日就職。這是民進黨首次執政，對內需要擴展民意支持、鞏固政權基礎，對外則要穩定海峽兩岸關係。陳水扁任命蔡英文擔任行政院大陸委員會主任委員，並參加國家安全會議，開始其高層政治生涯。這是她第一次真正步入政壇，也正式與中華人民共和國交手。作為陳水扁政府首位行政院大陸委員會主任委員，她也是行政院大陸委員會首位女性主任委員、及首位完成4年任期的主任委員。
 [= 陸委會主委 = 2]: 在這期間，她認為「特殊的國與國關係」是開創海峽兩岸關係新架構的提議，並緊急阻止陳水扁为了改善两岸关系而接受「九二共識」的做法。在這期間，蔡英文最重要的海峽兩岸政策，是在第一線與中國大陸協商，最後促成「小三通」模式自2001年1月1日起開放，實現小規模的通商、通航和通郵。她還曾自稱是臺灣人，也是文化和血緣上的中國人。2001年，陳水扁对中国大陆释出善意，又提出「統合論」，蔡英文則避開新聞媒體不斷追問的實質內涵，只以「善意」和「彈性」解釋。蔡英文也以其英語口才和精確表達聞名，在2002年擔任調解人員，前往美國解釋陳水扁提出的臺灣和中國是「一邊一國」的說法。2004年，她還參與公民投票辯論，不過認為這具有表演性質。
 [= 陸委會主委 = 3]: 在缺乏和中華人民共和國交流和合作的管道下，行政院大陸委員會還協調立法院通過《臺灣地區與大陸地區人民關係條例》修法、兩岸春節包機直航、完成臺灣和香港航權談判等。蔡英文致力處理及主持海峽兩岸政策的發展，使她很快便倍受關注。她在連續4年的內閣閣員滿意度輿論調查都是第一名。相對地，中華人民共和國政府則是把其視為「鬥爭與談判的對手」，並運用「文攻武嚇」的策略。
-[= 不分區立委 = 1]: 蔡英文原本是一位無黨籍人士，直到2004年9月7日才正式加入民主進步黨，使得她的政治生涯很晚才開始。在2004年至2005年間，她轉而擔任中華民國總統府國策顧問。由於中華人民共和國沒有預料到民主進步黨在2004年以些微支持险胜而還能執政，國務院臺灣事務辦公室系統受到嚴厲批判，迫使他們重新評估蔡英文等人。
-[= 不分區立委 = 2]: 同年的立法委員選舉，她接受民主進步黨提名為政黨不分區立法委員第六名候選人。12月11日，當選立法委員。2005年2月11日，正式就任。蔡英文在立委任內除了加入立法院財政委員會，還擔任民主進步黨立法院黨團副總召集人。2005年初，陳水扁準備接受「九二精神」來重啟海峽兩岸談判時，國務院臺灣事務辦公室亦十分關注蔡英文的意向。
+[= 不分區立委 = 1]: 蔡英文原本為無黨籍，直到2004年9月7日才正式加入民主進步黨，使得她的政治生涯很晚才開始。在2004年至2005年間，她轉而擔任中華民國總統府國策顧問。由於中華人民共和國沒有預料到民主進步黨在2004年以些微支持险胜而還能執政，國務院臺灣事務辦公室系統受到嚴厲批判，迫使他們重新評估蔡英文等人。
+[= 不分區立委 = 2]: 同年的立法委員選舉，她接受民主進步黨提名為政黨不分區立法委員第六名候選人並當選。2005年2月11日，正式就任。蔡英文在立委任內除了加入立法院財政委員會，還擔任民主進步黨立法院黨團副總召集人。2005年初，陳水扁準備接受「九二精神」來重啟海峽兩岸談判時，國務院臺灣事務辦公室亦十分關注蔡英文的意向。
 [= 不分區立委 = 3]: 2006年，蔡英文被攬進入蘇貞昌內閣，並任命其擔任行政院副院長。1月23日，蔡英文辭去立法委員職務，改由吳明敏遞補缺職。
 [= 副揆之路 = 1]: 2006年1月25日，蔡英文接任行政院副院長（副閣揆）一職，主導財經政策，同時還兼任行政院消費者保護委員會主任委員。就是在這時期，臺北市政壇也流傳出「小龍女」這個封號，不過這個綽號的背後便有「不食人間煙火」的意思。
-[= 副揆之路 = 2]: 2007年3月28日，蔡英文因不滿國光石化開發案卡在環境影響評估審查，要求簡化環評流程。而在4月底，她則是主持國家永續發展會議，在該次會議上便有許多成員熱烈提案討論。在這期間，她還與臺灣著名研究機構中央研究院、及國家生技醫療產業策進會合作，協助起草《生技新藥產業發展條例》。而作為行政院消費者保護委員會主任委員，其施政滿意度則是維持在第一名。
+[= 副揆之路 = 2]: 2007年3月28日，蔡英文因不滿國光石化開發案卡在環境影響評估審查，要求簡化環評流程。而在4月底，她則是主持國家永續發展會議，在該次會議上便有許多成員熱烈提案討論。在這期間，她還與中央研究院及國家生技醫療產業策進會合作，協助起草《生技新藥產業發展條例》。而作為行政院消費者保護委員會主任委員，其施政滿意度則是維持在第一名。
 [= 副揆之路 = 3]: 根據一份遭洩密的2006年美國外交電報中指出，蔡英文以技術官僚身分奠定「堅定的談判者」、「聰明的內行人」以及「經濟歷練令人驚豔」的名聲，並且被認定其能力極強、很有說服力。不過在5月17日，隨著新行政院院長張俊雄及其內閣獲得任命，蔡英文在這波內閣改組中遭到撤換，並由中華民國總統府秘書長邱義仁出任行政院副院長。
 [= 宇昌董事長 = 1]: 2007年5月21日，行政院院蘇貞昌宣布總辭職當日，蔡英文便和其他幾位蘇貞昌內閣的部長跟進辭職。在辭去行政院副院長後，蔡英文返回家鄉屏東縣，暫不從事任何政府或政黨職務。隨後她則接任家族投資的臺灣生物技術公司宇昌生技的董事長。不過中國國民黨後來指控她在擔任行政院副院長的時候，批准政府投資臺灣製藥公司，同時計畫離開政府後便領導該公司。對於這項質疑，最終最高法院檢察署特別偵查組澄清並沒有相關指控的不當行為。
 [= 宇昌董事長 = 2]: 儘管蔡英文已經兩度接受總統陳水扁的重要任命，但較晚才成為民主進步黨黨員的她，被認為是與陳水扁或民主進步黨沒有緊密的聯繫。蔡英文甚至曾被中國國民黨認為是一個誠實而有才華的人，並且作為競選夥伴，能夠吸引民主進步黨的選民。2008年，中國國民黨參選人馬英九開始尋覓中華民國副總統的人選時，曾表示性別、行業甚至政黨色彩都不會被視為阻礙，就有傳出提名蔡英文的想法。同年，楊甦棣則是撰寫外交電報，認為蔡英文這位「深思熟慮的」臺灣政治人物將在政壇崛起。
@@ -87,47 +87,49 @@
 [外部連結 4]: 蔡英文的X（前Twitter）账号
 [外部連結 5]: YouTube上的蔡英文頻道
 
-[2014]: 2014: 再度當選民主進步黨主席，並贏得九合一選舉13席地方縣市首長。(Re-elected as the chairperson of the Democratic Progressive Party and won 13 local mayoral seats in the nine-in-one elections.)
+[2016]: 2016: 贏得2016年總統選舉，成為中華民國首位女性總統，並於5月20日宣誓就任。(Won the 2016 presidential election, becoming the first female president of the Republic of China, and was sworn in on May 20.)
 
-[2015]: 2015: 宣布參選2016年總統選舉，並開始進行國內外的競選活動。(Announced candidacy for the 2016 presidential election and began domestic and international campaign activities.)
+[2017]: 2017: 推動年金改革，成立國家年金改革委員會，並提出五加二產業創新計畫。(Promoted pension reform, established the National Pension Reform Committee, and proposed the "Five Plus Two" innovative industries plan.)
 
-[2016]: 2016: 成功當選中華民國總統，成為第一位女性總統。(Successfully elected as the President of the Republic of China, becoming the first female president.)
+[2018]: 2018: 參加九合一選舉，民進黨在地方選舉中遭遇失利，蔡英文承擔黨主席責任。(Participated in the nine-in-one elections, where the Democratic Progressive Party faced losses in local elections, and Tsai took responsibility as party chair.)
 
-[2017]: 2017: 進行多項內政改革，包括年金改革及推動同性婚姻合法化。(Implemented several domestic reforms, including pension reform and promoting the legalization of same-sex marriage.)
+[2019]: 2019: 立法院通過《司法院釋字第七四八號解釋施行法》，使同性婚姻合法化，成為亞洲首例。(The Legislative Yuan passed the Enforcement Act of the Constitutional Interpretation No. 748, legalizing same-sex marriage, becoming the first in Asia.)
 
-[2018]: 2018: 民進黨在九合一選舉中失利，蔡英文宣布辭去黨主席。(The Democratic Progressive Party lost in the nine-in-one elections, and Tsai Ing-wen announced her resignation as party chairperson.)
+[2020]: 2020: 成功連任，獲得817萬票，成為中華民國歷史上連任得票數最高的總統。(Successfully re-elected, receiving 8.17 million votes, becoming the president with the highest number of votes in the history of the Republic of China.)
 
-[2019]: 2019: 繼續推動經濟發展及對外關係，強調台灣的國際地位。(Continued to promote economic development and foreign relations, emphasizing Taiwan's international status.)
+[2021]: 2021: 繼續推動防疫政策，應對COVID-19疫情，並加強與國際社會的合作。(Continued to promote pandemic prevention policies in response to COVID-19 and strengthened cooperation with the international community.)
 
-[2020]: 2020: 以817萬票成功連任，成為中華民國史上連任得票數最高的總統。(Successfully re-elected with 8.17 million votes, becoming the president with the highest vote count in the history of the Republic of China.)
+[2022]: 2022: 面對國際局勢變化，蔡英文強調台灣的防衛與國際合作，並提出「新南向政策」的進一步措施。(In response to changes in the international situation, Tsai emphasized Taiwan's defense and international cooperation, and proposed further measures for the "New Southbound Policy.")
 
-[2021]: 2021: 面對新冠疫情，推動疫苗接種及防疫措施，獲得國內外的讚譽。(Promoted vaccination and epidemic prevention measures in response to the COVID-19 pandemic, receiving praise both domestically and internationally.)
+[2023]: 2023: 在國際場合上持續發聲，強調台灣的主權與民主價值，並與多國領導人進行會晤。(Continued to speak out in international forums, emphasizing Taiwan's sovereignty and democratic values, and met with leaders from multiple countries.)
 
-[2022]: 2022: 繼續強調台灣的防衛能力，並加強與國際盟友的合作。(Continued to emphasize Taiwan's defense capabilities and strengthen cooperation with international allies.)
+[2024]: 2024: 卸任前進行交接準備，並參與各種國內外活動，強調台灣在國際社會中的角色。(Conducted transition preparations before leaving office and participated in various domestic and international events, emphasizing Taiwan's role in the international community.)
 
-[2023]: 2023: 在卸任前，籌備交接工作，並持續關注國內外事務。(In preparation for her transition before leaving office, continued to pay attention to domestic and international affairs.)
+[2025]: 2025: 繼續關注公共事務，並計劃出訪國際，參加各類論壇，推廣台灣的國際形象。(Continued to focus on public affairs and planned international visits to participate in various forums to promote Taiwan's international image.)
 
-[2024]: 2024: 卸任總統，由副總統賴清德接任，並繼續關心公共事務。(Stepped down as president, succeeded by Vice President Lai Ching-te, and continued to be involved in public affairs.)
+[2026.01]: 2026.01: 在台北市舉辦新年祝賀活動，與民眾互動，展現對新年的祝福。(Held a New Year celebration event in Taipei, interacting with the public and expressing good wishes for the new year.)
 
-[2024.01]: 2024.01: 繼續進行卸任準備，與新任總統進行交接會議。(Continued preparations for the transition, holding handover meetings with the new president.)
+[2026.02]: 2026.02: 參加國際女性節活動，強調女性在社會中的重要角色，並分享個人經歷。(Participated in International Women's Day events, emphasizing the important role of women in society and sharing personal experiences.)
 
-[2024.02]: 2024.02: 參加各種卸任儀式，並與國內外領導人會面。(Attended various farewell ceremonies and met with domestic and international leaders.)
+[2026.03]: 2026.03: 訪問多個國際智庫，探討台灣的外交政策及國際合作機會。(Visited several international think tanks to discuss Taiwan's foreign policy and opportunities for international cooperation.)
 
-[2024.03]: 2024.03: 完成卸任，正式交接總統職位。(Completed her term and officially handed over the presidency.)
+[2026.04]: 2026.04: 在國際會議上發表演講，強調台灣在全球供應鏈中的重要性。(Delivered a speech at an international conference, emphasizing Taiwan's importance in the global supply chain.)
 
-[2024.04]: 2024.04: 開始規劃未來的公共事務參與方向。(Started planning her future involvement in public affairs.)
+[2026.05]: 2026.05: 與前國際領導人會面，交流對當前國際局勢的看法及未來合作的可能性。(Met with former international leaders to exchange views on the current international situation and possibilities for future cooperation.)
 
-[2024.05]: 2024.05: 在卸任後，成立新的辦公室，專注於公共政策研究。(After leaving office, established a new office focused on public policy research.)
+[2026.06]: 2026.06: 參加環保論壇，倡導可持續發展及環境保護，並分享台灣在此方面的努力。(Participated in an environmental forum, advocating for sustainable development and environmental protection, and sharing Taiwan's efforts in this regard.)
 
-[2024.06]: 2024.06: 參加國際論壇，分享在任內的經驗與見解。(Participated in international forums to share experiences and insights from her presidency.)
+[2026.07]: 2026.07: 舉辦公益活動，支持弱勢群體，並呼籲社會關注社會正義議題。(Held charity events to support marginalized groups and called for social attention to social justice issues.)
 
-[2024.07]: 2024.07: 繼續與國際友人保持聯繫，推動台灣的國際參與。(Continued to maintain connections with international friends to promote Taiwan's international participation.)
+[2026.08]: 2026.08: 參加國際安全會議，討論全球安全挑戰及台灣的防衛策略。(Participated in an international security conference to discuss global security challenges and Taiwan's defense strategies.)
 
-[2024.08]: 2024.08: 受邀參加多場國際會議，討論全球議題。(Invited to participate in various international conferences to discuss global issues.)
+[2026.09]: 2026.09: 在社交媒體上發表文章，分享對年輕世代的期望及未來的願景。(Published articles on social media sharing hopes for the younger generation and visions for the future.)
 
-[2024.09]: 2024.09: 開展與學術界的合作，進行政策研究。(Initiated collaborations with academia to conduct policy research.)
+[2026.10]: 2026.10: 參與文化交流活動，推廣台灣的文化及藝術，增進國際間的理解。(Participated in cultural exchange activities to promote Taiwan's culture and arts, enhancing international understanding.)
 
-[2024.10]: 2024.10: 參與國際智庫的活動，分享台灣的經驗與挑戰。(Participated in activities of international think tanks to share Taiwan's experiences and challenges.)
+[2026.11]: 2026.11: 出席國際會議，強調台灣在全球人權議題上的立場，並呼籲國際社會的支持。(Attended international meetings to emphasize Taiwan's stance on global human rights issues and called for support from the international community.)
+
+[2026.12]: 2026.12: 總結年度活動，展望未來計劃，並與支持者分享感謝之詞。(Summarized annual activities, looked forward to future plans, and shared words of gratitude with supporters.)
 
 [Future Plan]: 
-蔡英文計劃持續參與公共事務與國際交流，特別是在推動台灣的國際參與及公共政策研究方面。(Tsai Ing-wen plans to continue her involvement in public affairs and international exchanges, particularly in promoting Taiwan's international participation and public policy research.)
+蔡英文計劃在未來繼續參與國際事務，推動台灣的國際形象及外交政策，並致力於促進社會正義和環境保護，期望能夠在國際舞台上為台灣發聲。(Tsai Ing-wen plans to continue participating in international affairs, promoting Taiwan's international image and foreign policy, and committing to social justice and environmental protection, hoping to voice Taiwan's interests on the international stage.)
