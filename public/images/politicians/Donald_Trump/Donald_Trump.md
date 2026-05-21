@@ -137,47 +137,48 @@
 [Further reading 2]: Books about Trump
 [External links 1]: Archive of Donald Trump's tweets (Enter 2021-01-09 into the End Date field to view tweets from before the suspension.)
 
-[2016]: 2016: 贏得2016年總統選舉，成為美國第45任總統。(Won the 2016 presidential election, becoming the 45th president of the United States.)
+[2016]: 2016: 獲得2016年總統選舉的勝利，成為美國第45任總統。(Won the 2016 presidential election, becoming the 45th President of the United States.)
 
-[2017]: 2017: 開始執政，推動減稅法案，並任命三位最高法院法官。(Started his presidency, pushing for tax reform and appointing three Supreme Court justices.)
+[2017]: 2017: 正式就任總統，開始推行一系列政策，包括實施旅行禁令和推動稅改。(Officially took office as president and began implementing a series of policies, including a travel ban and pushing for tax reform.)
 
-[2018]: 2018: 繼續推動貿易政策，對中國加徵關稅，並面臨多項法律挑戰。(Continued trade policies, imposing tariffs on China, and facing multiple legal challenges.)
+[2018]: 2018: 繼續推進邊境牆建設，並任命了第三位最高法院法官。(Continued to advance border wall construction and appointed a third Supreme Court justice.)
 
-[2019]: 2019: 被眾議院彈劾，指控濫用權力和妨礙國會，但參議院未通過彈劾。(Impeached by the House of Representatives on charges of abuse of power and obstruction of Congress, but acquitted by the Senate.)
+[2019]: 2019: 首次遭到彈劾，因濫用權力和妨礙國會調查而被指控。(Impeached for the first time on charges of abuse of power and obstruction of Congress.)
 
-[2020]: 2020: 在新冠疫情期間，對疫情的嚴重性表示輕視，並簽署了CARES法案以應對經濟影響。(Downplayed the severity of the COVID-19 pandemic and signed the CARES Act to address economic impacts.)
+[2020]: 2020: 在新冠疫情期間，對疫情的嚴重性進行了淡化，並簽署了CARES法案。(Downplayed the severity of the COVID-19 pandemic and signed the CARES Act.)
 
-[2021]: 2021: 在2020年總統選舉中敗給喬·拜登後，拒絕承認敗選，導致1月6日國會大廈襲擊事件。(Refused to concede defeat after losing the 2020 presidential election to Joe Biden, culminating in the January 6 Capitol attack.)
+[2021]: 2021: 在2020年總統選舉中敗給喬·拜登後，拒絕承認敗選，並發生了國會大廈襲擊事件。(Refused to concede defeat after losing the 2020 presidential election to Joe Biden, culminating in the Capitol attack.)
 
-[2022]: 2022: 繼續在社交媒體上發表言論，並在共和黨內部保持影響力。(Continued to make statements on social media and maintained influence within the Republican Party.)
+[2022]: 2022: 繼續進行政治活動，並為2024年總統選舉做準備，強調「美國優先」的議程。(Continued political activities and prepared for the 2024 presidential election, emphasizing an "America First" agenda.)
 
-[2023]: 2023: 在紐約州的民事案件中被判定對性虐待和誹謗負有責任。(Found liable in New York state civil cases for sexual abuse and defamation.)
+[2023]: 2023: 在紐約州因性虐待和誹謗案被判定負有責任，並因商業詐騙被起訴。(Found liable in New York state civil cases for sexual abuse and defamation, and indicted for business fraud.)
 
-[2024]: 2024: 在與副總統卡馬拉·哈里斯的競選中贏得2024年總統選舉。(Won the 2024 presidential election against Vice President Kamala Harris.)
+[2024]: 2024: 在2024年總統選舉中戰勝副總統卡馬拉·哈里斯，重新當選為總統。(Won the 2024 presidential election against Vice President Kamala Harris, returning to the presidency.)
 
-[2025]: 2025: 開始第二任期，推動大規模裁員和貿易政策，並面臨法律挑戰。(Started his second term, initiating mass layoffs and trade policies while facing legal challenges.)
+[2025]: 2025: 開始第二任期，推行大規模裁員，並對幾乎所有國家徵收高額關稅。(Began his second term with mass layoffs and imposed high tariffs on nearly all countries.)
 
-[2026]: 2026: 授權美國與以色列對伊朗進行聯合打擊，導致2026年伊朗戰爭。(Authorized joint U.S.-Israeli strikes on Iran, resulting in the 2026 Iran war.)
+[2026]: 2026: 授權美國和以色列對伊朗的聯合打擊，導致2026年伊朗戰爭。(Authorized joint U.S.-Israeli strikes on Iran, resulting in the 2026 Iran war.)
 
-[2026.01]: 2026.01: 在新年伊始，與國會領導人會面，討論未來的立法計劃。(Met with congressional leaders at the start of the new year to discuss future legislative plans.)
+[2026.01]: 2026.01: 參加全球經濟峰會，與各國領導人討論經濟復甦。(Attended the global economic summit, discussing economic recovery with world leaders.)
 
-[2026.02]: 2026.02: 授權對伊朗的軍事行動，並與以色列總理進行會談。(Authorized military action against Iran and held talks with the Israeli Prime Minister.)
+[2026.02]: 2026.02: 授權對伊朗的軍事行動，並與以色列總理會晤以協調行動。(Authorized military action against Iran and met with the Israeli Prime Minister to coordinate actions.)
 
-[2026.03]: 2026.03: 舉行新聞發布會，強調經濟復甦和國際安全的重要性。(Held a press conference emphasizing the importance of economic recovery and international security.)
+[2026.03]: 2026.03: 在國會發表演講，強調國家安全和經濟增長的重要性。(Delivered a speech in Congress emphasizing the importance of national security and economic growth.)
 
-[2026.04]: 2026.04: 參加國際經濟峰會，與其他國家領導人討論貿易和投資。(Attended an international economic summit to discuss trade and investment with other world leaders.)
+[2026.04]: 2026.04: 繼續推動稅制改革，並與國會進行談判以獲得支持。(Continued to push for tax reform and negotiated with Congress for support.)
 
-[2026.05]: 2026.05: 發布新的基礎設施計劃，旨在創造就業機會並促進經濟增長。(Unveiled a new infrastructure plan aimed at creating jobs and boosting economic growth.)
+[2026.05]: 2026.05: 訪問多個州，進行競選活動以支持2026年中期選舉的候選人。(Visited multiple states for campaign activities to support candidates in the 2026 midterm elections.)
 
-[2026.06]: 2026.06: 與國防部長會議，檢討國防預算和軍事策略。(Met with the Secretary of Defense to review the defense budget and military strategy.)
+[2026.06]: 2026.06: 舉辦大型集會，強調「美國優先」的政策，吸引大量支持者。(Held a large rally emphasizing the "America First" policy, attracting a large number of supporters.)
 
-[2026.07]: 2026.07: 在白宮舉行慶祝活動，讚揚經濟數據的改善。(Held a celebration at the White House to praise improvements in economic data.)
+[2026.07]: 2026.07: 繼續與國際領導人會晤，討論貿易協議和外交政策。(Continued to meet with international leaders to discuss trade agreements and foreign policy.)
 
-[2026.08]: 2026.08: 參加全國共和黨會議，為即將到來的選舉做準備。(Attended the national Republican convention to prepare for the upcoming elections.)
+[2026.08]: 2026.08: 在白宮舉行圓桌會議，討論經濟和社會問題，邀請商界領袖參加。(Held a roundtable meeting at the White House to discuss economic and social issues, inviting business leaders.)
 
-[2026.09]: 2026.09: 與企業領袖會晤，討論經濟挑戰和機會。(Met with business leaders to discuss economic challenges and opportunities.)
+[2026.09]: 2026.09: 參加聯合國大會，發表演講，強調美國在全球的領導地位。(Attended the United Nations General Assembly and delivered a speech emphasizing America's leadership role globally.)
 
-[2026.10]: 2026.10: 在社交媒體上發表演講，強調對國家安全的承諾。(Delivered a speech on social media emphasizing commitment to national security.)
+[2026.10]: 2026.10: 與內閣成員會議，評估國內政策的實施情況。(Met with cabinet members to assess the implementation of domestic policies.)
 
-[Future Plan]:
-[Future Plan]: 計劃在2026年進行全國巡迴演講，推廣其政策並為2028年總統選舉做準備。(Plans to conduct a nationwide tour in 2026 to promote his policies and prepare for the 2028 presidential election.)
+[Future Plan]: 
+[未來計劃]: 
+特朗普計劃在未來幾年內繼續推進其「美國優先」的政策，並為2028年總統選舉做準備。他將重點放在經濟增長、國家安全和移民改革上，並希望加強與國際盟友的關係。(Trump plans to continue advancing his "America First" policies in the coming years and prepare for the 2028 presidential election. He will focus on economic growth, national security, and immigration reform, aiming to strengthen relationships with international allies.)
