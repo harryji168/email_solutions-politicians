@@ -1,0 +1,23 @@
+{
+    "National Taiwan University": {
+        "coords": [
+            25.016,
+            121.536
+        ],
+        "label": "National Taiwan University (Education)"
+    },
+    "Heidelberg University": {
+        "coords": [
+            49.410277777778,
+            8.7063888888889
+        ],
+        "label": "Heidelberg University (Education)"
+    },
+    "Taiwan": {
+        "coords": [
+            24,
+            121
+        ],
+        "label": "Taiwan"
+    }
+}

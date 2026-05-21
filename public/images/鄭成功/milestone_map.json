@@ -1,0 +1,30 @@
+{
+    "出生": {
+        "coords": [
+            33.36805555555556,
+            129.55372222222223
+        ],
+        "label": "Hirado (Birthplace)"
+    },
+    "Hirado": {
+        "coords": [
+            33.36805555555556,
+            129.55372222222223
+        ],
+        "label": "Hirado"
+    },
+    "Kingdom of Tungning": {
+        "coords": [
+            23.104444444444,
+            120.20805555556
+        ],
+        "label": "Kingdom of Tungning (Death)"
+    },
+    "Ming dynasty": {
+        "coords": [
+            32.8,
+            103.0833333
+        ],
+        "label": "Ming dynasty"
+    }
+}

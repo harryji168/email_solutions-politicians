@@ -1,0 +1,51 @@
+{
+    "出生": {
+        "coords": [
+            36.4,
+            118.4
+        ],
+        "label": "Shandong (Birthplace)"
+    },
+    "Shandong": {
+        "coords": [
+            36.4,
+            118.4
+        ],
+        "label": "Shandong"
+    },
+    "National Taiwan Normal University": {
+        "coords": [
+            25.02591,
+            121.52749
+        ],
+        "label": "National Taiwan Normal University (Education)"
+    },
+    "Columbia University": {
+        "coords": [
+            40.8075,
+            -73.961944444444
+        ],
+        "label": "Columbia University (Education)"
+    },
+    "National Chengchi University": {
+        "coords": [
+            24.986991666667,
+            121.57522222222
+        ],
+        "label": "National Chengchi University (Education)"
+    },
+    "National Taiwan University": {
+        "coords": [
+            25.016,
+            121.536
+        ],
+        "label": "National Taiwan University (Work)"
+    },
+    "Republic of China": {
+        "coords": [
+            40,
+            110
+        ],
+        "label": "Republic of China"
+    }
+}

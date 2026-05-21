@@ -1,0 +1,18 @@
+{
+    "Fort Smith": { "coords": [60.0054, -111.8863], "label": "Fort Smith, NWT (Birthplace, 1965)" },
+    "Edmonton": { "coords": [53.5461, -113.4938], "label": "Edmonton, Alberta (Childhood)" },
+    "Harvard": { "coords": [42.3770, -71.1167], "label": "Harvard University (BA Economics, 1988)" },
+    "Oxford": { "coords": [51.7520, -1.2577], "label": "St Peter's College, Oxford (MPhil, DPhil Economics)" },
+    "Goldman Sachs": { "coords": [40.7145, -74.0134], "label": "Goldman Sachs, New York (1995-2003)" },
+    "Goldman Sachs Tokyo": { "coords": [35.6762, 139.6503], "label": "Goldman Sachs, Tokyo" },
+    "Goldman Sachs London": { "coords": [51.5145, -0.0990], "label": "Goldman Sachs, London" },
+    "Bank of Canada": { "coords": [45.4231, -75.7013], "label": "Bank of Canada, Ottawa (Governor, 2008-2013)" },
+    "Ottawa": { "coords": [45.4215, -75.6972], "label": "Ottawa, Ontario (Prime Minister's Office)" },
+    "Bank of England": { "coords": [51.5142, -0.0885], "label": "Bank of England, London (Governor, 2013-2020)" },
+    "Threadneedle Street": { "coords": [51.5142, -0.0885], "label": "Bank of England, Threadneedle Street" },
+    "Davos": { "coords": [46.8003, 9.8360], "label": "World Economic Forum, Davos" },
+    "United Nations": { "coords": [40.7489, -73.9680], "label": "UN Special Envoy on Climate Action (2019)" },
+    "Kananaskis": { "coords": [51.0271, -115.1209], "label": "G7 Summit, Kananaskis, Alberta (2025)" },
+    "Parliament Hill": { "coords": [45.4236, -75.7009], "label": "Parliament Hill, Ottawa (Sworn in as PM, Mar 2025)" },
+    "Nepean": { "coords": [45.3527, -75.7369], "label": "Nepean, Ottawa (Electoral Riding)" }
+}

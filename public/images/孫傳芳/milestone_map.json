@@ -1,0 +1,37 @@
+{
+    "出生": {
+        "coords": [
+            36.67958,
+            117.05911
+        ],
+        "label": "Licheng District (Birthplace)"
+    },
+    "Licheng District": {
+        "coords": [
+            36.67958,
+            117.05911
+        ],
+        "label": "Licheng District"
+    },
+    "Tianjin": {
+        "coords": [
+            39.146666666667,
+            117.20555555556
+        ],
+        "label": "Tianjin (Death)"
+    },
+    "Imperial Japanese Army Academy": {
+        "coords": [
+            35.6825,
+            139.75277777777777
+        ],
+        "label": "Imperial Japanese Army Academy (Education)"
+    },
+    "Qing dynasty": {
+        "coords": [
+            38,
+            103
+        ],
+        "label": "Qing dynasty"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "出生": {
+        "coords": [
+            40.7029,
+            -73.8160
+        ],
+        "label": "Jamaica Hospital (Birthplace)"
+    },
+    "New York City": {
+        "coords": [
+            40.7128,
+            -74.0060
+        ],
+        "label": "New York City"
+    },
+    "New York Military Academy": {
+        "coords": [
+            41.4420,
+            -74.0150
+        ],
+        "label": "New York Military Academy"
+    },
+    "Fordham University": {
+        "coords": [
+            40.8628,
+            -73.8858
+        ],
+        "label": "Fordham University (Education)"
+    },
+    "The Wharton School": {
+        "coords": [
+            39.9532,
+            -75.1980
+        ],
+        "label": "The Wharton School (Education)"
+    },
+    "The Kew-Forest School": {
+        "coords": [
+            40.7136,
+            -73.8335
+        ],
+        "label": "The Kew-Forest School (Education)"
+    },
+    "The Trump Organization": {
+        "coords": [
+            40.7624,
+            -73.9738
+        ],
+        "label": "The Trump Organization (Work)"
+    },
+    "Trump Tower": {
+        "coords": [
+            40.7624,
+            -73.9738
+        ],
+        "label": "Trump Tower"
+    },
+    "Plaza Hotel": {
+        "coords": [
+            40.7645,
+            -73.9744
+        ],
+        "label": "Plaza Hotel"
+    },
+    "Atlantic City": {
+        "coords": [
+            39.3643,
+            -74.4229
+        ],
+        "label": "Atlantic City Casinos"
+    },
+    "Chicago": {
+        "coords": [
+            41.8887,
+            -87.6259
+        ],
+        "label": "Trump International Hotel and Tower (Chicago)"
+    },
+    "Mar-a-Lago": {
+        "coords": [
+            26.6771,
+            -80.0370
+        ],
+        "label": "Mar-a-Lago"
+    },
+    "White House": {
+        "coords": [
+            38.8977,
+            -77.0365
+        ],
+        "label": "White House"
+    },
+    "Butler Township": {
+        "coords": [
+            40.8653,
+            -79.9644
+        ],
+        "label": "Butler Township, Pennsylvania"
+    },
+    "United States": {
+        "coords": [
+            39.828175,
+            -98.5795
+        ],
+        "label": "United States"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "出生": {
+        "coords": [
+            33.44326,
+            114.89936
+        ],
+        "label": "Xiangcheng City (Birthplace)"
+    },
+    "Xiangcheng City": {
+        "coords": [
+            33.44326,
+            114.89936
+        ],
+        "label": "Xiangcheng City"
+    },
+    "Beijing": {
+        "coords": [
+            39.90403,
+            116.407526
+        ],
+        "label": "Beijing (Death)"
+    },
+    "Qing dynasty": {
+        "coords": [
+            38,
+            103
+        ],
+        "label": "Qing dynasty"
+    }
+}

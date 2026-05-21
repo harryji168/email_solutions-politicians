@@ -1,0 +1,30 @@
+{
+    "National Taiwan University": {
+        "coords": [
+            25.016,
+            121.536
+        ],
+        "label": "National Taiwan University (Work)"
+    },
+    "Tamkang University": {
+        "coords": [
+            25.175,
+            121.449
+        ],
+        "label": "Tamkang University (Work)"
+    },
+    "National Chiayi University": {
+        "coords": [
+            23.46368333,
+            120.48360556
+        ],
+        "label": "National Chiayi University (Work)"
+    },
+    "Taiwan": {
+        "coords": [
+            24,
+            121
+        ],
+        "label": "Taiwan"
+    }
+}

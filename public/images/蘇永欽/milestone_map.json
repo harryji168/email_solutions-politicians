@@ -1,0 +1,37 @@
+{
+    "出生": {
+        "coords": [
+            24.75,
+            121.75
+        ],
+        "label": "Yilan County (Birthplace)"
+    },
+    "Yilan County": {
+        "coords": [
+            24.75,
+            121.75
+        ],
+        "label": "Yilan County"
+    },
+    "National Taiwan University": {
+        "coords": [
+            25.016,
+            121.536
+        ],
+        "label": "National Taiwan University (Education)"
+    },
+    "Ludwig-Maximilians-Universität München": {
+        "coords": [
+            48.150833333333,
+            11.580277777778
+        ],
+        "label": "Ludwig-Maximilians-Universität München (Education)"
+    },
+    "Taiwan": {
+        "coords": [
+            24,
+            121
+        ],
+        "label": "Taiwan"
+    }
+}

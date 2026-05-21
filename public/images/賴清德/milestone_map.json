@@ -1,0 +1,44 @@
+{
+    "出生": {
+        "coords": [
+            25.1675,
+            121.63944444444
+        ],
+        "label": "Wanli District (Birthplace)"
+    },
+    "Wanli District": {
+        "coords": [
+            25.1675,
+            121.63944444444
+        ],
+        "label": "Wanli District"
+    },
+    "Harvard T.H. Chan School of Public Health": {
+        "coords": [
+            42.335437,
+            -71.102421
+        ],
+        "label": "Harvard T.H. Chan School of Public Health (Education)"
+    },
+    "Harvard University": {
+        "coords": [
+            42.374443888889,
+            -71.116943888889
+        ],
+        "label": "Harvard University (Education)"
+    },
+    "National Taiwan University": {
+        "coords": [
+            25.016,
+            121.536
+        ],
+        "label": "National Taiwan University (Education)"
+    },
+    "Taiwan": {
+        "coords": [
+            24,
+            121
+        ],
+        "label": "Taiwan"
+    }
+}

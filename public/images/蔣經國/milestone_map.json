@@ -1,0 +1,51 @@
+{
+    "出生": {
+        "coords": [
+            29.66378,
+            121.40957
+        ],
+        "label": "Fenghua District (Birthplace)"
+    },
+    "Fenghua District": {
+        "coords": [
+            29.66378,
+            121.40957
+        ],
+        "label": "Fenghua District"
+    },
+    "Seven Seas Residence": {
+        "coords": [
+            25.07947222,
+            121.53384722
+        ],
+        "label": "Seven Seas Residence (Death)"
+    },
+    "Moscow Sun Yat-sen University": {
+        "coords": [
+            65,
+            90
+        ],
+        "label": "Moscow Sun Yat-sen University (Education)"
+    },
+    "V. I. Lenin Military-Political Academy": {
+        "coords": [
+            55.7674,
+            37.5943
+        ],
+        "label": "V. I. Lenin Military-Political Academy (Education)"
+    },
+    "Communist University of the Toilers of the East": {
+        "coords": [
+            65,
+            90
+        ],
+        "label": "Communist University of the Toilers of the East (Education)"
+    },
+    "Qing dynasty": {
+        "coords": [
+            38,
+            103
+        ],
+        "label": "Qing dynasty"
+    }
+}
