@@ -1,14 +1,17 @@
 [
   {
-    "title": "Donald Trump's approval ratings hold steady among key conservative voter demographics. (唐纳德·特朗普在关键保守派选民中的支持率保持稳定。)",
-    "traffic": "2000+"
+    "title": "Donald Trump focuses heavily on the upcoming 2026 midterm elections and conservative policy agendas. (唐纳德·特朗普重点关注即将到来的2026年中期选举和保守派政策议程。)",
+    "traffic": "20000+",
+    "image": "/images/politicians/Donald_Trump/trump_election_2026.png"
   },
   {
-    "title": "The former president outlines new economic policies and tax proposals for his 2024 campaign. (这位前总统为2024年竞选概述了新的经济政策和税收提案。)",
-    "traffic": "500+"
+    "title": "Recent May speeches highlight new economic proposals and his vision for international trade agreements. (五月份的近期演讲强调了新的经济提案以及他对国际贸易协定的愿景。)",
+    "traffic": "15000+",
+    "image": "/images/politicians/Donald_Trump/trump_economy_2026.png"
   },
   {
-    "title": "Recent rallies draw large crowds as he continues his tour across vital swing states. (随着他在关键摇摆州继续巡回演讲，近期的集会吸引了大量人群。)",
-    "traffic": "10000+"
+    "title": "The former president announces a massive new series of rallies across the Midwest this spring. (这位前总统宣布今年春天将在中西部举行一系列大规模的新集会。)",
+    "traffic": "10000+",
+    "image": "/images/politicians/Donald_Trump/trump_rally_2026.png"
   }
 ]
