@@ -1,6 +1,26 @@
 [
   {
-    "title": "trump approval",
-    "traffic": "2000+"
+    "title": "Trump Rally in Ohio: Former President addresses large crowds on economic reform.",
+    "titleZh": "特朗普俄亥俄州集会：前总统向大批群众就经济改革发表讲话。",
+    "traffic": "500K+",
+    "pubDate": "May 2026",
+    "image": "/images/politicians/Donald_Trump/trump_rally_2026.png",
+    "thumbnail": "/images/politicians/Donald_Trump/trump_rally_2026.png"
+  },
+  {
+    "title": "Economic Policies 2026: Trump proposes new tariff packages to boost domestic manufacturing.",
+    "titleZh": "2026年经济政策：特朗普提出新的关税方案以促进国内制造业。",
+    "traffic": "300K+",
+    "pubDate": "May 2026",
+    "image": "/images/politicians/Donald_Trump/trump_economy_2026.png",
+    "thumbnail": "/images/politicians/Donald_Trump/trump_economy_2026.png"
+  },
+  {
+    "title": "2026 Midterm Election Campaign: Strategic projections for key swing states.",
+    "titleZh": "2026年中期选举竞选：关键摇摆州的战略预测。",
+    "traffic": "250K+",
+    "pubDate": "May 2026",
+    "image": "/images/politicians/Donald_Trump/trump_election_2026.png",
+    "thumbnail": "/images/politicians/Donald_Trump/trump_election_2026.png"
   }
 ]
