@@ -137,6 +137,29 @@
 [Further reading 2]: Books about Trump
 [External links 1]: Archive of Donald Trump's tweets (Enter 2021-01-09 into the End Date field to view tweets from before the suspension.)
 
+[2016]: 2016: Won the 2016 presidential election against Hillary Clinton, running as a political outsider on a populist platform. (作为政治局外人以民粹主义平台在2016年总统选举中击败希拉里·克林顿。)
+[2017]: 2017: Inaugurated as the 45th President; imposed travel bans, rolled back environmental regulations, and signed the Tax Cuts and Jobs Act. (就任第45任总统；实施旅行禁令，取消环境法规，并签署了《减税与就业法案》。)
+[2018]: 2018: Began a trade war with China, imposing tariffs, and became the first sitting U.S. president to meet a North Korean leader. (对中国发动贸易战，征收关税，并成为首位与朝鲜领导人会面的在任美国总统。)
+[2019]: 2019: Impeached by the House for abuse of power and obstruction of Congress regarding pressure on Ukraine. (因就乌克兰问题施压，被众议院以滥用职权和妨碍国会罪名弹劾。)
+[2020]: 2020: Oversaw the federal response to the COVID-19 pandemic and lost the 2020 presidential election to Joe Biden. (监督联邦政府对COVID-19疫情的应对，并在2020年总统选举中败给乔·拜登。)
+[2021]: 2021: January 6 Capitol attack occurred; impeached a second time for incitement of insurrection; established post-presidency office at Mar-a-Lago. (发生1月6日国会山袭击事件；因煽动叛乱被第二次弹劾；在海湖庄园设立卸任总统办公室。)
+[2022]: 2022: FBI searched Mar-a-Lago for classified documents; Trump Organization found liable for tax fraud; announced 2024 presidential run. (联邦调查局搜查海湖庄园以寻找机密文件；特朗普集团被判税务欺诈成立；宣布参加2024年总统选举。)
+[2023]: 2023: Indicted in multiple federal and state cases, including for retention of classified documents and efforts to subvert the 2020 election. (在多起联邦和州案件中被起诉，包括保留机密文件和试图颠覆2020年选举结果。)
+[2024]: 2024: Convicted of 34 felony counts in New York; survived two assassination attempts; won the 2024 presidential election against Kamala Harris. (在纽约被判34项重罪成立；在两次暗杀企图中幸存；在2024年总统选举中击败卡玛拉·哈里斯。)
+[2025]: 2025: Began second term as the 47th President; signed the One Big Beautiful Bill Act; initiated mass federal layoffs; launched military strikes in Yemen and Iran. (开始作为第47任总统的第二任期；签署了《一项美丽的大法案》；启动大规模联邦裁员；对也门和伊朗发动军事打击。)
+[2026.01]: 2026.01: Captured Venezuelan president Nicolás Maduro in a military raid; faced over 550 lawsuits against early second-term executive actions. (在一次军事突袭中抓获委内瑞拉总统尼古拉斯·马杜罗；其第二任期初期的行政行动面临超过550起诉讼。)
+[2026.02]: 2026.02: Authorized joint U.S.–Israeli air strikes on Iran, sparking the 2026 Iran war; Supreme Court ruled his International Emergency Economic Powers Act tariffs illegal. (授权美以联合空袭伊朗，引发2026年伊朗战争；最高法院裁定其根据《国际紧急经济权力法》征收的关税非法。)
+[2026.03]: 2026.03: Continued aggressive deportation campaigns and enforcement under Operation Metro Surge. (继续推进激进的驱逐行动，并在“地铁激增行动”下加强执法。)
+[2026.04]: 2026.04: Posted controversial AI images depicting himself; received international rebuke over threats to Iranian civilian infrastructure. (发布描绘自己的争议性AI图像；因威胁攻击伊朗民用基础设施而受到国际谴责。)
+[2026.05]: 2026.05: Currently overseeing ongoing military operations in Iran and managing massive domestic resistance to federal restructuring. (目前正监督对伊朗的持续军事行动，并应对针对联邦重组的大规模国内阻力。)
+[2026.06]: 2026.06: Expected to aggressively defend the legality of mass terminations and navigate pending lawsuits concerning the Department of Government Efficiency. (预计将积极捍卫大规模裁员的合法性，并应对有关政府效率部的未决诉讼。)
+[2026.07]: 2026.07: Strategic focus on accelerating construction of the Golden Dome missile defense system and further consolidating executive branch power. (战略重点放在加速建设“金顶”导弹防御系统，并进一步巩固行政部门的权力。)
+[2026.08]: 2026.08: Anticipated rollout of additional economic tariffs under alternative authorities, pending judicial review of earlier Supreme Court rulings. (预计在最高法院先前裁决的司法审查期间，根据其他授权推出额外的经济关税。)
+[2026.09]: 2026.09: Targeted expansion of international presence in Latin America and continuation of state capitalism initiatives through federal equity stakes. (有针对性地扩大在拉丁美洲的国际影响力，并通过联邦股权投资继续推进国家资本主义倡议。)
+[2026.10]: 2026.10: Preparation for upcoming midterm elections, rallying base support around border enforcement and America First foreign policy successes. (为即将到来的中期选举做准备，围绕边境执法和“美国优先”外交政策的成功来凝聚基础支持者。)
+[2026.11]: 2026.11: Midterm elections phase; focus on securing majorities in Congress to solidify Agenda 47 implementation and block further investigations. (中期选举阶段；重点是确保在国会的多数席位，以巩固“第47项议程”的实施并阻止进一步的调查。)
+[2026.12]: 2026.12: Year-end review of mass deregulation efforts and strategic planning for the 2027 fiscal year amidst significant domestic and international volatility. (在巨大的国内和国际波动中，进行大规模放松管制努力的年终审查，并为2027财年进行战略规划。)
+
 [Last 10 Years Summary]:
 - 2014: 開始積極參與政治活動，表達對美國政治的看法。
 - 2015: 宣布參加2016年總統選舉，使用「讓美國再次偉大」的口號。
