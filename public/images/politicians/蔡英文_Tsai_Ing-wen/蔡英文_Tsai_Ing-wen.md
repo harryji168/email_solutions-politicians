@@ -87,27 +87,47 @@
 [外部連結 4]: 蔡英文的X（前Twitter）账号
 [外部連結 5]: YouTube上的蔡英文頻道
 
-[2016]: 2016: 蔡英文當選中華民國總統，成為第一位女性總統，並於5月20日正式就職。(Tsai Ing-wen was elected as the President of the Republic of China, becoming the first female president, and was officially inaugurated on May 20.)
+[2014]: 2014: 再度當選民主進步黨主席，並贏得九合一選舉13席地方縣市首長。(Re-elected as the chairperson of the Democratic Progressive Party and won 13 local mayoral seats in the nine-in-one elections.)
 
-[2017]: 2017: 蔡英文政府推動「新南向政策」，旨在加強與東南亞及南亞國家的經濟合作。(The Tsai Ing-wen administration promoted the "New Southbound Policy," aimed at strengthening economic cooperation with Southeast Asian and South Asian countries.)
+[2015]: 2015: 宣布參選2016年總統選舉，並開始進行國內外的競選活動。(Announced candidacy for the 2016 presidential election and began domestic and international campaign activities.)
 
-[2018]: 2018: 民進黨在九合一選舉中遭遇重大失利，蔡英文宣布辭去民進黨主席職務。(The Democratic Progressive Party faced significant losses in the nine-in-one elections, and Tsai Ing-wen announced her resignation as chairperson of the DPP.)
+[2016]: 2016: 成功當選中華民國總統，成為第一位女性總統。(Successfully elected as the President of the Republic of China, becoming the first female president.)
 
-[2019]: 2019: 蔡英文強調台灣的主權，並在習近平發表「一國兩制」言論後，公開反對此政策。(Tsai Ing-wen emphasized Taiwan's sovereignty and publicly opposed the "one country, two systems" policy after Xi Jinping's remarks.)
+[2017]: 2017: 進行多項內政改革，包括年金改革及推動同性婚姻合法化。(Implemented several domestic reforms, including pension reform and promoting the legalization of same-sex marriage.)
 
-[2020]: 2020: 蔡英文成功連任中華民國總統，以817萬票創下歷史最高得票數。(Tsai Ing-wen successfully won re-election as President of the Republic of China, achieving a historical high of 8.17 million votes.)
+[2018]: 2018: 民進黨在九合一選舉中失利，蔡英文宣布辭去黨主席。(The Democratic Progressive Party lost in the nine-in-one elections, and Tsai Ing-wen announced her resignation as party chairperson.)
 
-[2021]: 2021: 蔡英文政府加強防疫措施以應對COVID-19疫情，並獲得國際社會的讚譽。(The Tsai Ing-wen administration strengthened epidemic prevention measures in response to the COVID-19 pandemic and received praise from the international community.)
+[2019]: 2019: 繼續推動經濟發展及對外關係，強調台灣的國際地位。(Continued to promote economic development and foreign relations, emphasizing Taiwan's international status.)
 
-[2022]: 2022: 蔡英文發表國慶演說，強調捍衛台灣主權的重要性，並呼籲國際支持。(In her National Day speech, Tsai Ing-wen emphasized the importance of defending Taiwan's sovereignty and called for international support.)
+[2020]: 2020: 以817萬票成功連任，成為中華民國史上連任得票數最高的總統。(Successfully re-elected with 8.17 million votes, becoming the president with the highest vote count in the history of the Republic of China.)
 
-[2023]: 2023: 蔡英文持續推動國防改革，並在國際場合強調台灣在全球供應鏈中的重要角色。(Tsai Ing-wen continued to promote defense reforms and emphasized Taiwan's important role in the global supply chain in international forums.)
+[2021]: 2021: 面對新冠疫情，推動疫苗接種及防疫措施，獲得國內外的讚譽。(Promoted vaccination and epidemic prevention measures in response to the COVID-19 pandemic, receiving praise both domestically and internationally.)
 
-[2024]: 2024: 蔡英文卸任總統，並在卸任後繼續關注公共事務，計劃出訪國外。(Tsai Ing-wen stepped down as president and continued to focus on public affairs, planning to visit abroad after her term.)
+[2022]: 2022: 繼續強調台灣的防衛能力，並加強與國際盟友的合作。(Continued to emphasize Taiwan's defense capabilities and strengthen cooperation with international allies.)
 
-[2025]: 2025: 蔡英文計劃參加國際會議，分享台灣在疫情防控及經濟復甦方面的經驗。(Tsai Ing-wen plans to participate in international conferences to share Taiwan's experiences in epidemic prevention and economic recovery.)
+[2023]: 2023: 在卸任前，籌備交接工作，並持續關注國內外事務。(In preparation for her transition before leaving office, continued to pay attention to domestic and international affairs.)
 
-[2026]: 2026: 蔡英文預計訪問歐洲，參加多場國際論壇，進一步推廣台灣的國際形象。(Tsai Ing-wen is expected to visit Europe and participate in multiple international forums to further promote Taiwan's international image.)
+[2024]: 2024: 卸任總統，由副總統賴清德接任，並繼續關心公共事務。(Stepped down as president, succeeded by Vice President Lai Ching-te, and continued to be involved in public affairs.)
+
+[2024.01]: 2024.01: 繼續進行卸任準備，與新任總統進行交接會議。(Continued preparations for the transition, holding handover meetings with the new president.)
+
+[2024.02]: 2024.02: 參加各種卸任儀式，並與國內外領導人會面。(Attended various farewell ceremonies and met with domestic and international leaders.)
+
+[2024.03]: 2024.03: 完成卸任，正式交接總統職位。(Completed her term and officially handed over the presidency.)
+
+[2024.04]: 2024.04: 開始規劃未來的公共事務參與方向。(Started planning her future involvement in public affairs.)
+
+[2024.05]: 2024.05: 在卸任後，成立新的辦公室，專注於公共政策研究。(After leaving office, established a new office focused on public policy research.)
+
+[2024.06]: 2024.06: 參加國際論壇，分享在任內的經驗與見解。(Participated in international forums to share experiences and insights from her presidency.)
+
+[2024.07]: 2024.07: 繼續與國際友人保持聯繫，推動台灣的國際參與。(Continued to maintain connections with international friends to promote Taiwan's international participation.)
+
+[2024.08]: 2024.08: 受邀參加多場國際會議，討論全球議題。(Invited to participate in various international conferences to discuss global issues.)
+
+[2024.09]: 2024.09: 開展與學術界的合作，進行政策研究。(Initiated collaborations with academia to conduct policy research.)
+
+[2024.10]: 2024.10: 參與國際智庫的活動，分享台灣的經驗與挑戰。(Participated in activities of international think tanks to share Taiwan's experiences and challenges.)
 
 [Future Plan]: 
-蔡英文計劃在卸任後繼續參與國際事務，特別是在推動台灣的國際參與及加強與其他國家的合作方面，並希望透過各種平台分享她的經驗與見解。(Tsai Ing-wen plans to continue participating in international affairs after her presidency, particularly in promoting Taiwan's international participation and strengthening cooperation with other countries, hoping to share her experiences and insights through various platforms.)
+蔡英文計劃持續參與公共事務與國際交流，特別是在推動台灣的國際參與及公共政策研究方面。(Tsai Ing-wen plans to continue her involvement in public affairs and international exchanges, particularly in promoting Taiwan's international participation and public policy research.)
