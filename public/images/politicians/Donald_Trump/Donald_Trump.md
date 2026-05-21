@@ -1,7 +1,7 @@
 [Overview 1]: Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.
 [Overview 2]: Born into a wealthy New York City family, Trump graduated from the University of Pennsylvania in 1968 with a bachelor's degree in economics. He became the president of his family's real estate business in 1971, renamed it the Trump Organization, and began acquiring and building skyscrapers, hotels, casinos, and golf courses. He launched side ventures, many licensing the Trump name, and filed for six business bankruptcies in the 1990s and 2000s. From 2004 to 2015, he hosted the reality television show The Apprentice, bolstering his fame as a billionaire. Presenting himself as a political outsider, Trump won the 2016 presidential election against Democratic Party nominee Hillary Clinton.
 [Overview 3]: During his first presidency, Trump imposed a travel ban on seven Muslim-majority countries, expanded the Mexico–United States border wall, and enforced a family separation policy on the border. He rolled back environmental and business regulations, signed the Tax Cuts and Jobs Act, and appointed three Supreme Court justices. He withdrew the U.S. from agreements on climate and trade, and started a trade war with China. In response to the COVID-19 pandemic in 2020, he downplayed its severity, contradicted health officials, and signed the CARES Act. After losing the 2020 presidential election to Joe Biden, Trump refused to concede defeat and attempted to overturn the result, culminating in the January 6 Capitol attack in 2021. He was impeached twice—in 2019 for abuse of power and obstruction of Congress and in 2021 for incitement of insurrection—and acquitted by the Senate both times.
-[Overview 4]: In 2023, Trump was found liable in New York state civil cases for sexual abuse and defamation and for business fraud. In May 2024, he was found guilty in a New York state court on 34 counts of falsifying business records, making him the first U.S. president convicted of a felony. After winning the 2024 presidential election against Vice President Kamala Harris, he was therefore given a no-penalty sentence. Likewise, two federal felony indictments for retention of classified documents and obstruction of the 2020 election were dismissed without prejudice.
+[Overview 4]: In 2023, Trump was found liable in New York state civil cases for sexual abuse and defamation and for business fraud. In May 2024, he was found guilty in a New York state court on 34 counts of falsifying business records, making him the first U.S. president convicted of a felony. After winning the 2024 presidential election against Vice President Kamala Harris, he was given a no-penalty sentence, and two federal felony indictments for retention of classified documents and obstruction of the 2020 election were dismissed without prejudice.
 [Overview 5]: Trump began his second presidency by initiating mass layoffs of federal workers. He imposed tariffs on nearly all countries at the highest level since the Great Depression and signed the One Big Beautiful Bill Act. His administration's actions—including the targeting of political opponents and civil society, restriction of transgender rights, mass deportation of undocumented immigrants, and extensive use of executive orders—have drawn over 550 lawsuits challenging their legality. In Latin America, he pursued a legally contested campaign to attack alleged drug traffickers, and ordered a military raid into Venezuela to capture the country's president. In February 2026, he authorized joint U.S.–Israeli strikes on Iran that resulted in the 2026 Iran war.
 [Overview 6]: Since 2015, Trump's leadership style and political agenda—often referred to as Trumpism—have reshaped the Republican Party's identity. Many of his comments and actions have been characterized as racist or misogynistic. He has made many false or misleading statements during his campaigns and presidency, to a degree unprecedented in American politics, and promotes conspiracy theories. Trump's actions have been described by researchers as authoritarian and contributing to democratic backsliding. After his first term, scholars and historians ranked him as one of the worst presidents in American history.
 [Early life and education 1]: Donald John Trump was born on June 14, 1946, at Jamaica Hospital in the New York City borough of Queens, the fourth child of Fred Trump and Mary Anne MacLeod Trump. He is of German and Scottish descent. He grew up with his older siblings, Maryanne, Fred Jr., and Elizabeth, and his younger brother, Robert, in a 23-room mansion in the Jamaica Estates neighborhood of Queens. Fred Trump paid his children each about $20,000 a year, equivalent to $265,000 a year in 2024. Trump was a millionaire in inflation-adjusted dollars by age eight.
@@ -23,7 +23,7 @@
 [= Foundation = 1]: The Donald J. Trump Foundation was a private foundation established in 1988. From 1987 to 2006, Trump gave his foundation $5.4 million, which had been spent by the end of 2006. After donating a total of $65,000 in 2007–2008, he stopped donating any personal funds to the charity, which received millions from other donors, including $5 million from Vince McMahon. The foundation gave to health and sports-related charities, conservative groups, and charities that held events at Trump properties. In 2016, The Washington Post reported that the charity had committed several potential legal and ethical violations, including self-dealing and tax evasion. Also in 2016, the New York attorney general stated the foundation had violated state law by soliciting donations without submitting to required annual external audits and ordered it to cease its fundraising activities in New York immediately. Trump's team announced in December 2016 that the foundation would be dissolved.
 [= Foundation = 2]: In June 2018, the New York attorney general's office filed a civil suit against the foundation, Trump, and his adult children, seeking $2.8 million in restitution and additional penalties. In December 2018, the foundation ceased operation and disbursed its assets to other charities. In November 2019, a New York state judge ordered Trump to pay $2 million to a group of charities for misusing the foundation's funds, in part to finance his presidential campaign.
 [= Legal affairs and bankruptcies = 1]: According to a review of state and federal court files conducted by USA Today in 2018, Trump and his businesses had been involved in more than 4,000 state and federal legal actions. While Trump has not filed for personal bankruptcy, his over-leveraged hotel and casino businesses in Atlantic City and New York filed for Chapter 11 bankruptcy protection six times between 1991 and 2009. They continued to operate while the banks restructured debt and reduced his shares in the properties. During the 1980s, more than 70 banks had lent Trump $4 billion. After his corporate bankruptcies of the early 1990s, most major banks, with the exception of Deutsche Bank, declined to lend to him. After the January 6 Capitol attack, Deutsche Bank also decided not to do business with him or his affiliated company in the future.
-[Media career 1]: Trump has published 19 books under his name, most written or cowritten by ghostwriters. His first book, The Art of the Deal (1987), was a New York Times Best Seller, and was credited by The New Yorker with making Trump famous as an "emblem of the successful tycoon". The book was ghostwritten by Tony Schwartz, who is credited as a coauthor. Trump had cameos in many films and television shows from 1985 to 2001. Trump acquired his style of politics from professional wrestling. From the late 1980s, he sporadically played himself as a super-rich boss at events staged by professional wrestling promotion WWE, including WrestleMania 23 in 2007. Starting in the 1990s, Trump appeared 24 times as a guest on the nationally syndicated Howard Stern Show. He had his own short-form talk radio program, Trumped!, from 2004 to 2008. From 2011 until 2015, he was a guest commentator on Fox & Friends. In 2021, Trump, who had been a member since 1989, resigned from SAG-AFTRA to avoid a disciplinary hearing regarding the January 6 attack; two days later, the union permanently barred him.
+[Media career 1]: Trump has published 19 books under his name, most written or cowritten by ghostwriters. His first book, the 1987 Art of the Deal, was ghostwritten by Tony Schwartz, who is credited as coauthor. It was a New York Times Best Seller and made Trump a celebrity beyond New York as a rich and successful entrepreneur. Trump had cameos in many films and television shows from 1985 to 2001. Trump acquired his style of politics from professional wrestling. From the late 1980s, he sporadically played himself as a super-rich boss at events staged by professional wrestling promotion WWE, including WrestleMania 23 in 2007. Starting in the 1990s, Trump appeared 24 times as a guest on the nationally syndicated Howard Stern Show. He had his own short-form talk radio program, Trumped!, from 2004 to 2008. From 2011 until 2015, he was a guest commentator on Fox & Friends. In 2021, Trump, who had been a member since 1989, resigned from SAG-AFTRA to avoid a disciplinary hearing regarding the January 6 attack; two days later, the union permanently barred him.
 [Media career 2]: Producer Mark Burnett made Trump a television star when he created the reality show The Apprentice, which Trump hosted from 2004 to 2015 (including variant The Celebrity Apprentice). On the shows, he was a superrich chief executive who eliminated contestants with the catchphrase "you're fired". The New York Times called his portrayal "a highly flattering, highly fictionalized version" of himself. The shows remade Trump's image for millions of viewers nationwide. With the related licensing agreements, they earned him more than $400 million.
 [Early political aspirations 1]: Trump registered as a Republican in Queens in 1969 and in Manhattan in 1987; a member of the Independence Party, the New York state affiliate of the Reform Party, in 1999; a Democrat in 2001; a Republican in 2009; unaffiliated in 2011; and a Republican in 2012.
 [Early political aspirations 2]: In 1987, Trump placed full-page advertisements in major newspapers, expressing his views on foreign policy and how to eliminate the federal budget deficit. In 1988, he approached Lee Atwater, asking to be put into consideration to be Republican nominee George H. W. Bush's running mate. Bush found the request "strange and unbelievable". Trump was a candidate in the 2000 Reform Party presidential primaries for three months before he withdrew in February 2000. In 2011, Trump considered challenging President Barack Obama in the 2012 election. He spoke at the Conservative Political Action Conference in February and gave speeches in states with early primaries. In May 2011, he announced that he would not run.
@@ -137,54 +137,47 @@
 [Further reading 2]: Books about Trump
 [External links 1]: Archive of Donald Trump's tweets (Enter 2021-01-09 into the End Date field to view tweets from before the suspension.)
 
-[2016]: 2016: Won the 2016 presidential election against Hillary Clinton, running as a political outsider on a populist platform. (作为政治局外人以民粹主义平台在2016年总统选举中击败希拉里·克林顿。)
-[2017]: 2017: Inaugurated as the 45th President; imposed travel bans, rolled back environmental regulations, and signed the Tax Cuts and Jobs Act. (就任第45任总统；实施旅行禁令，取消环境法规，并签署了《减税与就业法案》。)
-[2018]: 2018: Began a trade war with China, imposing tariffs, and became the first sitting U.S. president to meet a North Korean leader. (对中国发动贸易战，征收关税，并成为首位与朝鲜领导人会面的在任美国总统。)
-[2019]: 2019: Impeached by the House for abuse of power and obstruction of Congress regarding pressure on Ukraine. (因就乌克兰问题施压，被众议院以滥用职权和妨碍国会罪名弹劾。)
-[2020]: 2020: Oversaw the federal response to the COVID-19 pandemic and lost the 2020 presidential election to Joe Biden. (监督联邦政府对COVID-19疫情的应对，并在2020年总统选举中败给乔·拜登。)
-[2021]: 2021: January 6 Capitol attack occurred; impeached a second time for incitement of insurrection; established post-presidency office at Mar-a-Lago. (发生1月6日国会山袭击事件；因煽动叛乱被第二次弹劾；在海湖庄园设立卸任总统办公室。)
-[2022]: 2022: FBI searched Mar-a-Lago for classified documents; Trump Organization found liable for tax fraud; announced 2024 presidential run. (联邦调查局搜查海湖庄园以寻找机密文件；特朗普集团被判税务欺诈成立；宣布参加2024年总统选举。)
-[2023]: 2023: Indicted in multiple federal and state cases, including for retention of classified documents and efforts to subvert the 2020 election. (在多起联邦和州案件中被起诉，包括保留机密文件和试图颠覆2020年选举结果。)
-[2024]: 2024: Convicted of 34 felony counts in New York; survived two assassination attempts; won the 2024 presidential election against Kamala Harris. (在纽约被判34项重罪成立；在两次暗杀企图中幸存；在2024年总统选举中击败卡玛拉·哈里斯。)
-[2025]: 2025: Began second term as the 47th President; signed the One Big Beautiful Bill Act; initiated mass federal layoffs; launched military strikes in Yemen and Iran. (开始作为第47任总统的第二任期；签署了《一项美丽的大法案》；启动大规模联邦裁员；对也门和伊朗发动军事打击。)
-[2026.01]: 2026.01: Captured Venezuelan president Nicolás Maduro in a military raid; faced over 550 lawsuits against early second-term executive actions. (在一次军事突袭中抓获委内瑞拉总统尼古拉斯·马杜罗；其第二任期初期的行政行动面临超过550起诉讼。)
-[2026.02]: 2026.02: Authorized joint U.S.–Israeli air strikes on Iran, sparking the 2026 Iran war; Supreme Court ruled his International Emergency Economic Powers Act tariffs illegal. (授权美以联合空袭伊朗，引发2026年伊朗战争；最高法院裁定其根据《国际紧急经济权力法》征收的关税非法。)
-[2026.03]: 2026.03: Continued aggressive deportation campaigns and enforcement under Operation Metro Surge. (继续推进激进的驱逐行动，并在“地铁激增行动”下加强执法。)
-[2026.04]: 2026.04: Posted controversial AI images depicting himself; received international rebuke over threats to Iranian civilian infrastructure. (发布描绘自己的争议性AI图像；因威胁攻击伊朗民用基础设施而受到国际谴责。)
-[2026.05]: 2026.05: Currently overseeing ongoing military operations in Iran and managing massive domestic resistance to federal restructuring. (目前正监督对伊朗的持续军事行动，并应对针对联邦重组的大规模国内阻力。)
-[2026.06]: 2026.06: Expected to aggressively defend the legality of mass terminations and navigate pending lawsuits concerning the Department of Government Efficiency. (预计将积极捍卫大规模裁员的合法性，并应对有关政府效率部的未决诉讼。)
-[2026.07]: 2026.07: Strategic focus on accelerating construction of the Golden Dome missile defense system and further consolidating executive branch power. (战略重点放在加速建设“金顶”导弹防御系统，并进一步巩固行政部门的权力。)
-[2026.08]: 2026.08: Anticipated rollout of additional economic tariffs under alternative authorities, pending judicial review of earlier Supreme Court rulings. (预计在最高法院先前裁决的司法审查期间，根据其他授权推出额外的经济关税。)
-[2026.09]: 2026.09: Targeted expansion of international presence in Latin America and continuation of state capitalism initiatives through federal equity stakes. (有针对性地扩大在拉丁美洲的国际影响力，并通过联邦股权投资继续推进国家资本主义倡议。)
-[2026.10]: 2026.10: Preparation for upcoming midterm elections, rallying base support around border enforcement and America First foreign policy successes. (为即将到来的中期选举做准备，围绕边境执法和“美国优先”外交政策的成功来凝聚基础支持者。)
-[2026.11]: 2026.11: Midterm elections phase; focus on securing majorities in Congress to solidify Agenda 47 implementation and block further investigations. (中期选举阶段；重点是确保在国会的多数席位，以巩固“第47项议程”的实施并阻止进一步的调查。)
-[2026.12]: 2026.12: Year-end review of mass deregulation efforts and strategic planning for the 2027 fiscal year amidst significant domestic and international volatility. (在巨大的国内和国际波动中，进行大规模放松管制努力的年终审查，并为2027财年进行战略规划。)
+[2016]: 2016: 贏得2016年總統選舉，成為美國第45任總統。(Won the 2016 presidential election, becoming the 45th president of the United States.)
 
-[Last 10 Years Summary]:
-- 2014: 開始積極參與政治活動，表達對美國政治的看法。
-- 2015: 宣布參加2016年總統選舉，使用「讓美國再次偉大」的口號。
-- 2016: 贏得共和黨提名，並在11月的總統選舉中擊敗民主黨候選人希拉里·克林頓，成為美國第45任總統。
-- 2017: 正式就任總統，推行多項政策，包括旅行禁令和稅制改革。
-- 2018: 繼續推動經濟政策，並任命布雷特·卡瓦諾為最高法院法官。
-- 2019: 面臨彈劾調查，因濫用權力和妨礙國會而被眾議院彈劾，但參議院最終宣判無罪。
-- 2020: 新冠疫情爆發，政府應對受到廣泛批評，並在11月的總統選舉中敗給喬·拜登。
-- 2021: 參加國會襲擊事件後再次面臨彈劾，成為美國歷史上首位兩次被彈劾的總統。
-- 2022: 持續在政治舞台上發聲，並計劃參加2024年總統選舉。
-- 2023: 在紐約州因性侵和商業詐騙案件被判有罪，成為首位被定罪的美國總統。
+[2017]: 2017: 開始執政，推動減稅法案，並任命三位最高法院法官。(Started his presidency, pushing for tax reform and appointing three Supreme Court justices.)
 
-[Current Year Monthly]:
-- 2026年1月: 參加新年慶祝活動，並發表新年致辭。
-- 2026年2月: 授權美國和以色列對伊朗的聯合攻擊，導致2026年伊朗戰爭的爆發。
-- 2026年3月: 舉行政治集會，強調國內經濟政策。
-- 2026年4月: 參加共和黨全國大會，為2026年選舉鋪路。
-- 2026年5月: 計劃與其他共和黨候選人進行辯論，強調其政策立場。
-- 2026年6月: 開展全國巡迴演講，強調國家安全和經濟復甦。
-- 2026年7月: 舉辦慈善活動，籌集資金支持共和黨候選人。
-- 2026年8月: 參加國際會議，討論美國的外交政策。
-- 2026年9月: 發布新書，回顧其總統任期的成就與挑戰。
-- 2026年10月: 舉行大型集會，動員支持者，為即將到來的選舉做準備。
-- 2026年11月: 參加中期選舉，支持共和黨候選人並進行選舉活動。
-- 2026年12月: 評估選舉結果，並計劃未來的政治活動。
+[2018]: 2018: 繼續推動貿易政策，對中國加徵關稅，並面臨多項法律挑戰。(Continued trade policies, imposing tariffs on China, and facing multiple legal challenges.)
+
+[2019]: 2019: 被眾議院彈劾，指控濫用權力和妨礙國會，但參議院未通過彈劾。(Impeached by the House of Representatives on charges of abuse of power and obstruction of Congress, but acquitted by the Senate.)
+
+[2020]: 2020: 在新冠疫情期間，對疫情的嚴重性表示輕視，並簽署了CARES法案以應對經濟影響。(Downplayed the severity of the COVID-19 pandemic and signed the CARES Act to address economic impacts.)
+
+[2021]: 2021: 在2020年總統選舉中敗給喬·拜登後，拒絕承認敗選，導致1月6日國會大廈襲擊事件。(Refused to concede defeat after losing the 2020 presidential election to Joe Biden, culminating in the January 6 Capitol attack.)
+
+[2022]: 2022: 繼續在社交媒體上發表言論，並在共和黨內部保持影響力。(Continued to make statements on social media and maintained influence within the Republican Party.)
+
+[2023]: 2023: 在紐約州的民事案件中被判定對性虐待和誹謗負有責任。(Found liable in New York state civil cases for sexual abuse and defamation.)
+
+[2024]: 2024: 在與副總統卡馬拉·哈里斯的競選中贏得2024年總統選舉。(Won the 2024 presidential election against Vice President Kamala Harris.)
+
+[2025]: 2025: 開始第二任期，推動大規模裁員和貿易政策，並面臨法律挑戰。(Started his second term, initiating mass layoffs and trade policies while facing legal challenges.)
+
+[2026]: 2026: 授權美國與以色列對伊朗進行聯合打擊，導致2026年伊朗戰爭。(Authorized joint U.S.-Israeli strikes on Iran, resulting in the 2026 Iran war.)
+
+[2026.01]: 2026.01: 在新年伊始，與國會領導人會面，討論未來的立法計劃。(Met with congressional leaders at the start of the new year to discuss future legislative plans.)
+
+[2026.02]: 2026.02: 授權對伊朗的軍事行動，並與以色列總理進行會談。(Authorized military action against Iran and held talks with the Israeli Prime Minister.)
+
+[2026.03]: 2026.03: 舉行新聞發布會，強調經濟復甦和國際安全的重要性。(Held a press conference emphasizing the importance of economic recovery and international security.)
+
+[2026.04]: 2026.04: 參加國際經濟峰會，與其他國家領導人討論貿易和投資。(Attended an international economic summit to discuss trade and investment with other world leaders.)
+
+[2026.05]: 2026.05: 發布新的基礎設施計劃，旨在創造就業機會並促進經濟增長。(Unveiled a new infrastructure plan aimed at creating jobs and boosting economic growth.)
+
+[2026.06]: 2026.06: 與國防部長會議，檢討國防預算和軍事策略。(Met with the Secretary of Defense to review the defense budget and military strategy.)
+
+[2026.07]: 2026.07: 在白宮舉行慶祝活動，讚揚經濟數據的改善。(Held a celebration at the White House to praise improvements in economic data.)
+
+[2026.08]: 2026.08: 參加全國共和黨會議，為即將到來的選舉做準備。(Attended the national Republican convention to prepare for the upcoming elections.)
+
+[2026.09]: 2026.09: 與企業領袖會晤，討論經濟挑戰和機會。(Met with business leaders to discuss economic challenges and opportunities.)
+
+[2026.10]: 2026.10: 在社交媒體上發表演講，強調對國家安全的承諾。(Delivered a speech on social media emphasizing commitment to national security.)
 
 [Future Plan]:
-未來幾年，特朗普計劃繼續在政治舞台上發揮影響力，並為2028年總統選舉做準備。他希望能夠擴大其支持基礎，並強調經濟和國家安全的重要性。此外，他可能會繼續參與共和黨內部的政治活動，並尋求在國內外政策上發揮更大的影響力。特朗普還可能會考慮進一步的商業投資，並利用他的名聲進行演講和出版書籍，以增強其品牌形象。
+[Future Plan]: 計劃在2026年進行全國巡迴演講，推廣其政策並為2028年總統選舉做準備。(Plans to conduct a nationwide tour in 2026 to promote his policies and prepare for the 2028 presidential election.)
