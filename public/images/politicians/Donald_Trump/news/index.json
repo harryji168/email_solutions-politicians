@@ -1,68 +1,64 @@
 {
   "posts": [
     {
+      "title": "Trump Live Updates: House Pulls Iran War Powers Vote - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvVmI4TVlpOF93aVFzQm9HV0Z5VVZLM2hnbUZlVDRWMXRMNWJSUEpYYTdGUTFJUV9BYm5iZkZ4NkppMUdtSXZlWFFwQ1hCa0lhWnlZSXhJQXFNbDB1dVBaczFVUQ?oc=5",
+      "source": "The New York Times",
+      "date": "Fri, 22 May 2026 00:09:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T00:20:26.744Z"
+    },
+    {
+      "title": "Women’s Museum Bill Sinks Amid Dispute Over Trump and Trans Issues - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0NkTkJSWDlaeUw1d2RjM1cyVmhNek9BZEF3eUhKY3RidWJKMzJFSzZncWxwM2x2TFZkVklOeG9mLW5qM1JzZUpoX1VFVGRSckhqZzNqdk1ON2ZQMlQyMnhxZkRDZXNESE9fbmdEUFV4NUFmNUk3VjNXMi03R3lwSXRsMEZHdEFUUGlQdFpzcHVmSkY2YWprSURZSW01WUJaZ0k4ZFc4ZVhYVFdmMTVoYjUzRHJ0ODlq?oc=5",
+      "source": "The New York Times",
+      "date": "Fri, 22 May 2026 00:03:20 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T00:20:26.744Z"
+    },
+    {
       "title": "Donald Trump Jr.’s wedding will be on a small island in the Bahamas — without his father present, sources say - CNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFd4dGlHTHZSaUNTS1FES3NyQ1Nac1lTOVdieGdkZHU1bkxxVDV3bUdhVTVXcHRvM19XSmpaNGdLVEk0ZUVOY1FQVFJVRW5WYk5tN1ZsaWctVnZiZFc2R091cG5sR092V1l6UjYyeUdwTVhURGRoNFZpWDVXOElOU2xlUlp3cGs?oc=5",
       "source": "CNN",
       "date": "Fri, 22 May 2026 00:02:00 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-22T00:09:40.347Z"
-    },
-    {
-      "title": "Trump Live Updates: House Pulls Iran War Powers Vote - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvVmI4TVlpOF93aVFzQm9HV0Z5VVZLM2hnbUZlVDRWMXRMNWJSUEpYYTdGUTFJUV9BYm5iZkZ4NkppMUdtSXZlWFFwQ1hCa0lhWnlZSXhJQXFNbDB1dVBaczFVUQ?oc=5",
-      "source": "The New York Times",
-      "date": "Thu, 21 May 2026 23:22:37 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-22T00:09:40.347Z"
-    },
-    {
-      "title": "How Nicki Minaj Became Trump’s ‘No. 1 Fan’",
-      "url": "https://www.wsj.com/politics/elections/nicki-minaj-trump-fan-d27d189c",
-      "source": "WSJ",
-      "date": "Thu, 21 May 2026 16:20:00 -0700",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZZ0Kg_xPTu2CL5gZUdK8FL-w6lhgwiz2JITL5XgDZLHJueSlhzPIeub3MtRA",
-      "isTrend": true,
-      "trendTitle": "nicki minaj",
-      "trendTraffic": "1000+",
-      "fetchedAt": "2026-05-22T00:09:40.347Z"
+      "fetchedAt": "2026-05-22T00:20:26.744Z"
     }
   ],
   "topics": [
     {
-      "title": "Trump's Military and Foreign Policy Actions",
-      "summary": "Recent headlines highlight Donald Trump's decisions regarding military deployments and foreign policy, particularly his announcement to send 5,000 troops to Poland, which has caused confusion about U.S. military presence in Europe. Additionally, Trump has expressed intentions to intervene in Cuba following a Castro indictment, showcasing his active engagement in international affairs. These developments reflect ongoing discussions within the Republican Party about military funding and strategy.",
-      "titleZh": "特朗普的军事和外交政策行动",
-      "summaryZh": "最近的头条突显了唐纳德·特朗普在军事部署和外交政策方面的决策，特别是他宣布向波兰派遣5000名军队，这引发了对美国在欧洲军事存在的困惑。此外，特朗普还表示有意在卡斯特罗起诉后介入古巴，展示了他在国际事务中的积极参与。这些发展反映了共和党内部关于军事资金和战略的持续讨论。",
-      "articleCount": 3,
-      "articleIndices": [
-        5,
-        28,
-        38
-      ]
-    },
-    {
-      "title": "Trump Family Dynamics and Events",
-      "summary": "The upcoming wedding of Donald Trump Jr. has garnered attention, particularly regarding the potential absence of his father at the event. Trump has indicated that he will 'try' to attend but mentioned that the timing is not ideal due to other commitments. This situation highlights the complexities of family dynamics within the Trump family, especially in the context of public and political life.",
-      "titleZh": "特朗普家族动态和事件",
-      "summaryZh": "唐纳德·特朗普 Jr. 的即将举行的婚礼引起了关注，尤其是他父亲可能缺席这一事件。特朗普表示他会“尝试”出席，但提到由于其他承诺，时机并不理想。这种情况突显了特朗普家族内部复杂的家庭动态，尤其是在公共和政治生活的背景下。",
-      "articleCount": 3,
-      "articleIndices": [
-        3,
-        15,
-        29
-      ]
-    },
-    {
-      "title": "Trump's Controversial Policies and Proposals",
-      "summary": "Trump's recent proposals, including the controversial $1.8 billion 'anti-weaponization' fund, have sparked debate within the Republican Party. Key figures like Mitch McConnell have criticized the fund, calling it 'utterly stupid' and 'morally wrong.' Additionally, Trump's IRS settlement and its implications for tax audits have raised concerns about accountability and governance, reflecting broader discussions about his administration's policies.",
-      "titleZh": "特朗普的争议政策和提案",
-      "summaryZh": "特朗普最近的提案，包括有争议的18亿美元“反武器化”基金，引发了共和党内部的辩论。米奇·麦康奈尔等关键人物批评该基金，称其“完全愚蠢”和“道德上错误”。此外，特朗普的IRS和解及其对税务审计的影响引发了对问责制和治理的担忧，反映了对他政府政策的更广泛讨论。",
+      "title": "Trump's Family Events and Responsibilities",
+      "summary": "Donald Trump has expressed uncertainty about attending his son Donald Trump Jr.'s wedding due to pressing responsibilities, particularly related to international issues like Iran. This highlights the balancing act he faces between personal and political obligations. The wedding is set to take place on a small island in the Bahamas, and sources indicate that Trump's absence is likely, given the timing.",
+      "titleZh": "特朗普的家庭活动与责任",
+      "summaryZh": "唐纳德·特朗普对是否参加他儿子唐纳德·特朗普 Jr. 的婚礼表示不确定，因为他面临着与国际事务（特别是伊朗）相关的紧迫责任。这突显了他在个人和政治义务之间的平衡。婚礼定于巴哈马的一个小岛上举行，消息人士表示，由于时机问题，特朗普很可能缺席。",
       "articleCount": 3,
       "articleIndices": [
         2,
-        9,
-        34
+        3,
+        16
+      ]
+    },
+    {
+      "title": "Trump's Legislative Challenges and Controversies",
+      "summary": "Recent discussions in Congress have focused on Trump's proposed $1.8 billion fund aimed at addressing perceived weaponization of the government against political opponents. This proposal has sparked significant backlash and has stalled other legislative efforts, including an immigration bill. Additionally, Trump's Iran war powers have been a contentious topic, leading to stalled votes among House Republicans.",
+      "titleZh": "特朗普的立法挑战与争议",
+      "summaryZh": "国会最近的讨论集中在特朗普提议的18亿美元基金上，该基金旨在应对政府对政治对手的武器化的看法。该提案引发了重大反对，并阻碍了其他立法努力，包括移民法案。此外，特朗普的伊朗战争权力也是一个有争议的话题，导致众议院共和党人投票受阻。",
+      "articleCount": 3,
+      "articleIndices": [
+        4,
+        8,
+        31
+      ]
+    },
+    {
+      "title": "Trump's International Military Decisions",
+      "summary": "Trump's recent announcement regarding the deployment of an additional 5,000 troops to Poland has raised eyebrows and surprised Pentagon officials. This move reflects his ongoing focus on military readiness and international relations, particularly in response to tensions in Eastern Europe. The decision has implications for U.S. foreign policy and military strategy in the region.",
+      "titleZh": "特朗普的国际军事决策",
+      "summaryZh": "特朗普最近宣布向波兰增派5000名士兵的决定引起了关注，并让五角大楼官员感到惊讶。这一举措反映了他对军事准备和国际关系的持续关注，特别是针对东欧的紧张局势。该决定对美国的外交政策和该地区的军事战略具有重要影响。",
+      "articleCount": 2,
+      "articleIndices": [
+        28,
+        38
       ]
     }
   ],
@@ -71,8 +67,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T23:19:57.155Z",
       "text": "I love the Great State of South Carolina, won every one of my Races there by a landslide, and only want the BEST representing you in Elected Office!There’s this RINO Candidate in the Palmetto State named David Pascoe, a lifelong Democrat who previously endorsed Crooked Joe Biden for President, and served as a Biden Co-Chair in South Carolina, who is running in the Republican Primary to be your next Attorney General — Pascoe is a total fraud and phony, and is no friend of our incredible Movement to, MAKE SOUTH CAROLINA, AND AMERICA, GREAT AGAIN!To our amazing South Carolina MAGA Patriots: Please make sure to get out and vote AGAINST “RINO” David Pascoe in the June Republican Primary for Attorney General, and make sure he never holds Elected Office again. THANK YOU SOUTH CAROLINA — MAGA2026!",
-      "likes": "3989",
-      "reposts": "1207",
+      "likes": "4577",
+      "reposts": "1394",
       "url": "https://truthsocial.com/@realDonaldTrump/116615125212867437",
       "id": "116615125212867437",
       "isReal": true,
@@ -82,8 +78,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T22:55:33.541Z",
       "text": "It is my Great Honor to endorse MAGA Warrior, Kenny Cody, who is running to represent the fantastic people of Tennessee’s 11th State House District.A very successful School Teacher, Civic Leader, Conservative Journalist and Activist, Kenny has dedicated his life to serving his Community. In the State House, he will fight tirelessly to Promote East Tennessee’s “Mountain Values,” Grow the Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Champion American Energy DOMINANCE, Stop Migrant Crime, Strengthen our Military/Veterans, Promote School Choice, Safeguard our Elections, and Defend our always under siege Second Amendment.Kenny Cody has my Complete and Total Endorsement to be the next State Representative from Tennessee’s 11th House District – HE WILL NEVER LET YOU DOWN!",
-      "likes": "3912",
-      "reposts": "923",
+      "likes": "4282",
+      "reposts": "1018",
       "url": "https://truthsocial.com/@realDonaldTrump/116615029293475348",
       "id": "116615029293475348",
       "isReal": true,
@@ -93,8 +89,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T22:53:57.133Z",
       "text": "Big Vote today (48-1!) in the Energy and Commerce Committee on a Bill including The Sunshine Protection Act, which will be making Daylight Saving Time Permanent! This is so important in that Hundreds of Millions of Dollars are spent every year by people, Cities, and States, being forced to change their Clocks. Many of these Clocks are located in Towers, and the cost of renting, or using, Heavy Equipment to do this twice a year is prohibitive! The House will be attaching The Sunshine Protection Act to “The Highway Bill.” Great work by Troy Nehls, and all of the Members who voted, as well, for Railway Safety. I am going to work very hard to see The Sunshine Protection Act signed into Law. It’s time that people can stop worrying about the “Clock,” not to mention all of the work and money that is spent on this ridiculous, twice yearly production. It will also be a very nice WIN for the Republican Party. Take it! We are going with the far more popular alternative, Saving Daylight, which gives you a longer, brighter Day — And who can be against that — This is an easy one! Thank you to everyone who supported this important Bill, and especially Chairman Brett Guthrie and Vern Buchanan. President DONALD J. TRUMP",
-      "likes": "4977",
-      "reposts": "1380",
+      "likes": "5426",
+      "reposts": "1509",
       "url": "https://truthsocial.com/@realDonaldTrump/116615022975327653",
       "id": "116615022975327653",
       "isReal": true,
@@ -104,8 +100,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T22:33:28.295Z",
       "text": "It is my Great Honor to endorse America First Patriot, Derek Merrin, who is running to represent the wonderful people of Ohio’s 9th Congressional District!Derek is running against a Radical Left Democrat, and Career Politician, named Marcy Kaptur, who tried to raise Taxes by over $4 Trillion Dollars, and voted against ALL of our Tax Cuts, including NO TAX ON TIPS, NO TAX ON SOCIAL SECURITY, and NO TAX ON OVERTIME. Marcy Kaptur wants to abolish our Borders, stop deporting Criminal Illegal Aliens, and supports dangerous “Soft on Crime” Policies like cashless bail that let repeat Violent Criminals roam free on our streets. She voted to allow Men in Women’s Sports, is in favor of the transgender mutilization of children, and voted AGAINST Voter I.D., but in favor of allowing Illegal Aliens to vote in our Sacred Elections. She is Reckless, Radical, and Dangerous!In contrast, as a Highly Successful State Legislator, Waterville City Councilman, and Civic Leader, prior to running for U.S. Congress, Derek Merrin has dedicated his life to serving his Community. As your next Congressman, he will fight hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Brave Military/Veterans, Ensure PEACE THROUGH STRENGTH, and Defend our always under siege Second Amendment.Derek Merrin has my Complete and Total Endorsement to be the next Representative from Ohio’s 9th Congressional District – HE WILL NEVER LET YOU DOWN!",
-      "likes": "4280",
-      "reposts": "1069",
+      "likes": "4548",
+      "reposts": "1137",
       "url": "https://truthsocial.com/@realDonaldTrump/116614942442210781",
       "id": "116614942442210781",
       "isReal": true,
@@ -115,8 +111,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T20:32:44.290Z",
       "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116614466038746454",
-      "likes": "10277",
-      "reposts": "2438",
+      "likes": "10498",
+      "reposts": "2488",
       "url": "https://truthsocial.com/@realDonaldTrump/116614467701219214",
       "id": "116614467701219214",
       "isReal": true,
@@ -132,8 +128,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T20:32:18.923Z",
       "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116614465342502635",
-      "likes": "10050",
-      "reposts": "2268",
+      "likes": "10267",
+      "reposts": "2316",
       "url": "https://truthsocial.com/@realDonaldTrump/116614466038746454",
       "id": "116614466038746454",
       "isReal": true,
@@ -149,8 +145,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T20:28:33.518Z",
       "text": "Watch for the Christopher Columbus Memorial Circle Fountain, by Union Station, opening soon! President DONALD J. TRUMP",
-      "likes": "9699",
-      "reposts": "2064",
+      "likes": "9897",
+      "reposts": "2107",
       "url": "https://truthsocial.com/@realDonaldTrump/116614451266681529",
       "id": "116614451266681529",
       "isReal": true,
@@ -160,8 +156,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T20:26:22.712Z",
       "text": "Based on the successful Election of the now President of Poland, Karol Nawrocki, who I was proud to Endorse, and our relationship with him, I am pleased to announce that the United States will be sending an additional 5,000 Troops to Poland. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "likes": "22857",
-      "reposts": "4202",
+      "likes": "23156",
+      "reposts": "4264",
       "url": "https://truthsocial.com/@realDonaldTrump/116614442694237946",
       "id": "116614442694237946",
       "isReal": true,
@@ -171,8 +167,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T18:34:05.094Z",
       "text": "Thank you to the great Troy Nehls for fighting for the Citizens of East Palestine, Railway Safety, and my Agenda. I am calling on Transportation Committee Republicans to support his Railway Safety Act Amendment, which is going to be voted on very soon. I have supported the Bill since 2023, and we need to get it done! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "likes": "11945",
-      "reposts": "2725",
+      "likes": "12069",
+      "reposts": "2747",
       "url": "https://truthsocial.com/@realDonaldTrump/116614001137695379",
       "id": "116614001137695379",
       "isReal": true,
@@ -182,8 +178,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T18:23:19.675Z",
       "text": "It was a great time and success in Georgia on Tuesday night where Geoff Duncan, a failed Lieutenant Governor, and Disgrace to the Republican Party, ran for Governor, as a Democrat, and lost BIG — A solid 50 points! He wasn’t even close, and is now, I assume, officially out of Politics. He has now failed in two Parties. This guy was a LOSER from the first day I met him and now, we can call that official! President DONALD J. TRUMP",
-      "likes": "22616",
-      "reposts": "4418",
+      "likes": "22768",
+      "reposts": "4444",
       "url": "https://truthsocial.com/@realDonaldTrump/116613958839456698",
       "id": "116613958839456698",
       "isReal": true,
@@ -204,8 +200,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T12:49:04.148Z",
       "text": "https://nypost.com/2026/05/01/opinion/heres-how-to-crush-tehran-in-three-moves/",
-      "likes": "9837",
-      "reposts": "2628",
+      "likes": "9883",
+      "reposts": "2641",
       "url": "https://truthsocial.com/@realDonaldTrump/116612644478185135",
       "id": "116612644478185135",
       "isReal": true,
@@ -215,8 +211,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T03:13:53.896Z",
       "text": "Fiscal burden of illegal aliens gradually disappearing due to Trump admin: https://justthenews.com/government/white-house/fiscal-burden-illegal-aliens-gradually-disappearing-thanks-trump-admin",
-      "likes": "21628",
-      "reposts": "5498",
+      "likes": "21673",
+      "reposts": "5506",
       "url": "https://truthsocial.com/@realDonaldTrump/116610382814275079",
       "id": "116610382814275079",
       "isReal": true,
@@ -226,8 +222,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T03:09:41.321Z",
       "text": "Deranged Jack Smith and his “gang” are really bad news. Can never be allowed to happen again. They should all be prosecuted!https://justthenews.com/government/courts-law/pro-dei-prosecutor-charged-over-illegally-emailing-herself-jack-smiths-sealed",
-      "likes": "18676",
-      "reposts": "5236",
+      "likes": "18726",
+      "reposts": "5250",
       "url": "https://truthsocial.com/@realDonaldTrump/116610366261498296",
       "id": "116610366261498296",
       "isReal": true,
@@ -237,8 +233,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T02:21:48.136Z",
       "text": "Akio Toyoda goes full MAGA in star-spangled, BBQ-slathered, F-150-truckin’, NASCAR-styled charm offensive: https://www.autonews.com/toyota/an-toyota-akio-toyoda-maga-nascar-trump-japan-tariff-1116/",
-      "likes": "16874",
-      "reposts": "3701",
+      "likes": "16910",
+      "reposts": "3709",
       "url": "https://truthsocial.com/@realDonaldTrump/116610177964428920",
       "id": "116610177964428920",
       "isReal": true,
@@ -248,8 +244,8 @@
       "platform": "Truth Social",
       "date": "2026-05-20T22:55:40.918Z",
       "text": "Trump Says Ballroom Roof Will Host ‘Drone Empire’ to Defend D.C.https://thenationalpulse.com/2026/05/19/trump-says-ballroom-roof-will-host-drone-empire-to-defend-d-c/",
-      "likes": "19707",
-      "reposts": "4513",
+      "likes": "19735",
+      "reposts": "4521",
       "url": "https://truthsocial.com/@realDonaldTrump/116609367468774814",
       "id": "116609367468774814",
       "isReal": true,
@@ -259,74 +255,40 @@
       "platform": "Truth Social",
       "date": "2026-05-20T22:43:47.511Z",
       "text": "‘A GIFT TO AMERICA’: Trump Says New Ballroom Will Protect Presidents For Generations: https://hannity.com/media-room/a-gift-to-america-trump-says-new-ballroom-will-protect-presidents-for-generations-watch/",
-      "likes": "19424",
-      "reposts": "4122",
+      "likes": "19452",
+      "reposts": "4130",
       "url": "https://truthsocial.com/@realDonaldTrump/116609320715181442",
       "id": "116609320715181442",
       "isReal": true,
       "mediaAttachments": []
     }
   ],
-  "trends": [
-    {
-      "title": "nicki minaj",
-      "traffic": "1000+",
-      "pubDate": "Thu, 21 May 2026 16:20:00 -0700",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZZ0Kg_xPTu2CL5gZUdK8FL-w6lhgwiz2JITL5XgDZLHJueSlhzPIeub3MtRA",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZZ0Kg_xPTu2CL5gZUdK8FL-w6lhgwiz2JITL5XgDZLHJueSlhzPIeub3MtRA",
-      "newsItems": [
-        {
-          "title": "How Nicki Minaj Became Trump’s ‘No. 1 Fan’",
-          "url": "https://www.wsj.com/politics/elections/nicki-minaj-trump-fan-d27d189c",
-          "source": "WSJ",
-          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZZ0Kg_xPTu2CL5gZUdK8FL-w6lhgwiz2JITL5XgDZLHJueSlhzPIeub3MtRA",
-          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZZ0Kg_xPTu2CL5gZUdK8FL-w6lhgwiz2JITL5XgDZLHJueSlhzPIeub3MtRA"
-        },
-        {
-          "title": "How Nicki Minaj Went MAGA",
-          "url": "https://time.com/article/2026/05/14/nicki-minaj-trump/",
-          "source": "Time Magazine",
-          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAMcEmUnBuN88aOmAYOtuRtylPquSH0xwK7oEzrIKGH6R-urCKzYBWORKod2k",
-          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAMcEmUnBuN88aOmAYOtuRtylPquSH0xwK7oEzrIKGH6R-urCKzYBWORKod2k"
-        },
-        {
-          "title": "From M.I.A. and Nicki Minaj to Snoop Dogg and Lil Wayne: What’s behind rappers’ support for Trump",
-          "url": "https://english.elpais.com/culture/2026-05-19/from-mia-and-nicki-minaj-to-snoop-dogg-and-lil-wayne-whats-behind-rappers-support-for-trump.html",
-          "source": "EL PAÍS English",
-          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4EqTKecjYVuHAsN3rLfLXIQRvuA0--z78NtTGD8MuKKKzf1e1Cx8Um2rIos0",
-          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4EqTKecjYVuHAsN3rLfLXIQRvuA0--z78NtTGD8MuKKKzf1e1Cx8Um2rIos0"
-        }
-      ]
-    }
-  ],
-  "trendCount": 1,
+  "trends": [],
+  "trendCount": 0,
   "sources": [
+    {
+      "title": "Trump Live Updates: House Pulls Iran War Powers Vote - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvVmI4TVlpOF93aVFzQm9HV0Z5VVZLM2hnbUZlVDRWMXRMNWJSUEpYYTdGUTFJUV9BYm5iZkZ4NkppMUdtSXZlWFFwQ1hCa0lhWnlZSXhJQXFNbDB1dVBaczFVUQ?oc=5",
+      "source": "The New York Times",
+      "date": "Fri, 22 May 2026 00:09:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T00:20:26.744Z"
+    },
+    {
+      "title": "Women’s Museum Bill Sinks Amid Dispute Over Trump and Trans Issues - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0NkTkJSWDlaeUw1d2RjM1cyVmhNek9BZEF3eUhKY3RidWJKMzJFSzZncWxwM2x2TFZkVklOeG9mLW5qM1JzZUpoX1VFVGRSckhqZzNqdk1ON2ZQMlQyMnhxZkRDZXNESE9fbmdEUFV4NUFmNUk3VjNXMi03R3lwSXRsMEZHdEFUUGlQdFpzcHVmSkY2YWprSURZSW01WUJaZ0k4ZFc4ZVhYVFdmMTVoYjUzRHJ0ODlq?oc=5",
+      "source": "The New York Times",
+      "date": "Fri, 22 May 2026 00:03:20 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T00:20:26.744Z"
+    },
     {
       "title": "Donald Trump Jr.’s wedding will be on a small island in the Bahamas — without his father present, sources say - CNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFd4dGlHTHZSaUNTS1FES3NyQ1Nac1lTOVdieGdkZHU1bkxxVDV3bUdhVTVXcHRvM19XSmpaNGdLVEk0ZUVOY1FQVFJVRW5WYk5tN1ZsaWctVnZiZFc2R091cG5sR092V1l6UjYyeUdwTVhURGRoNFZpWDVXOElOU2xlUlp3cGs?oc=5",
       "source": "CNN",
       "date": "Fri, 22 May 2026 00:02:00 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-22T00:09:40.347Z"
-    },
-    {
-      "title": "Trump Live Updates: House Pulls Iran War Powers Vote - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvVmI4TVlpOF93aVFzQm9HV0Z5VVZLM2hnbUZlVDRWMXRMNWJSUEpYYTdGUTFJUV9BYm5iZkZ4NkppMUdtSXZlWFFwQ1hCa0lhWnlZSXhJQXFNbDB1dVBaczFVUQ?oc=5",
-      "source": "The New York Times",
-      "date": "Thu, 21 May 2026 23:22:37 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-22T00:09:40.347Z"
-    },
-    {
-      "title": "How Nicki Minaj Became Trump’s ‘No. 1 Fan’",
-      "url": "https://www.wsj.com/politics/elections/nicki-minaj-trump-fan-d27d189c",
-      "source": "WSJ",
-      "date": "Thu, 21 May 2026 16:20:00 -0700",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZZ0Kg_xPTu2CL5gZUdK8FL-w6lhgwiz2JITL5XgDZLHJueSlhzPIeub3MtRA",
-      "isTrend": true,
-      "trendTitle": "nicki minaj",
-      "trendTraffic": "1000+",
-      "fetchedAt": "2026-05-22T00:09:40.347Z"
+      "fetchedAt": "2026-05-22T00:20:26.744Z"
     }
   ]
 }
