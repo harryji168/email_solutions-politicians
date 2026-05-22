@@ -1,61 +1,31 @@
 [
   {
-    "title": "jon stewart",
+    "title": "benzine",
     "traffic": "500+",
-    "pubDate": "Thu, 21 May 2026 21:40:00 -0700",
-    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw",
-    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw",
+    "pubDate": "Fri, 22 May 2026 07:40:00 -0700",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfXyrT9aTBp3QBNI7l0MrhfZMUjhSB9_zZY6reRX8iNpcgO0oMbk8MWPUJUA8",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfXyrT9aTBp3QBNI7l0MrhfZMUjhSB9_zZY6reRX8iNpcgO0oMbk8MWPUJUA8",
     "newsItems": [
       {
-        "title": "Jon Stewart Asks What ‘Daddy’ Brought Back From China",
-        "url": "https://www.nytimes.com/2026/05/19/arts/television/jon-stewart-trump-china.html",
-        "source": "The New York Times",
-        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw",
-        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw"
+        "title": "The regional differences in gasoline prices this Memorial Day",
+        "url": "https://www.eia.gov/todayinenergy/detail.php?id=67706",
+        "source": "U.S. Energy Information Administration (EIA) (.gov)",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfXyrT9aTBp3QBNI7l0MrhfZMUjhSB9_zZY6reRX8iNpcgO0oMbk8MWPUJUA8",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfXyrT9aTBp3QBNI7l0MrhfZMUjhSB9_zZY6reRX8iNpcgO0oMbk8MWPUJUA8"
       },
       {
-        "title": "Jon Stewart on Trump’s visit with Xi: ‘All you came back with was his Instagram?’",
-        "url": "https://www.theguardian.com/culture/2026/may/19/jon-stewart-trump-china-visit",
-        "source": "The Guardian",
-        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPlKsldjukC8jplsA0dsQJkGZceBqOtFdrcLGt9YkzwO6iRQVma7Kp8wfPjkQ",
-        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPlKsldjukC8jplsA0dsQJkGZceBqOtFdrcLGt9YkzwO6iRQVma7Kp8wfPjkQ"
-      },
-      {
-        "title": "Jon Stewart Rips into Trump: ‘How the F*** Is This Guy President?’",
-        "url": "https://www.thedailybeast.com/jon-stewart-rips-into-trump-how-the-f-is-this-guy-president/",
-        "source": "The Daily Beast",
-        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZepPAUVZVAYfeCzOfNSXIbe7LRvTjrXD7entOfrISHf7AA2XkW4EubKAD84c",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZepPAUVZVAYfeCzOfNSXIbe7LRvTjrXD7entOfrISHf7AA2XkW4EubKAD84c"
-      }
-    ]
-  },
-  {
-    "title": "john stewart",
-    "traffic": "200+",
-    "pubDate": "Thu, 21 May 2026 21:40:00 -0700",
-    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMEZtNEKlCxPkW4K-RF3t_Jw7u2DB-67n1SMgnbMZnIpr_izriXZj1s2WM-Go",
-    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMEZtNEKlCxPkW4K-RF3t_Jw7u2DB-67n1SMgnbMZnIpr_izriXZj1s2WM-Go",
-    "newsItems": [
-      {
-        "title": "Jon Stewart skewers CBS in Stephen Colbert reunion on &apos;The Late Show&apos;",
-        "url": "https://www.usatoday.com/story/entertainment/tv/2026/05/20/stephen-colbert-late-show-jon-stewart-cbs/90173398007/",
-        "source": "USA Today",
-        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMEZtNEKlCxPkW4K-RF3t_Jw7u2DB-67n1SMgnbMZnIpr_izriXZj1s2WM-Go",
-        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMEZtNEKlCxPkW4K-RF3t_Jw7u2DB-67n1SMgnbMZnIpr_izriXZj1s2WM-Go"
-      },
-      {
-        "title": "Jon Stewart Surprises Stephen Colbert With a Recliner and Guest Performer in Final ‘Late Show’ Appearance",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/jon-stewart-late-show-stephen-colbert-recliner-andra-day-1236602124/",
-        "source": "The Hollywood Reporter",
-        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kCbYoVvKjrxMddbxmJuAYb6sVQ5hfr7ONWneAbjXGpjyJVldTyzVsN1ycSQ",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kCbYoVvKjrxMddbxmJuAYb6sVQ5hfr7ONWneAbjXGpjyJVldTyzVsN1ycSQ"
-      },
-      {
-        "title": "Jon Stewart downplays late-night bias, insists Trump obsession is just a &apos;portion&apos; of Colbert&apos;s &apos;joy machine&apos;",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/jon-stewart-downplays-night-bias-180400082.html",
+        "title": "Opinion - Gas prices spike to historic levels as Trump’s Iran war keeps going",
+        "url": "https://www.yahoo.com/news/politics/articles/opinion-gas-prices-spike-historic-175839267.html",
         "source": "Yahoo",
-        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7_z6v5Kd-HAEkIzUM3LG2zEw_SmBBgz7JciqhF6iKqxIwc2hYOhrKocrktUI",
-        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7_z6v5Kd-HAEkIzUM3LG2zEw_SmBBgz7JciqhF6iKqxIwc2hYOhrKocrktUI"
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7NhfrrKw2-sOsZ9xFl1Syg_FQsfAcKOqqzC-8qoR_wjg_2te4bbnj_4ga6cs",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7NhfrrKw2-sOsZ9xFl1Syg_FQsfAcKOqqzC-8qoR_wjg_2te4bbnj_4ga6cs"
+      },
+      {
+        "title": "Why Texas gas prices today are lower than other states",
+        "url": "https://www.usatoday.com/story/money/2026/05/21/texas-gas-prices-today-are-lower-than-national-average/90193020007/",
+        "source": "USA Today",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYxI6h7MKpUHKRkJXblZr1e497LwWK5yKiu4G_5CsMoDgoEcDFKv_7KdM5Vk",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYxI6h7MKpUHKRkJXblZr1e497LwWK5yKiu4G_5CsMoDgoEcDFKv_7KdM5Vk"
       }
     ]
   }
