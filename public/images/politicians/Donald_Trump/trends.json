@@ -1,31 +1,61 @@
 [
   {
-    "title": "amy sedaris",
-    "traffic": "1000+",
-    "pubDate": "Thu, 21 May 2026 20:30:00 -0700",
-    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjjBeye0A8pZEq2mdVrHYNZYsD09WIkjYOW7b3WltZMJSYDIQ6EV-QWu16l44",
-    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjjBeye0A8pZEq2mdVrHYNZYsD09WIkjYOW7b3WltZMJSYDIQ6EV-QWu16l44",
+    "title": "john stewart",
+    "traffic": "200+",
+    "pubDate": "Thu, 21 May 2026 21:40:00 -0700",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMEZtNEKlCxPkW4K-RF3t_Jw7u2DB-67n1SMgnbMZnIpr_izriXZj1s2WM-Go",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMEZtNEKlCxPkW4K-RF3t_Jw7u2DB-67n1SMgnbMZnIpr_izriXZj1s2WM-Go",
     "newsItems": [
       {
-        "title": "White House fires back after Robert De Niro, Bruce Springsteen take Trump swipes amid Colbert&apos;s farewell week",
-        "url": "https://www.foxnews.com/entertainment/white-house-fires-back-robert-de-niro-bruce-springsteen-take-trump-swipes-amid-colberts-farewell-week",
-        "source": "Fox News",
-        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjjBeye0A8pZEq2mdVrHYNZYsD09WIkjYOW7b3WltZMJSYDIQ6EV-QWu16l44",
-        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjjBeye0A8pZEq2mdVrHYNZYsD09WIkjYOW7b3WltZMJSYDIQ6EV-QWu16l44"
-      },
-      {
-        "title": "Major stars surprise on Stephen Colbert&apos;s penultimate &apos;Late Show&apos;",
-        "url": "https://www.usatoday.com/story/entertainment/tv/2026/05/21/stephen-colbert-late-show-celebrity-cameos-questionnaire/90193212007/",
+        "title": "Jon Stewart skewers CBS in Stephen Colbert reunion on &apos;The Late Show&apos;",
+        "url": "https://www.usatoday.com/story/entertainment/tv/2026/05/20/stephen-colbert-late-show-jon-stewart-cbs/90173398007/",
         "source": "USA Today",
-        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlXQ0sbWL6SZTYIOxFIGrFfGxmEBXKBCZo13sULb8mM_voAemL6apVDAG31zI",
-        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlXQ0sbWL6SZTYIOxFIGrFfGxmEBXKBCZo13sULb8mM_voAemL6apVDAG31zI"
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMEZtNEKlCxPkW4K-RF3t_Jw7u2DB-67n1SMgnbMZnIpr_izriXZj1s2WM-Go",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMEZtNEKlCxPkW4K-RF3t_Jw7u2DB-67n1SMgnbMZnIpr_izriXZj1s2WM-Go"
       },
       {
-        "title": "Pregnant Aubrey Plaza to ‘Late Show’ host Stephen Colbert: ‘My water broke backstage’",
-        "url": "https://www.sfchronicle.com/entertainment/movies-tv/article/aubrey-plaza-colbert-pregnant-22270631.php",
-        "source": "San Francisco Chronicle",
-        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4gmyKZq2SO2Pw3nG7albIxvMTwnspkYrfnlS05Mm3lR_0epSZc3HNWAxJHto",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4gmyKZq2SO2Pw3nG7albIxvMTwnspkYrfnlS05Mm3lR_0epSZc3HNWAxJHto"
+        "title": "Jon Stewart Surprises Stephen Colbert With a Recliner and Guest Performer in Final ‘Late Show’ Appearance",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/jon-stewart-late-show-stephen-colbert-recliner-andra-day-1236602124/",
+        "source": "The Hollywood Reporter",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kCbYoVvKjrxMddbxmJuAYb6sVQ5hfr7ONWneAbjXGpjyJVldTyzVsN1ycSQ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kCbYoVvKjrxMddbxmJuAYb6sVQ5hfr7ONWneAbjXGpjyJVldTyzVsN1ycSQ"
+      },
+      {
+        "title": "Jon Stewart downplays late-night bias, insists Trump obsession is just a &apos;portion&apos; of Colbert&apos;s &apos;joy machine&apos;",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/jon-stewart-downplays-night-bias-180400082.html",
+        "source": "Yahoo",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7_z6v5Kd-HAEkIzUM3LG2zEw_SmBBgz7JciqhF6iKqxIwc2hYOhrKocrktUI",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7_z6v5Kd-HAEkIzUM3LG2zEw_SmBBgz7JciqhF6iKqxIwc2hYOhrKocrktUI"
+      }
+    ]
+  },
+  {
+    "title": "house pulls vote",
+    "traffic": "2000+",
+    "pubDate": "Thu, 21 May 2026 21:30:00 -0700",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ",
+    "newsItems": [
+      {
+        "title": "GOP Pulls Measure on Trump’s War Powers in Iran, Lacking Votes to Defeat It",
+        "url": "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html",
+        "source": "The New York Times",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ"
+      },
+      {
+        "title": "House Republicans pull vote on Iran war resolution that appeared to have enough support to pass",
+        "url": "https://www.cbsnews.com/news/house-gop-pulls-iran-war-resolution-vote/",
+        "source": "CBS News",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzzz06wZkbNbzSBE19N464CEr7RLsVIfdFa251eHbKpuUZQs7y5kyVD3vJzqs",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzzz06wZkbNbzSBE19N464CEr7RLsVIfdFa251eHbKpuUZQs7y5kyVD3vJzqs"
+      },
+      {
+        "title": "GOP leaders abruptly cancel House vote on Iran war powers, shielding Trump from rebuke",
+        "url": "https://www.cnn.com/2026/05/21/politics/house-trump-iran-war-powers",
+        "source": "CNN",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIZ4_egRAlY2O1zHdfsZTFR2vLmLbvvjzqoyj7cZVxXuXDyrqLh13Kynwnijw",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIZ4_egRAlY2O1zHdfsZTFR2vLmLbvvjzqoyj7cZVxXuXDyrqLh13Kynwnijw"
       }
     ]
   }
