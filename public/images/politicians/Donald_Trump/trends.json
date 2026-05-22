@@ -1,5 +1,35 @@
 [
   {
+    "title": "jon stewart",
+    "traffic": "500+",
+    "pubDate": "Thu, 21 May 2026 21:40:00 -0700",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw",
+    "newsItems": [
+      {
+        "title": "Jon Stewart Asks What ‘Daddy’ Brought Back From China",
+        "url": "https://www.nytimes.com/2026/05/19/arts/television/jon-stewart-trump-china.html",
+        "source": "The New York Times",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw"
+      },
+      {
+        "title": "Jon Stewart on Trump’s visit with Xi: ‘All you came back with was his Instagram?’",
+        "url": "https://www.theguardian.com/culture/2026/may/19/jon-stewart-trump-china-visit",
+        "source": "The Guardian",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPlKsldjukC8jplsA0dsQJkGZceBqOtFdrcLGt9YkzwO6iRQVma7Kp8wfPjkQ",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPlKsldjukC8jplsA0dsQJkGZceBqOtFdrcLGt9YkzwO6iRQVma7Kp8wfPjkQ"
+      },
+      {
+        "title": "Jon Stewart Rips into Trump: ‘How the F*** Is This Guy President?’",
+        "url": "https://www.thedailybeast.com/jon-stewart-rips-into-trump-how-the-f-is-this-guy-president/",
+        "source": "The Daily Beast",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZepPAUVZVAYfeCzOfNSXIbe7LRvTjrXD7entOfrISHf7AA2XkW4EubKAD84c",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZepPAUVZVAYfeCzOfNSXIbe7LRvTjrXD7entOfrISHf7AA2XkW4EubKAD84c"
+      }
+    ]
+  },
+  {
     "title": "john stewart",
     "traffic": "200+",
     "pubDate": "Thu, 21 May 2026 21:40:00 -0700",
@@ -26,36 +56,6 @@
         "source": "Yahoo",
         "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7_z6v5Kd-HAEkIzUM3LG2zEw_SmBBgz7JciqhF6iKqxIwc2hYOhrKocrktUI",
         "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7_z6v5Kd-HAEkIzUM3LG2zEw_SmBBgz7JciqhF6iKqxIwc2hYOhrKocrktUI"
-      }
-    ]
-  },
-  {
-    "title": "house pulls vote",
-    "traffic": "2000+",
-    "pubDate": "Thu, 21 May 2026 21:30:00 -0700",
-    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ",
-    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ",
-    "newsItems": [
-      {
-        "title": "GOP Pulls Measure on Trump’s War Powers in Iran, Lacking Votes to Defeat It",
-        "url": "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html",
-        "source": "The New York Times",
-        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ",
-        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ"
-      },
-      {
-        "title": "House Republicans pull vote on Iran war resolution that appeared to have enough support to pass",
-        "url": "https://www.cbsnews.com/news/house-gop-pulls-iran-war-resolution-vote/",
-        "source": "CBS News",
-        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzzz06wZkbNbzSBE19N464CEr7RLsVIfdFa251eHbKpuUZQs7y5kyVD3vJzqs",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzzz06wZkbNbzSBE19N464CEr7RLsVIfdFa251eHbKpuUZQs7y5kyVD3vJzqs"
-      },
-      {
-        "title": "GOP leaders abruptly cancel House vote on Iran war powers, shielding Trump from rebuke",
-        "url": "https://www.cnn.com/2026/05/21/politics/house-trump-iran-war-powers",
-        "source": "CNN",
-        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIZ4_egRAlY2O1zHdfsZTFR2vLmLbvvjzqoyj7cZVxXuXDyrqLh13Kynwnijw",
-        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIZ4_egRAlY2O1zHdfsZTFR2vLmLbvvjzqoyj7cZVxXuXDyrqLh13Kynwnijw"
       }
     ]
   }

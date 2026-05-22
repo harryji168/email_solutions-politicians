@@ -1,6 +1,69 @@
 {
   "posts": [
     {
+      "title": "Trump says he’s sending 5,000 troops to Poland, deepening confusion over US military deployments to Europe - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnhPZktuMnhwV0tkZmRDbi1iMWhjSDBTbW1nMG1IYXh2bUdqZTFyWWY0NkN1bFlwdWE4UzVNWkQwOGgwTHBhQTJoRXUzYkh2dzJRY1lSb081NHZHR1JoWWpwVTFtTE1USmpsWmEyNWZMQ0l6M3JkUGxzNGROZ0FJNExn?oc=5",
+      "source": "CNN",
+      "date": "Fri, 22 May 2026 05:30:42 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "特朗普表示他将向波兰派遣5000名军队，加深了对美国在欧洲军事部署的困惑 - CNN"
+    },
+    {
+      "title": "Rubio doubtful of diplomacy with Cuba as Trump raises new threat of military action - NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQi16bFVqMjFFRUpRd1B1VXlZYks5c081bVdfSWlYZGVreFZYOW54d2JqRXcxWm5TbW9BRVVhWWY1T3YwSElTdGM5N3VsM1Rucko4Wmt4NW0zT25lWGNJUWtvbXhTVThIQXdyeXAweGRFWDAta1hZZzNnd3Awa09yMVYtZFkxcUVOREE1alpQWXI?oc=5",
+      "source": "NPR",
+      "date": "Fri, 22 May 2026 05:23:02 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "鲁比奥对与古巴的外交表示怀疑，特朗普提出新的军事行动威胁 - NPR"
+    },
+    {
+      "title": "Pressure from Silicon Valley helped block Trump’s expected order on AI - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRnFnZl9EWVhlODg4LTA5eWFkcElzSW05azNwaV9PWGhwQ3I5VzJoYkdEZjBmMnBqaXRNR1c4ZEVCUzN6UEZOazB1RTNQMS1PMnc4Q1NsUVotdHZSSDFVVE5JdW02VHZiM1A4SWEzSERQcGpZa0haMFFjODFxRVVDSThTbVRreGhETi1ya1hWRmx6eUc1WjJNZnQtU0FGeVRaTkU5S3VncmRDdy1MUEVrc3llYUJLOUQ2ZmRNQ3BZYW1FOG8?oc=5",
+      "source": "The Washington Post",
+      "date": "Fri, 22 May 2026 04:41:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "硅谷的压力帮助阻止了特朗普预期中的人工智能命令 - 《华盛顿邮报》"
+    },
+    {
+      "title": "Jon Stewart Asks What ‘Daddy’ Brought Back From China",
+      "url": "https://www.nytimes.com/2026/05/19/arts/television/jon-stewart-trump-china.html",
+      "source": "The New York Times",
+      "date": "Thu, 21 May 2026 21:40:00 -0700",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw",
+      "isTrend": true,
+      "trendTitle": "jon stewart",
+      "trendTraffic": "500+",
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "乔恩·斯图尔特问‘爸爸’从中国带回了什么"
+    },
+    {
+      "title": "Jon Stewart on Trump’s visit with Xi: ‘All you came back with was his Instagram?’",
+      "url": "https://www.theguardian.com/culture/2026/may/19/jon-stewart-trump-china-visit",
+      "source": "The Guardian",
+      "date": "Thu, 21 May 2026 21:40:00 -0700",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPlKsldjukC8jplsA0dsQJkGZceBqOtFdrcLGt9YkzwO6iRQVma7Kp8wfPjkQ",
+      "isTrend": true,
+      "trendTitle": "jon stewart",
+      "trendTraffic": "500+",
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "乔恩·斯图尔特谈特朗普与习的会晤：‘你带回来的只是他的Instagram吗？’"
+    },
+    {
+      "title": "Jon Stewart Rips into Trump: ‘How the F*** Is This Guy President?’",
+      "url": "https://www.thedailybeast.com/jon-stewart-rips-into-trump-how-the-f-is-this-guy-president/",
+      "source": "The Daily Beast",
+      "date": "Thu, 21 May 2026 21:40:00 -0700",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZepPAUVZVAYfeCzOfNSXIbe7LRvTjrXD7entOfrISHf7AA2XkW4EubKAD84c",
+      "isTrend": true,
+      "trendTitle": "jon stewart",
+      "trendTraffic": "500+",
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "乔恩·斯图尔特痛批特朗普：‘这个家伙怎么会当总统？’"
+    },
+    {
       "title": "Jon Stewart skewers CBS in Stephen Colbert reunion on 'The Late Show'",
       "url": "https://www.usatoday.com/story/entertainment/tv/2026/05/20/stephen-colbert-late-show-jon-stewart-cbs/90173398007/",
       "source": "USA Today",
@@ -9,7 +72,8 @@
       "isTrend": true,
       "trendTitle": "john stewart",
       "trendTraffic": "200+",
-      "fetchedAt": "2026-05-22T04:53:07.437Z"
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "乔恩·斯图尔特在《晚间秀》中与斯蒂芬·科尔伯特重聚，讽刺CBS"
     },
     {
       "title": "Jon Stewart Surprises Stephen Colbert With a Recliner and Guest Performer in Final ‘Late Show’ Appearance",
@@ -20,7 +84,8 @@
       "isTrend": true,
       "trendTitle": "john stewart",
       "trendTraffic": "200+",
-      "fetchedAt": "2026-05-22T04:53:07.437Z"
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "乔恩·斯图尔特在最后一次《晚间秀》亮相中给斯蒂芬·科尔伯特带来了一个躺椅和表演嘉宾"
     },
     {
       "title": "Jon Stewart downplays late-night bias, insists Trump obsession is just a 'portion' of Colbert's 'joy machine'",
@@ -31,111 +96,216 @@
       "isTrend": true,
       "trendTitle": "john stewart",
       "trendTraffic": "200+",
-      "fetchedAt": "2026-05-22T04:53:07.437Z"
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "乔恩·斯图尔特淡化深夜节目偏见，坚称对特朗普的痴迷只是科尔伯特‘快乐机器’的一部分"
+    },
+    {
+      "title": "House Republicans pull vote on Iran war resolution that appeared to have enough support to pass - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZbUtPNnI5WGpNOHpwX0t6cTk4U0YtWUl3TGxna2wtaXBtbnhyRWVQMHBidW5PZlRSdi00VEpkcHZiQ1p4dzlDN0M1d0szRGtQZTA4cGJ6bzY0TzctN2ZhaDhmbVp5bGg1TFcxQ2gtaTBRQUZfTEw1cTVn0gF_QVVfeXFMUEJ6dG9fTEFEWFZTcDM2bmFtNmZFRi1vUTBmOEZGd0RLbkpodm1xeGVmaXhGMWpSSm5MUkVNbm9RcTJ5QnVYaUFWMUkxSzU0alJCWld4WW1teVpqMmFuQmRNUi1yVVozQVotc2p2aTRsSnU2UmJLOUJNUGIyT1pSSQ?oc=5",
+      "source": "CBS News",
+      "date": "Fri, 22 May 2026 04:34:50 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "众议院共和党人撤回对伊朗战争决议的投票，该决议似乎有足够的支持通过 - CBS新闻"
+    },
+    {
+      "title": "Trump’s second term is increasingly about one thing: Trump - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNblR6VmxPOGp0U1RTbWVmdms4Z3VqLXB0WUlSNXQycmtZWG9hdlpLZTBKa3Znck02NHlBNWQteEwySzBQalplRU9VN2Z6RDhKRFNpTzhvYkluaVVSdF81X1BmTmcyNzQySUFuc0ZEOXhERTdvYktYeHk0TnBWTGR6a1JQQldRc2Voc00xYjRWZw?oc=5",
+      "source": "CNN",
+      "date": "Fri, 22 May 2026 04:01:08 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z"
+    },
+    {
+      "title": "US to send 5,000 more troops to Poland, Trump says - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzeWZfbXd0ajM4TFlMV3FYR2NzS2t0T1VrRWJiNlhBbXJILWxHbk5xNEx6M0tUaWgwX21vZHpxLXpjUVZnSVNuR0tvOEdybV9SSzZlbDVUZkZtQQ?oc=5",
+      "source": "BBC",
+      "date": "Fri, 22 May 2026 03:25:48 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z"
+    },
+    {
+      "title": "Trump news at a glance: Republicans find their red line against their president: taxpayer money for his ballroom - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFFDR0huWnV0a2t1d2FPbDVZWllQOEZUOUtYbWlpbmNQSzFKNUdOcmpDNHgzdUdod0tVRjhNZmRZVEJjTGhQaFNuMlg3OUFFanV1VlJ2ZHozYmJqMENPTjFmRlY4bndkb0x0SHJEeXdpcXdHZkNpcXItYW01cW5SQjZEaXpsZw?oc=5",
+      "source": "The Guardian",
+      "date": "Fri, 22 May 2026 01:15:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z"
+    },
+    {
+      "title": "Donald J. Trump News - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SWFNpbTdXQ0lyT09RdkkyTlNMaTh1dUh5VkJNMGltRV9xWnVQVkNuMl9COFRwaW9iVGpNM0F2RndYUkRxU3hyZ1FNOE9ienpxWXFhMzUtaw?oc=5",
+      "source": "Rolling Stone",
+      "date": "Fri, 22 May 2026 01:07:25 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "唐纳德·J·特朗普新闻 - 滚石"
+    },
+    {
+      "title": "Audit Immunity for Trump Family Puts I.R.S. in a Bind - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12MHZtNVBxaXVfQU9TWlRuWl9IUnZLQjNsc1JrQzRVSE1iVGlPeFlhU3Jab3ZBZGhmeUEtbHRaZ2xVZjJpa0c4U1F3TjBjM1hMZVFqV2J3bU1VbDZZUmhEWlIwdjl0SUZCUDJQMGxZdFFuRW9FUzNtbGZ0MzQtUQ?oc=5",
+      "source": "The New York Times",
+      "date": "Fri, 22 May 2026 00:54:53 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "特朗普家族的审计豁免让国税局陷入困境 - 《纽约时报》"
+    },
+    {
+      "title": "Donald Trump Jr.’s wedding will be on a small island in the Bahamas — without his father present, sources say - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFd4dGlHTHZSaUNTS1FES3NyQ1Nac1lTOVdieGdkZHU1bkxxVDV3bUdhVTVXcHRvM19XSmpaNGdLVEk0ZUVOY1FQVFJVRW5WYk5tN1ZsaWctVnZiZFc2R091cG5sR092V1l6UjYyeUdwTVhURGRoNFZpWDVXOElOU2xlUlp3cGs?oc=5",
+      "source": "CNN",
+      "date": "Fri, 22 May 2026 00:02:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z"
+    },
+    {
+      "title": "Republicans cancel votes amid fight over Trump’s ‘anti-weaponization’ fund - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTnZEekFoV3F6ZUtlTFVpWW05MndSamt5SVhhd2VSWVYzWDJjRDdxNDY3MFRTVWNBbGhCN1NfYmJLWkgyYnItWDJhLUtXUjlMX1JxWTV3eEN2b2xrNG5QV2tPOWdzTzBuTEtuQnQ3dDJndjdCUWVXM0RGbFNEa1BmOTg4UVhwb28wSmlraTVENFVNWkJEOG50S1o0QTZzRUd5UkpZTlVtTktVTXlLaGNUNjFpMFE?oc=5",
+      "source": "NBC News",
+      "date": "Thu, 21 May 2026 23:57:16 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "共和党人在特朗普的‘反武器化’基金争斗中取消投票 - NBC新闻"
+    },
+    {
+      "title": "Trump says he’ll ‘try’ to attend son’s wedding this weekend but it’s ‘not good timing’ - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWwyOWZzVndLWU96UzJoY0o4aGpnTmVSeEoxb1F3aWdwNFFUN3RRRUZxT1pqcEVHdjZoSG1JZVpGdWNSZlNXN0lzcFNkQWk4N3A2c1ZkcUl0T0lPYy1nR0JkaVlSOXk3QVFPXzJOUEpWd1N1U0lLQWF4cnAwWURMcUZsTnVxQ3pnVnNsQkZIQm9xWThpcEt3UG00bU9ZaDBFT2pGUGVtd3gxZ1lBWEtCSlBRbl9OXzNWSFdR?oc=5",
+      "source": "NBC News",
+      "date": "Thu, 21 May 2026 23:18:59 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z"
+    },
+    {
+      "title": "Senate Republicans break with Trump over 'anti-weaponization fund' concerns - PBS",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0lqSDM5Y0NRZml4MFRkd2FkdzBFU09YM1dUeHdkcWluTFNscVZjRHVqZy1lenN3VmFZekp1eHlZeVhXQlpLaU1uUUU5dnBibFZNSWFBamJITG9XcEJfWTlZUXVmRmpOM3U1Yk9GWXd3bHdHZVJvOGR6T0dTNjF1NkFBaHMycVF3c0VFb21ndEVmeEFQbDAxU0QxcWJHa0d2OEJKRnRDZlM0WU45YjAtX1FR?oc=5",
+      "source": "PBS",
+      "date": "Thu, 21 May 2026 22:55:52 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "参议院共和党人因‘反武器化基金’问题与特朗普分道扬镳 - PBS"
+    },
+    {
+      "title": "News Wrap: Arts commission approves design of Trump's 250-foot arch - PBS",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDhRV2NmSmZRdjZsTDhfR2Z6S0U4ZTNJWXRKQlhRNGVOSGp1alRWc19YRGNpdmFYVE56OTNnYk51aDRZVmQtUXREU2RKMVRWMUUyTm5jcXlJQXQtYklfRjBoMjJGZlRRVXp4aVZqZ2EyZmI1TGhQSTlSTnlWbS01OXotRGV3ZG9IMmJsM3lKYWZNRXZnanhFSEJoX0E3SVNk?oc=5",
+      "source": "PBS",
+      "date": "Thu, 21 May 2026 22:50:38 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z"
     }
   ],
   "topics": [
     {
-      "title": "Trump's Political Endorsements and Campaign Activities",
-      "summary": "Donald Trump has been actively endorsing candidates for various political positions, emphasizing his support for individuals who align with his 'America First' agenda. His endorsements are often accompanied by strong critiques of opposing candidates, highlighting their perceived weaknesses. This theme reflects Trump's ongoing influence within the Republican Party as he seeks to shape its future direction.",
-      "titleZh": "特朗普的政治支持和竞选活动",
-      "summaryZh": "唐纳德·特朗普积极支持各种政治职位的候选人，强调他对与其“美国优先”议程一致的个人的支持。他的支持通常伴随着对对手候选人的强烈批评，突显他们的缺陷。这个主题反映了特朗普在共和党内的持续影响力，因为他寻求塑造党的未来方向。",
-      "articleCount": 5,
+      "title": "Trump's Military and Foreign Policy Actions",
+      "summary": "Recent news highlights Donald Trump's announcement of sending 5,000 troops to Poland, which has raised questions about U.S. military deployments in Europe. Additionally, his comments regarding potential military action in Cuba reflect ongoing tensions and his approach to foreign policy. These developments indicate a focus on strengthening U.S. military presence abroad.",
+      "titleZh": "特朗普的军事与外交政策行动",
+      "summaryZh": "最近的新闻强调了唐纳德·特朗普宣布向波兰派遣5000名军队，这引发了对美国在欧洲军事部署的质疑。此外，他关于可能在古巴采取军事行动的言论反映了持续的紧张局势及其对外交政策的看法。这些发展表明，他专注于加强美国在海外的军事存在。",
+      "articleCount": 3,
       "articleIndices": [
-        2,
+        3,
         4,
+        29
+      ],
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw"
+    },
+    {
+      "title": "Trump's Domestic Political Endorsements",
+      "summary": "Trump has been actively endorsing candidates in various states, including Kenny Cody in Tennessee and Derek Merrin in Ohio. His endorsements emphasize a commitment to conservative values and a push against perceived establishment candidates. This strategy aims to consolidate support within the Republican Party as he prepares for future elections.",
+      "titleZh": "特朗普的国内政治支持",
+      "summaryZh": "特朗普积极支持各州的候选人，包括田纳西州的肯尼·科迪和俄亥俄州的德里克·梅林。他的支持强调了对保守价值观的承诺，并推动反对被视为建制派的候选人。这一策略旨在巩固共和党内的支持，为未来的选举做准备。",
+      "articleCount": 3,
+      "articleIndices": [
+        11,
         12,
-        18,
-        27
+        14
       ],
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kCbYoVvKjrxMddbxmJuAYb6sVQ5hfr7ONWneAbjXGpjyJVldTyzVsN1ycSQ",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kCbYoVvKjrxMddbxmJuAYb6sVQ5hfr7ONWneAbjXGpjyJVldTyzVsN1ycSQ"
+      "thumbnail": "https://www.citizensforethics.org/wp-content/uploads/2025/02/navarro-trump-rudy-V2-1200x630.png",
+      "image": "https://www.citizensforethics.org/wp-content/uploads/2025/02/navarro-trump-rudy-V2-1200x630.png"
     },
     {
-      "title": "Trump's Economic Policies and Legislative Efforts",
-      "summary": "Recent discussions around Trump's economic policies have focused on his proposed legislation, including the Sunshine Protection Act aimed at making Daylight Saving Time permanent. This reflects his ongoing engagement with economic issues and his desire to promote policies that resonate with his base. The implications of these policies are significant as they could impact various sectors and the economy at large.",
-      "titleZh": "特朗普的经济政策和立法努力",
-      "summaryZh": "最近关于特朗普经济政策的讨论集中在他提议的立法上，包括旨在使夏令时永久化的阳光保护法案。这反映了他对经济问题的持续关注，以及他希望推动与其支持者产生共鸣的政策。这些政策的影响是显著的，因为它们可能影响各个行业和整体经济。",
+      "title": "Trump's Social Media Engagement",
+      "summary": "Trump's recent posts on Truth Social reflect his ongoing engagement with supporters and his commentary on various political issues. His statements range from criticizing opponents to discussing legislative matters like the Sunshine Protection Act. This highlights his strategy of maintaining a direct line of communication with his base.",
+      "titleZh": "特朗普的社交媒体互动",
+      "summaryZh": "特朗普最近在Truth Social上的帖子反映了他与支持者的持续互动以及对各种政治问题的评论。他的声明从批评对手到讨论《阳光保护法案》等立法事务不等。这突显了他保持与基础直接沟通的策略。",
       "articleCount": 3,
       "articleIndices": [
-        5,
-        10,
-        20
-      ],
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzzz06wZkbNbzSBE19N464CEr7RLsVIfdFa251eHbKpuUZQs7y5kyVD3vJzqs",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzzz06wZkbNbzSBE19N464CEr7RLsVIfdFa251eHbKpuUZQs7y5kyVD3vJzqs"
-    },
-    {
-      "title": "Trump's Family and Personal Life",
-      "summary": "Trump's personal life continues to attract media attention, particularly regarding family events such as his son Donald Trump Jr.'s upcoming wedding. His comments about family obligations and the timing of events reveal a more personal side of the former president, contrasting with his political persona. This theme highlights the intersection of his personal and public life.",
-      "titleZh": "特朗普的家庭和个人生活",
-      "summaryZh": "特朗普的个人生活继续吸引媒体的关注，特别是关于家庭活动，如他的儿子唐纳德·特朗普 Jr. 即将举行的婚礼。他对家庭责任和事件时机的评论揭示了这位前总统更个人的一面，与他的政治形象形成对比。这个主题突显了他个人生活和公共生活的交集。",
-      "articleCount": 3,
-      "articleIndices": [
+        1,
         2,
-        17,
-        27
+        5
       ],
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kCbYoVvKjrxMddbxmJuAYb6sVQ5hfr7ONWneAbjXGpjyJVldTyzVsN1ycSQ",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kCbYoVvKjrxMddbxmJuAYb6sVQ5hfr7ONWneAbjXGpjyJVldTyzVsN1ycSQ"
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPlKsldjukC8jplsA0dsQJkGZceBqOtFdrcLGt9YkzwO6iRQVma7Kp8wfPjkQ",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPlKsldjukC8jplsA0dsQJkGZceBqOtFdrcLGt9YkzwO6iRQVma7Kp8wfPjkQ"
     }
   ],
   "summary24h": [
     {
-      "time": "10:00 (PT)",
-      "text": "在社交媒体上宣布将向波兰派遣额外的5000名士兵。",
-      "truthSocialIds": [
-        "116614442694237946"
-      ]
-    },
-    {
-      "time": "11:00 (PT)",
-      "text": "在社交媒体上庆祝《阳光保护法案》在能源和商业委员会的通过。",
-      "truthSocialIds": [
-        "116615022975327653"
-      ]
-    },
-    {
-      "time": "12:00 (PT)",
-      "text": "在社交媒体上支持肯尼·科迪竞选田纳西州第11州众议院区的活动。",
-      "truthSocialIds": [
-        "116615029293475348"
-      ]
-    },
-    {
-      "time": "13:00 (PT)",
-      "text": "在社交媒体上支持德里克·梅林竞选俄亥俄州第9国会区的活动。",
-      "truthSocialIds": [
-        "116614942442210781"
-      ]
-    },
-    {
-      "time": "14:00 (PT)",
-      "text": "在社交媒体上评论乔治亚州的选举结果，批评失败的候选人。",
-      "truthSocialIds": [
-        "116613958839456698"
-      ]
-    },
-    {
       "time": "15:00 (PT)",
       "text": "参加了关于铁路安全的会议并发表了演讲。",
+      "videoQuery": "Donald Trump railway safety speech",
+      "locationName": "East Palestine, OH",
+      "locationCoords": [
+        40.834,
+        -80.52
+      ],
       "truthSocialIds": []
     },
     {
       "time": "18:00 (PT)",
       "text": "在社交媒体上庆祝《阳光保护法案》通过。",
+      "videoQuery": "",
       "truthSocialIds": [
         "116615755510809391"
+      ]
+    },
+    {
+      "time": "19:00 (PT)",
+      "text": "在社交媒体上宣布向波兰派遣5000名军队。",
+      "videoQuery": "",
+      "truthSocialIds": [
+        "116614442694237946"
+      ]
+    },
+    {
+      "time": "20:00 (PT)",
+      "text": "在社交媒体上支持田纳西州的候选人肯尼·科迪。",
+      "videoQuery": "",
+      "truthSocialIds": [
+        "116615029293475348"
+      ]
+    },
+    {
+      "time": "21:00 (PT)",
+      "text": "在社交媒体上批评乔·拜登及其支持者。",
+      "videoQuery": "",
+      "truthSocialIds": [
+        "116610366261498296"
       ]
     }
   ],
   "socialMedia": [
     {
       "platform": "Truth Social",
+      "date": "2026-05-22T05:29:09.933Z",
+      "text": "RT @realDonaldTrumpIf Iran surrenders, admits their Navy is gone and resting at the bottom of the sea, and their Air Force is no longer with us, and if their entire Military walks out of Tehran, weapons dropped and hands held high, each shouting “I surrender, I surrender” while wildly waving the representative White Flag, and if their entire remaining Leadership signs all necessary “Documents of Surrender,” and admit their defeat to the great power and force of the magnificent U.S.A., The Failing New York Times, The China Street Journal (WSJ!), Corrupt and now Irrelevant CNN, and all other members of the Fake News Media, will headline that Iran had a Masterful and Brilliant Victory over The United States of America, it wasn’t even close. The Dumacrats and Media have totally lost their way. They have gone absolutely CRAZY!!! President DJT",
+      "likes": "0",
+      "reposts": "0",
+      "url": "https://truthsocial.com/@realDonaldTrump/116616577018871879",
+      "id": "116616577018871879",
+      "isReal": true,
+      "mediaAttachments": [],
+      "account": {
+        "username": "realDonaldTrump",
+        "display_name": "Donald J. Trump",
+        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
+      },
+      "textZh": "转发 @realDonaldTrump 如果伊朗投降，承认他们的海军已经消失，沉没在海底，他们的空军不再存在，如果他们整个军队从德黑兰走出，武器放下，双手高举，每个人都大喊“我投降，我投降”，同时疯狂挥舞代表性的白旗，如果他们所有剩余的领导层签署所有必要的“投降文件”，并承认他们对伟大的美国的强大力量的失败，《失败的纽约时报》，《中国街头日报》（WSJ！），腐败且现在无关紧要的CNN，以及所有其他假新闻媒体的成员，将头条报道伊朗在美国身上取得了辉煌的胜利，根本没有悬念。民主党和媒体完全迷失了方向。他们真的疯狂了！！！总统DJT"
+    },
+    {
+      "platform": "Truth Social",
       "date": "2026-05-22T02:00:14.770Z",
       "text": "Have it!!! Great. President DJT",
-      "likes": "6869",
-      "reposts": "1703",
+      "likes": "7481",
+      "reposts": "1844",
       "url": "https://truthsocial.com/@realDonaldTrump/116615755510809391",
       "id": "116615755510809391",
       "isReal": true,
@@ -151,14 +321,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "有了！！！太棒了。总统DJT"
+      "textZh": "太好了！！！总统DJT"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T23:19:57.155Z",
       "text": "I love the Great State of South Carolina, won every one of my Races there by a landslide, and only want the BEST representing you in Elected Office!There’s this RINO Candidate in the Palmetto State named David Pascoe, a lifelong Democrat who previously endorsed Crooked Joe Biden for President, and served as a Biden Co-Chair in South Carolina, who is running in the Republican Primary to be your next Attorney General — Pascoe is a total fraud and phony, and is no friend of our incredible Movement to, MAKE SOUTH CAROLINA, AND AMERICA, GREAT AGAIN!To our amazing South Carolina MAGA Patriots: Please make sure to get out and vote AGAINST “RINO” David Pascoe in the June Republican Primary for Attorney General, and make sure he never holds Elected Office again. THANK YOU SOUTH CAROLINA — MAGA2026!",
-      "likes": "12391",
-      "reposts": "3706",
+      "likes": "12831",
+      "reposts": "3828",
       "url": "https://truthsocial.com/@realDonaldTrump/116615125212867437",
       "id": "116615125212867437",
       "isReal": true,
@@ -168,14 +338,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "我爱南卡罗来纳州，那里我每一场竞选都以压倒性优势获胜，只希望最优秀的人能代表你们担任公职！在棕榈州有一个名叫David Pascoe的RINO候选人，他是终身民主党人，曾支持腐败的乔·拜登担任总统，并在南卡罗来纳州担任拜登的联合主席，现在他正在共和党初选中竞选你们的下一个检察长——Pascoe完全是个骗子和伪君子，根本不是我们伟大运动的朋友，致力于让南卡罗来纳州和美国再次伟大！致我们了不起的南卡罗来纳州MAGA爱国者：请确保在6月的共和党检察长初选中投票反对“RINO” David Pascoe，确保他再也无法担任公职。谢谢你，南卡罗来纳州——MAGA2026！"
+      "textZh": "我爱伟大的南卡罗来纳州，在那里赢得了每一场比赛，胜利幅度巨大，只想要最优秀的人代表你们担任公职！在棕榈州有一个名叫David Pascoe的RINO候选人，他是终身民主党人，曾公开支持腐败的乔·拜登担任总统，并在南卡罗来纳州担任拜登的联合主席，他正在参加共和党初选，争取成为你们的下一任检察长——Pascoe完全是个骗子和伪君子，并不是我们伟大运动的朋友，来让南卡罗来纳州和美国再次伟大！对我们惊人的南卡罗来纳州MAGA爱国者：请确保在6月的共和党初选中投票反对“RINO” David Pascoe，并确保他再也无法担任公职。谢谢你，南卡罗来纳州——MAGA2026！"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T22:55:33.541Z",
       "text": "It is my Great Honor to endorse MAGA Warrior, Kenny Cody, who is running to represent the fantastic people of Tennessee’s 11th State House District.A very successful School Teacher, Civic Leader, Conservative Journalist and Activist, Kenny has dedicated his life to serving his Community. In the State House, he will fight tirelessly to Promote East Tennessee’s “Mountain Values,” Grow the Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Champion American Energy DOMINANCE, Stop Migrant Crime, Strengthen our Military/Veterans, Promote School Choice, Safeguard our Elections, and Defend our always under siege Second Amendment.Kenny Cody has my Complete and Total Endorsement to be the next State Representative from Tennessee’s 11th House District – HE WILL NEVER LET YOU DOWN!",
-      "likes": "9309",
-      "reposts": "2138",
+      "likes": "9598",
+      "reposts": "2216",
       "url": "https://truthsocial.com/@realDonaldTrump/116615029293475348",
       "id": "116615029293475348",
       "isReal": true,
@@ -185,14 +355,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "我非常荣幸地支持MAGA战士Kenny Cody，他正在竞选代表田纳西州第11州众议院区的杰出人民。作为一名非常成功的教师、公民领袖、保守派记者和活动家，Kenny将毕生致力于服务他的社区。在州众议院，他将不懈努力，推动东田纳西州的“山地价值观”，发展经济，减税和放松监管，推进美国制造，倡导美国能源主导地位，制止移民犯罪，加强我们的军队/退伍军人，促进学校选择，保障我们的选举，捍卫我们始终受到攻击的第二修正案。Kenny Cody获得我对他作为田纳西州第11众议院区下一任州代表的完全和全力支持——他绝不会让你失望！"
+      "textZh": "我非常荣幸地支持MAGA战士Kenny Cody，他正在竞选代表田纳西州第11州众议院区的杰出人民。作为一名非常成功的教师、公民领袖、保守派记者和活动家，Kenny将一生奉献给服务他的社区。在州众议院，他将不懈努力，推动东田纳西州的“山地价值观”，发展经济，减税和放松监管，推进美国制造，倡导美国能源主导地位，制止移民犯罪，加强我们的军队/退伍军人，促进学校选择，保护我们的选举，捍卫我们始终受到攻击的第二修正案。Kenny Cody获得我对田纳西州第11众议院区下一任州代表的完全和全力支持——他绝不会让你失望！"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T22:53:57.133Z",
       "text": "Big Vote today (48-1!) in the Energy and Commerce Committee on a Bill including The Sunshine Protection Act, which will be making Daylight Saving Time Permanent! This is so important in that Hundreds of Millions of Dollars are spent every year by people, Cities, and States, being forced to change their Clocks. Many of these Clocks are located in Towers, and the cost of renting, or using, Heavy Equipment to do this twice a year is prohibitive! The House will be attaching The Sunshine Protection Act to “The Highway Bill.” Great work by Troy Nehls, and all of the Members who voted, as well, for Railway Safety. I am going to work very hard to see The Sunshine Protection Act signed into Law. It’s time that people can stop worrying about the “Clock,” not to mention all of the work and money that is spent on this ridiculous, twice yearly production. It will also be a very nice WIN for the Republican Party. Take it! We are going with the far more popular alternative, Saving Daylight, which gives you a longer, brighter Day — And who can be against that — This is an easy one! Thank you to everyone who supported this important Bill, and especially Chairman Brett Guthrie and Vern Buchanan. President DONALD J. TRUMP",
-      "likes": "12140",
-      "reposts": "3322",
+      "likes": "12533",
+      "reposts": "3446",
       "url": "https://truthsocial.com/@realDonaldTrump/116615022975327653",
       "id": "116615022975327653",
       "isReal": true,
@@ -202,14 +372,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "今天在能源与商业委员会就包括阳光保护法案的法案进行了大投票（48-1！），这将使夏令时成为永久性！这非常重要，因为每年有数亿美元被人们、城市和州花费在被迫调整时钟上。这些时钟中的许多位于塔楼中，租用或使用重型设备每年两次进行调整的成本是 prohibitive 的！众议院将把阳光保护法案附加到“公路法案”上。感谢Troy Nehls和所有投票支持铁路安全的成员们的出色工作。我将非常努力地推动阳光保护法案成为法律。是时候让人们不再担心“时钟”，更不用说在这个荒谬的每年两次的调整上花费的所有工作和金钱。这也将是共和党的一个很好的胜利。接受它！我们将选择更受欢迎的替代方案，节省日光，这将给你更长、更明亮的一天——谁会反对呢——这很简单！感谢所有支持这项重要法案的人，特别是主席Brett Guthrie和Vern Buchanan。总统唐纳德·J·特朗普"
+      "textZh": "今天在能源和商业委员会进行了一次重要投票（48-1！），关于包括阳光保护法案的法案，该法案将使夏令时永久化！这非常重要，因为每年有数亿美元被人们、城市和州花费在被迫调整时钟上。许多这些时钟位于塔楼中，租用或使用重型设备每年两次进行调整的成本是巨大的！众议院将把阳光保护法案附加到“公路法案”上。感谢Troy Nehls和所有投票支持铁路安全的成员。我将非常努力地推动阳光保护法案成为法律。是时候让人们不再担心“时钟”，更不用说在这项荒谬的每年两次的工作和花费上了。这也将是共和党的一个很好的胜利。接受吧！我们将选择更受欢迎的替代方案，拯救日光，让你拥有更长、更明亮的白天——谁会反对呢——这很简单！感谢所有支持这项重要法案的人，特别是主席Brett Guthrie和Vern Buchanan。总统DONALD J. TRUMP"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T22:33:28.295Z",
       "text": "It is my Great Honor to endorse America First Patriot, Derek Merrin, who is running to represent the wonderful people of Ohio’s 9th Congressional District!Derek is running against a Radical Left Democrat, and Career Politician, named Marcy Kaptur, who tried to raise Taxes by over $4 Trillion Dollars, and voted against ALL of our Tax Cuts, including NO TAX ON TIPS, NO TAX ON SOCIAL SECURITY, and NO TAX ON OVERTIME. Marcy Kaptur wants to abolish our Borders, stop deporting Criminal Illegal Aliens, and supports dangerous “Soft on Crime” Policies like cashless bail that let repeat Violent Criminals roam free on our streets. She voted to allow Men in Women’s Sports, is in favor of the transgender mutilization of children, and voted AGAINST Voter I.D., but in favor of allowing Illegal Aliens to vote in our Sacred Elections. She is Reckless, Radical, and Dangerous!In contrast, as a Highly Successful State Legislator, Waterville City Councilman, and Civic Leader, prior to running for U.S. Congress, Derek Merrin has dedicated his life to serving his Community. As your next Congressman, he will fight hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Brave Military/Veterans, Ensure PEACE THROUGH STRENGTH, and Defend our always under siege Second Amendment.Derek Merrin has my Complete and Total Endorsement to be the next Representative from Ohio’s 9th Congressional District – HE WILL NEVER LET YOU DOWN!",
-      "likes": "8424",
-      "reposts": "2035",
+      "likes": "8664",
+      "reposts": "2101",
       "url": "https://truthsocial.com/@realDonaldTrump/116614942442210781",
       "id": "116614942442210781",
       "isReal": true,
@@ -219,14 +389,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "我非常荣幸地支持美国优先的爱国者Derek Merrin，他正在竞选代表俄亥俄州第9国会选区的优秀人民！Derek正在与一位激进的左翼民主党人和职业政治家Marcy Kaptur竞争，她试图将税收提高超过4万亿美元，并投票反对我们所有的减税措施，包括小费免税、社保免税和加班免税。Marcy Kaptur想要废除我们的边界，停止驱逐犯罪的非法移民，并支持危险的“对犯罪宽容”政策，比如无现金保释，让重复的暴力犯罪分子在我们的街道上逍遥法外。她投票允许男性参加女性运动，支持对儿童的变性 mutilization，并投票反对选民身份证，但支持允许非法移民在我们神圣的选举中投票。她是鲁莽、激进和危险的！相比之下，作为一名非常成功的州立法者、Waterville市议会成员和公民领袖，Derek Merrin在竞选美国国会之前，已将自己的生活奉献给服务社区。作为你们的下一任国会议员，他将努力发展我们的经济，减税和放松监管，推动美国制造，确保我们的边界安全，制止移民犯罪，加强我们勇敢的军队/退伍军人，确保通过力量实现和平，并捍卫我们始终受到攻击的第二修正案。Derek Merrin获得我对他作为俄亥俄州第9国会选区下一任代表的完全和全力支持——他绝不会让你失望！"
+      "textZh": "我非常荣幸地支持美国优先的爱国者Derek Merrin，他正在竞选代表俄亥俄州第9国会选区的优秀人民！Derek正在与一位激进的左派民主党人和职业政治家Marcy Kaptur竞争，她试图将税收提高超过4万亿美元，并投票反对我们所有的减税措施，包括对小费不征税、对社会保障不征税和对加班不征税。Marcy Kaptur想要废除我们的边界，停止驱逐犯罪的非法移民，并支持危险的“宽容犯罪”政策，如无现金保释，让重复的暴力犯罪分子在我们的街道上自由活动。她投票允许男性参加女性运动，支持对儿童的变性 mutilization，并投票反对选民身份证，但支持允许非法移民在我们神圣的选举中投票。她是鲁莽、激进和危险的！相比之下，作为一名非常成功的州立法者、Waterville市议员和公民领袖，在竞选美国国会之前，Derek Merrin将一生奉献给服务他的社区。作为你们的下一任国会议员，他将努力发展我们的经济，减税和放松监管，推动美国制造，确保我们的边界安全，制止移民犯罪，加强我们勇敢的军队/退伍军人，确保通过力量实现和平，并捍卫我们始终受到攻击的第二修正案。Derek Merrin获得我对俄亥俄州第9国会选区下一任代表的完全和全力支持——他绝不会让你失望！"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T20:32:44.290Z",
       "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116614466038746454",
-      "likes": "14112",
-      "reposts": "3331",
+      "likes": "14342",
+      "reposts": "3393",
       "url": "https://truthsocial.com/@realDonaldTrump/116614467701219214",
       "id": "116614467701219214",
       "isReal": true,
@@ -242,14 +412,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "转发： https://truthsocial.com/users/realDonaldTrump/statuses/116614466038746454"
+      "textZh": "转发: https://truthsocial.com/users/realDonaldTrump/statuses/116614466038746454"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T20:32:18.923Z",
       "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116614465342502635",
-      "likes": "13885",
-      "reposts": "3106",
+      "likes": "14125",
+      "reposts": "3168",
       "url": "https://truthsocial.com/@realDonaldTrump/116614466038746454",
       "id": "116614466038746454",
       "isReal": true,
@@ -265,14 +435,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "转发： https://truthsocial.com/users/realDonaldTrump/statuses/116614465342502635"
+      "textZh": "转发: https://truthsocial.com/users/realDonaldTrump/statuses/116614465342502635"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T20:28:33.518Z",
       "text": "Watch for the Christopher Columbus Memorial Circle Fountain, by Union Station, opening soon! President DONALD J. TRUMP",
-      "likes": "13271",
-      "reposts": "2783",
+      "likes": "13498",
+      "reposts": "2847",
       "url": "https://truthsocial.com/@realDonaldTrump/116614451266681529",
       "id": "116614451266681529",
       "isReal": true,
@@ -282,14 +452,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "请关注即将开放的克里斯托弗·哥伦布纪念圈喷泉，位于联合车站！总统唐纳德·J·特朗普"
+      "textZh": "请关注即将开放的克里斯托弗·哥伦布纪念圆环喷泉，位于联合车站！总统DONALD J. TRUMP"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T20:26:22.712Z",
       "text": "Based on the successful Election of the now President of Poland, Karol Nawrocki, who I was proud to Endorse, and our relationship with him, I am pleased to announce that the United States will be sending an additional 5,000 Troops to Poland. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "likes": "27620",
-      "reposts": "5201",
+      "likes": "27935",
+      "reposts": "5290",
       "url": "https://truthsocial.com/@realDonaldTrump/116614442694237946",
       "id": "116614442694237946",
       "isReal": true,
@@ -299,14 +469,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "基于我自豪地支持的现任波兰总统Karol Nawrocki的成功选举，以及我们与他的关系，我很高兴地宣布美国将向波兰派遣额外的5000名军队。感谢您对此事的关注！总统唐纳德·J·特朗普"
+      "textZh": "基于我自豪地支持的现任波兰总统Karol Nawrocki的成功选举，以及与他的关系，我很高兴地宣布美国将向波兰派遣额外的5000名军队。感谢您对此事的关注！总统DONALD J. TRUMP"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T18:34:05.094Z",
       "text": "Thank you to the great Troy Nehls for fighting for the Citizens of East Palestine, Railway Safety, and my Agenda. I am calling on Transportation Committee Republicans to support his Railway Safety Act Amendment, which is going to be voted on very soon. I have supported the Bill since 2023, and we need to get it done! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "likes": "14204",
-      "reposts": "3196",
+      "likes": "14362",
+      "reposts": "3242",
       "url": "https://truthsocial.com/@realDonaldTrump/116614001137695379",
       "id": "116614001137695379",
       "isReal": true,
@@ -316,14 +486,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "感谢伟大的Troy Nehls为东巴勒斯坦的公民、铁路安全和我的议程而战。我呼吁交通委员会的共和党人支持他的铁路安全法案修正案，该修正案将很快进行投票。我自2023年以来一直支持该法案，我们需要尽快完成！感谢您对此事的关注。总统唐纳德·J·特朗普"
+      "textZh": "感谢伟大的Troy Nehls为东巴勒斯坦的公民、铁路安全和我的议程而奋斗。我呼吁交通委员会的共和党人支持他的铁路安全法案修正案，该修正案将很快进行投票。我自2023年以来一直支持这项法案，我们需要完成它！感谢您对此事的关注。总统DONALD J. TRUMP"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T18:23:19.675Z",
       "text": "It was a great time and success in Georgia on Tuesday night where Geoff Duncan, a failed Lieutenant Governor, and Disgrace to the Republican Party, ran for Governor, as a Democrat, and lost BIG — A solid 50 points! He wasn’t even close, and is now, I assume, officially out of Politics. He has now failed in two Parties. This guy was a LOSER from the first day I met him and now, we can call that official! President DONALD J. TRUMP",
-      "likes": "25221",
-      "reposts": "4946",
+      "likes": "25401",
+      "reposts": "4999",
       "url": "https://truthsocial.com/@realDonaldTrump/116613958839456698",
       "id": "116613958839456698",
       "isReal": true,
@@ -333,13 +503,13 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "周二晚上在乔治亚州的活动非常成功，Geoff Duncan，一个失败的副州长和共和党的耻辱，以民主党人的身份竞选州长，并且大败——整整输了50分！他根本没有接近，现在我想他正式退出政治。他在两个党派中都失败了。这个家伙从我第一次见到他起就是个失败者，现在我们可以正式称之为！总统唐纳德·J·特朗普"
+      "textZh": "周二晚上在乔治亚州度过了一个美好的时光和成功，Geoff Duncan，一个失败的副州长，给共和党带来了耻辱，作为民主党人竞选州长，并大败——整整50分！他根本没有接近，现在，我想他正式退出政治。他在两个党派中都失败了。这个家伙从我第一次见到他起就是个失败者，现在我们可以正式称之为！总统DONALD J. TRUMP"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T12:49:11.392Z",
       "text": "RT @realDonaldTrumpFiscal burden of illegal aliens gradually disappearing due to Trump admin: https://justthenews.com/government/white-house/fiscal-burden-illegal-aliens-gradually-disappearing-thanks-trump-admin",
-      "likes": "1",
+      "likes": "2",
       "reposts": "0",
       "url": "https://truthsocial.com/@realDonaldTrump/116612644955271921",
       "id": "116612644955271921",
@@ -350,14 +520,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "转发 @realDonaldTrump非法移民的财政负担因特朗普政府而逐渐消失： https://justthenews.com/government/white-house/fiscal-burden-illegal-aliens-gradually-disappearing-thanks-trump-admin"
+      "textZh": "转发 @realDonaldTrump 非法移民的财政负担因特朗普政府而逐渐消失: https://justthenews.com/government/white-house/fiscal-burden-illegal-aliens-gradually-disappearing-thanks-trump-admin"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T12:49:04.148Z",
       "text": "https://nypost.com/2026/05/01/opinion/heres-how-to-crush-tehran-in-three-moves/",
-      "likes": "10743",
-      "reposts": "2827",
+      "likes": "10822",
+      "reposts": "2855",
       "url": "https://truthsocial.com/@realDonaldTrump/116612644478185135",
       "id": "116612644478185135",
       "isReal": true,
@@ -373,8 +543,8 @@
       "platform": "Truth Social",
       "date": "2026-05-21T03:13:53.896Z",
       "text": "Fiscal burden of illegal aliens gradually disappearing due to Trump admin: https://justthenews.com/government/white-house/fiscal-burden-illegal-aliens-gradually-disappearing-thanks-trump-admin",
-      "likes": "22610",
-      "reposts": "5703",
+      "likes": "22674",
+      "reposts": "5718",
       "url": "https://truthsocial.com/@realDonaldTrump/116610382814275079",
       "id": "116610382814275079",
       "isReal": true,
@@ -384,14 +554,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "非法移民的财政负担因特朗普政府而逐渐消失： https://justthenews.com/government/white-house/fiscal-burden-illegal-aliens-gradually-disappearing-thanks-trump-admin"
+      "textZh": "非法移民的财政负担因特朗普政府而逐渐消失: https://justthenews.com/government/white-house/fiscal-burden-illegal-aliens-gradually-disappearing-thanks-trump-admin"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T03:09:41.321Z",
       "text": "Deranged Jack Smith and his “gang” are really bad news. Can never be allowed to happen again. They should all be prosecuted!https://justthenews.com/government/courts-law/pro-dei-prosecutor-charged-over-illegally-emailing-herself-jack-smiths-sealed",
-      "likes": "19464",
-      "reposts": "5413",
+      "likes": "19524",
+      "reposts": "5428",
       "url": "https://truthsocial.com/@realDonaldTrump/116610366261498296",
       "id": "116610366261498296",
       "isReal": true,
@@ -401,14 +571,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "疯狂的杰克·史密斯和他的“团伙”真是个坏消息。绝不能再让这种事情发生。他们都应该被起诉！https://justthenews.com/government/courts-law/pro-dei-prosecutor-charged-over-illegally-emailing-herself-jack-smiths-sealed"
+      "textZh": "疯狂的Jack Smith和他的“团伙”真的是个坏消息。绝不能再让这种事情发生。他们都应该被起诉！https://justthenews.com/government/courts-law/pro-dei-prosecutor-charged-over-illegally-emailing-herself-jack-smiths-sealed"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-21T02:21:48.136Z",
       "text": "Akio Toyoda goes full MAGA in star-spangled, BBQ-slathered, F-150-truckin’, NASCAR-styled charm offensive: https://www.autonews.com/toyota/an-toyota-akio-toyoda-maga-nascar-trump-japan-tariff-1116/",
-      "likes": "17493",
-      "reposts": "3808",
+      "likes": "17540",
+      "reposts": "3817",
       "url": "https://truthsocial.com/@realDonaldTrump/116610177964428920",
       "id": "116610177964428920",
       "isReal": true,
@@ -418,14 +588,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "丰田社长丰田章男全力支持MAGA，展现星条旗、烧烤、F-150卡车和NASCAR风格的魅力攻势： https://www.autonews.com/toyota/an-toyota-akio-toyoda-maga-nascar-trump-japan-tariff-1116/"
+      "textZh": "Akio Toyoda全力支持MAGA，展现星条旗、烧烤、F-150卡车和NASCAR风格的魅力攻势: https://www.autonews.com/toyota/an-toyota-akio-toyoda-maga-nascar-trump-japan-tariff-1116/"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-20T22:55:40.918Z",
       "text": "Trump Says Ballroom Roof Will Host ‘Drone Empire’ to Defend D.C.https://thenationalpulse.com/2026/05/19/trump-says-ballroom-roof-will-host-drone-empire-to-defend-d-c/",
-      "likes": "20229",
-      "reposts": "4609",
+      "likes": "20271",
+      "reposts": "4618",
       "url": "https://truthsocial.com/@realDonaldTrump/116609367468774814",
       "id": "116609367468774814",
       "isReal": true,
@@ -435,27 +605,40 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "特朗普表示舞厅屋顶将举办“无人机帝国”以保护华盛顿特区。https://thenationalpulse.com/2026/05/19/trump-says-ballroom-roof-will-host-drone-empire-to-defend-d-c/"
-    },
-    {
-      "platform": "Truth Social",
-      "date": "2026-05-20T22:43:47.511Z",
-      "text": "‘A GIFT TO AMERICA’: Trump Says New Ballroom Will Protect Presidents For Generations: https://hannity.com/media-room/a-gift-to-america-trump-says-new-ballroom-will-protect-presidents-for-generations-watch/",
-      "likes": "19927",
-      "reposts": "4217",
-      "url": "https://truthsocial.com/@realDonaldTrump/116609320715181442",
-      "id": "116609320715181442",
-      "isReal": true,
-      "mediaAttachments": [],
-      "account": {
-        "username": "realDonaldTrump",
-        "display_name": "Donald J. Trump",
-        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
-      },
-      "textZh": "‘送给美国的礼物’：特朗普表示新舞厅将保护总统数代人： https://hannity.com/media-room/a-gift-to-america-trump-says-new-ballroom-will-protect-presidents-for-generations-watch/"
+      "textZh": "特朗普表示舞厅屋顶将举办“无人机帝国”以捍卫华盛顿特区。https://thenationalpulse.com/2026/05/19/trump-says-ballroom-roof-will-host-drone-empire-to-defend-d-c/"
     }
   ],
   "trends": [
+    {
+      "title": "jon stewart",
+      "traffic": "500+",
+      "pubDate": "Thu, 21 May 2026 21:40:00 -0700",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw",
+      "newsItems": [
+        {
+          "title": "Jon Stewart Asks What ‘Daddy’ Brought Back From China",
+          "url": "https://www.nytimes.com/2026/05/19/arts/television/jon-stewart-trump-china.html",
+          "source": "The New York Times",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkOesG7K6lF5mw-ZtCqvUC1MAY8vFfjwLEXz5zNPfUKuMtUh8m4wcQS5qnnw"
+        },
+        {
+          "title": "Jon Stewart on Trump’s visit with Xi: ‘All you came back with was his Instagram?’",
+          "url": "https://www.theguardian.com/culture/2026/may/19/jon-stewart-trump-china-visit",
+          "source": "The Guardian",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPlKsldjukC8jplsA0dsQJkGZceBqOtFdrcLGt9YkzwO6iRQVma7Kp8wfPjkQ",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPlKsldjukC8jplsA0dsQJkGZceBqOtFdrcLGt9YkzwO6iRQVma7Kp8wfPjkQ"
+        },
+        {
+          "title": "Jon Stewart Rips into Trump: ‘How the F*** Is This Guy President?’",
+          "url": "https://www.thedailybeast.com/jon-stewart-rips-into-trump-how-the-f-is-this-guy-president/",
+          "source": "The Daily Beast",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZepPAUVZVAYfeCzOfNSXIbe7LRvTjrXD7entOfrISHf7AA2XkW4EubKAD84c",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZepPAUVZVAYfeCzOfNSXIbe7LRvTjrXD7entOfrISHf7AA2XkW4EubKAD84c"
+        }
+      ]
+    },
     {
       "title": "john stewart",
       "traffic": "200+",
@@ -485,72 +668,36 @@
           "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7_z6v5Kd-HAEkIzUM3LG2zEw_SmBBgz7JciqhF6iKqxIwc2hYOhrKocrktUI"
         }
       ]
-    },
-    {
-      "title": "house pulls vote",
-      "traffic": "2000+",
-      "pubDate": "Thu, 21 May 2026 21:30:00 -0700",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ",
-      "newsItems": [
-        {
-          "title": "GOP Pulls Measure on Trump’s War Powers in Iran, Lacking Votes to Defeat It",
-          "url": "https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html",
-          "source": "The New York Times",
-          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ",
-          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReKUDM792bbpdDUEmZOywUPC0eEoiM_5J3ZiuJAM9A6eKJgm70b-ftAX8XSbQ"
-        },
-        {
-          "title": "House Republicans pull vote on Iran war resolution that appeared to have enough support to pass",
-          "url": "https://www.cbsnews.com/news/house-gop-pulls-iran-war-resolution-vote/",
-          "source": "CBS News",
-          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzzz06wZkbNbzSBE19N464CEr7RLsVIfdFa251eHbKpuUZQs7y5kyVD3vJzqs",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzzz06wZkbNbzSBE19N464CEr7RLsVIfdFa251eHbKpuUZQs7y5kyVD3vJzqs"
-        },
-        {
-          "title": "GOP leaders abruptly cancel House vote on Iran war powers, shielding Trump from rebuke",
-          "url": "https://www.cnn.com/2026/05/21/politics/house-trump-iran-war-powers",
-          "source": "CNN",
-          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIZ4_egRAlY2O1zHdfsZTFR2vLmLbvvjzqoyj7cZVxXuXDyrqLh13Kynwnijw",
-          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIZ4_egRAlY2O1zHdfsZTFR2vLmLbvvjzqoyj7cZVxXuXDyrqLh13Kynwnijw"
-        }
-      ]
     }
   ],
   "trendCount": 2,
   "sources": [
     {
-      "title": "Jon Stewart skewers CBS in Stephen Colbert reunion on 'The Late Show'",
-      "url": "https://www.usatoday.com/story/entertainment/tv/2026/05/20/stephen-colbert-late-show-jon-stewart-cbs/90173398007/",
-      "source": "USA Today",
-      "date": "Thu, 21 May 2026 21:40:00 -0700",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMEZtNEKlCxPkW4K-RF3t_Jw7u2DB-67n1SMgnbMZnIpr_izriXZj1s2WM-Go",
-      "isTrend": true,
-      "trendTitle": "john stewart",
-      "trendTraffic": "200+",
-      "fetchedAt": "2026-05-22T04:53:07.437Z"
+      "title": "Trump says he’s sending 5,000 troops to Poland, deepening confusion over US military deployments to Europe - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnhPZktuMnhwV0tkZmRDbi1iMWhjSDBTbW1nMG1IYXh2bUdqZTFyWWY0NkN1bFlwdWE4UzVNWkQwOGgwTHBhQTJoRXUzYkh2dzJRY1lSb081NHZHR1JoWWpwVTFtTE1USmpsWmEyNWZMQ0l6M3JkUGxzNGROZ0FJNExn?oc=5",
+      "source": "CNN",
+      "date": "Fri, 22 May 2026 05:30:42 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "特朗普表示他将向波兰派遣5000名军队，加深了对美国在欧洲军事部署的困惑 - CNN"
     },
     {
-      "title": "Jon Stewart Surprises Stephen Colbert With a Recliner and Guest Performer in Final ‘Late Show’ Appearance",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/jon-stewart-late-show-stephen-colbert-recliner-andra-day-1236602124/",
-      "source": "The Hollywood Reporter",
-      "date": "Thu, 21 May 2026 21:40:00 -0700",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kCbYoVvKjrxMddbxmJuAYb6sVQ5hfr7ONWneAbjXGpjyJVldTyzVsN1ycSQ",
-      "isTrend": true,
-      "trendTitle": "john stewart",
-      "trendTraffic": "200+",
-      "fetchedAt": "2026-05-22T04:53:07.437Z"
+      "title": "Rubio doubtful of diplomacy with Cuba as Trump raises new threat of military action - NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQi16bFVqMjFFRUpRd1B1VXlZYks5c081bVdfSWlYZGVreFZYOW54d2JqRXcxWm5TbW9BRVVhWWY1T3YwSElTdGM5N3VsM1Rucko4Wmt4NW0zT25lWGNJUWtvbXhTVThIQXdyeXAweGRFWDAta1hZZzNnd3Awa09yMVYtZFkxcUVOREE1alpQWXI?oc=5",
+      "source": "NPR",
+      "date": "Fri, 22 May 2026 05:23:02 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "鲁比奥对与古巴的外交表示怀疑，特朗普提出新的军事行动威胁 - NPR"
     },
     {
-      "title": "Jon Stewart downplays late-night bias, insists Trump obsession is just a 'portion' of Colbert's 'joy machine'",
-      "url": "https://www.yahoo.com/entertainment/tv/articles/jon-stewart-downplays-night-bias-180400082.html",
-      "source": "Yahoo",
-      "date": "Thu, 21 May 2026 21:40:00 -0700",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7_z6v5Kd-HAEkIzUM3LG2zEw_SmBBgz7JciqhF6iKqxIwc2hYOhrKocrktUI",
-      "isTrend": true,
-      "trendTitle": "john stewart",
-      "trendTraffic": "200+",
-      "fetchedAt": "2026-05-22T04:53:07.437Z"
+      "title": "Pressure from Silicon Valley helped block Trump’s expected order on AI - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRnFnZl9EWVhlODg4LTA5eWFkcElzSW05azNwaV9PWGhwQ3I5VzJoYkdEZjBmMnBqaXRNR1c4ZEVCUzN6UEZOazB1RTNQMS1PMnc4Q1NsUVotdHZSSDFVVE5JdW02VHZiM1A4SWEzSERQcGpZa0haMFFjODFxRVVDSThTbVRreGhETi1ya1hWRmx6eUc1WjJNZnQtU0FGeVRaTkU5S3VncmRDdy1MUEVrc3llYUJLOUQ2ZmRNQ3BZYW1FOG8?oc=5",
+      "source": "The Washington Post",
+      "date": "Fri, 22 May 2026 04:41:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-22T05:46:15.367Z",
+      "titleZh": "硅谷的压力帮助阻止了特朗普预期中的人工智能命令 - 《华盛顿邮报》"
     }
   ]
 }
