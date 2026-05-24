@@ -1,67 +1,108 @@
 {
   "posts": [
     {
-      "title": "Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated' - NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd3Y3bUZKbFd2ZmFrc0U1aFlPNjZyRUFlM0tzbnp6RFRDZER2cmJpcUVKSnNDU2tHLTJ6RTNaX29VWENOSHVtN3VZYzk3b1BUT1ZvWFoxOHgyWDlHal93M1dJMWFkT1RUTmw5aC1tMVE1RlJRMUc4UE5uQ05MLXVtOQ?oc=5",
-      "source": "NPR",
-      "date": "Sat, 23 May 2026 23:00:02 GMT",
+      "title": "See Trump's approval rating after winning week for Trump-backed candidates - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZDc5aEc1a3FrWV9TU2h6YkNuREVVdG9qM0xLbG80SktLcGRENnRNVHN1d3VmOXBqTEJzalA1YnVWQm9rbDBKNGhCMW1McFROeE4yVTBYR2V0SjBXdzlxcVJWb0FGd0hNMVo4V2dhaEE4R0tfTjZnOTktXzktMkJtTXhJUUpzMFZsVTFiV1BJdnNoYTA3WHhNcjFubmtNeXVSRmU0d290U3Yxa2hSN2x4WERoN2tpMnBDaWVqUFFqWndLbXJKT2J0YVEtdDA4WWpLdmpKNDluamJubGxGWGc?oc=5",
+      "source": "The Detroit News",
+      "date": "Sun, 24 May 2026 02:45:00 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "特朗普表示与伊朗的协议和霍尔木兹海峡的开放“基本谈妥” - NPR"
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "看看特朗普支持的候选人在胜利周后的支持率 - 底特律新闻"
     },
     {
-      "title": "Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon",
-      "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
-      "source": "CNBC",
-      "date": "Sat, 23 May 2026 15:40:00 -0700",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXqW12X5liGvj7TSgpLE3GKZuZhFL_VWN5S0Ht3D_lUNntPHWYJZFbDlRfkyU",
-      "isTrend": true,
-      "trendTitle": "cnn",
-      "trendTraffic": "50000+",
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "特朗普表示，伊朗协议重新开放霍尔木兹海峡“基本谈妥”，将很快宣布"
-    },
-    {
-      "title": "Middle East crisis live: fate of strait of Hormuz hangs in balance as Trump claims Iran deal ‘largely negotiated’",
-      "url": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
+      "title": "Trump news at a glance: Does the president see a chance to end the war with Iran? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFpN2ZtLWdJMTNldk5fWmhMSVFlSHlCbkxHSmVEOVhNTERhaUJ4VUx0N2RSMGZCMGUtMDRxcTRlMy16NnpHV2t2bl9vZ3QyV0VWanY5X0E2MDJIMDVTMDB0dWU4WW54YVZXRlczWTZqQVJrM3JZRERhZWJGSzlNaFRHNHBoN0piOTgtNXhHWTlTWmFYOEM5YTBjaUdmTzVaZmMyeGtuREc1LUFieE9mYnJ3UFFlZEVMWlEtMi1oVVZ4ZEpTUGc?oc=5",
       "source": "The Guardian",
-      "date": "Sat, 23 May 2026 15:40:00 -0700",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2pWv2robuEYNbhhtFplpax5RPAQBHiOdbgFwB2xmyKs4A1CvdgXHHPP-SzrA",
-      "isTrend": true,
-      "trendTitle": "cnn",
-      "trendTraffic": "50000+",
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "中东危机直播：霍尔木兹海峡的命运悬而未决，特朗普称伊朗协议“基本谈妥”"
-    },
-    {
-      "title": "U.S., Iran close to a deal to end war, official says",
-      "url": "https://www.axios.com/2026/05/23/us-iran-trump-deal-war",
-      "source": "Axios",
-      "date": "Sat, 23 May 2026 15:40:00 -0700",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxjDmN3n1CbR2ZufwUsMkVVAbGVqcMIZnxTMfGdxWWN5ybxGfzAiXMcLOesI",
-      "isTrend": true,
-      "trendTitle": "cnn",
-      "trendTraffic": "50000+",
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "美国与伊朗接近达成结束战争的协议，官员表示"
-    },
-    {
-      "title": "Trump’s 3,711 trades point to multiple stock-market strategies - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1cyMHpiNG1IMGdLN19NRXl3cEhOSFBpdjV6MXZKcGxIZjlMblcxdUk1UldqLVkwTTROZ2VRMW9hRWpZV1hHMTM5NzNyUldUOVJTcGxSUkdKQjk2RGUyalpPdUtnaEI4WUdYTUZUZUhfTGs1UUtNRi0tNi1sc0FPNjlTaV9UalVIc09PMWlTQTU5aDNRMWJDeUdRTWIxbG5pN21VUFRNejVJeXhy?oc=5",
-      "source": "Fortune",
-      "date": "Sat, 23 May 2026 22:37:00 GMT",
+      "date": "Sun, 24 May 2026 02:24:11 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "特朗普的3,711笔交易指向多种股市策略 - 《财富》"
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "特朗普新闻一览：总统是否看到结束与伊朗战争的机会？ - 卫报"
     },
     {
-      "title": "Senate war hawks signal concern about potential US-Iran deal - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmlPR2xZR3FDTTB4dnpkWnVkMkZseXN0YzdXdUhnVHFVRHVVMGczRVBUOWl1RlhBZGMwUm1hdWJwYnlZWUJuZFI5NWxSVWFzY1g4bnlxbE11QzBSWHJwYkFDeXJzamItMTUyM2RfYWNzdUY3RU5uTk92VGIwNTQ4UWFBbW_SAYoBQVVfeXFMTVA5SFdoc2U2TzNvYUVDZkVJUFdJQW5PVVRnbk41VGZ3cXdwTXQ2YzU3dmdHWk8yYkVoU0R2cXFvdEtrYi0wVmNfbkdjNFBkRGRiOUdiSktXRzZqZGxEZFNJcWw0VWpPbFA5VS0tWWoxVDJvX19ETUpVR3doOEZneWxYbTE0M0dFSGh3?oc=5",
-      "source": "The Hill",
-      "date": "Sat, 23 May 2026 22:20:00 GMT",
+      "title": "Trump says Iran deal 'largely negotiated', dispute over strait reopening - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONEJxbF9SbGFoS1FVQVkzUmhEaGpJLXdRLWlUNDhxZVJKa241dm45U25PRlVSN1dFcmlaaXkzTUdXSEtYYlczQ1VlZjZ0UlZyVEtacWl2clkwVHdnSlczYUI2dkc5eVg2Sm45UDFMZHlKTWtTblNYT2ttNGt2RUVKUFpCZW01RElkYzFPRGJtOHlOeXFid3dfX25kM1dmTXJsb3p6UGlmUmdlVlI3Y2NkbzlaaUI?oc=5",
+      "source": "Reuters",
+      "date": "Sun, 24 May 2026 02:20:00 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "参议院鹰派对潜在的美伊协议表示担忧 - 《山丘》"
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "特朗普表示伊朗协议“基本谈妥”，关于海峡重开的争议 - 路透社"
+    },
+    {
+      "title": "Iran war: Trump says deal 'largely negotiated' - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVJfQ05reWVHaHlpVExuYjdNTUtfTXRucXlTd1JKNGNrMkNlTy10cFowWTRCQVh3dFI3dkdGNGhlVHVOTWdzWW91YnVxb1pZeS1FZnc0UmxoZmhBOHV3c2wzMklPWGVweVdCWFNuUUJTT1FSTkdETlQxSlAwbXZ4Q2VBbFM5YUYyMzY2S2tDRQ?oc=5",
+      "source": "DW.com",
+      "date": "Sun, 24 May 2026 01:53:17 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z"
+    },
+    {
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BeXpHWk9FU1RfRHJIMGFNQ2tacWNvM2dCanhJNVlxODFJWWtrWS1aLTc2UVJKc1dGdC1HRC1fbTlQNnNBYWZYRnZJM0JTYUFXLXhYc0FEeWNCZw?oc=5",
+      "source": "BBC",
+      "date": "Sun, 24 May 2026 01:18:31 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "特朗普表示伊朗协议“基本谈妥”，包括重开霍尔木兹海峡 - BBC"
+    },
+    {
+      "title": "US: Suspect dies after gunfire near White House - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZlhYcW41VXlPaUhidG1HUUgxSTRuVzM0eEpyc3VCRk15bWNfSlVZSVVTU0pyVWRMRjhETllaOW9HVVpUU3J0dURfVWFEZmZiZVVCOW11SlJmSnBFUl9QR2J0clRyeFFWekJUQWRPeVJFdlp4LVIyUUEySmNIVFZMOVlnajZ6QdIBhgFBVV95cUxOdTU2T0pvSGtIUEFmdllKalFaem9XUFdneFI5a2ZpUEgwcGIyRjlrS1ZWRG9TY08zYnlpVjRDM2RMNmFnanZ6MGpWR2dOME81Nklyc01PWUhMelE4LXhjQ0E2WHNaSklUYkFfNHRBa2Y5MzVyeHVVcDBPaDBoeHh1NTczYTJxZw?oc=5",
+      "source": "DW.com",
+      "date": "Sun, 24 May 2026 01:16:41 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "美国：嫌疑人在白宫附近枪击事件中死亡 - DW.com"
+    },
+    {
+      "title": "Donald Trump Jr and Bettina Anderson celebrate private wedding in Bahamas, share sweet personal photo - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlhpMWZoamNULVQwUS1VNDlOU2VEVmZUbWU5YWZiYXF5bGxRTk9EMXZ3RlhYZ1pZQmp0aVhiS2pxeGEwWjd3S05sSWZWYzJqcjh3UjNEbXZmaGVvV3plcm5ZUU9pYnpPYWV5VnFzTW85MkRTRnR1alE1Ul9oczBYVFRkR2Vfc0NabC1OVUFNYjdRR1FwQURZeElHZUM3QTM2c3YwZ2JEZ0h3eGs1bGNqNWlFUEt2UGNPUW9mejFPYU1teDBNX1HSAcsBQVVfeXFMT3dQUHdWQmFDWGpiMDZxeVFQc3FfMzE2LUlrOUlWUDM4b3VJaFVrTHBfdlhWMm1wYmlOMTV6RzNDSmNjelNqNTVOWHRXcGx6UFlteFh5S21IU01oczZUb0JCUE9pNzdydkdNaGxKUURmaElZWTZWZmVYeFdOUl85STJhTmVka0tEVldBV09hbC04MEVoNTNmZ1FrQVVEblU3ZGoxZ1FBYzNmT2k0VDBGV0VmWHpjQ21rZWhUekxaU2tiT1E0STlKMEJkckE?oc=5",
+      "source": "Fox News",
+      "date": "Sun, 24 May 2026 01:15:11 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z"
+    },
+    {
+      "title": "Two people shot in encounter with Secret Service near White House - KCRA",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcF9aR1RIclJnX2plQkdVckhJWjdpREpUUHd5dmk0aHBhNEZsM3lKRldTZ19SRk1QeDBjdXZDbVV5b3ZJVUlXUGl4aEVTQlFiUUVHWURSQnJGaDY1ZUYxV3hSeFM5Q0tMSnRjUWl3N0hzMzQ5Q2Fpd21qRWlldXo3aXBjaVI?oc=5",
+      "source": "KCRA",
+      "date": "Sun, 24 May 2026 01:11:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z"
+    },
+    {
+      "title": "Secret Service fatally shoots suspect outside White House checkpoint, bystander wounded - NPR",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjhKam5KZF9UMXNNbFZkYWctbC1ZRkYtVVJhSllkRzBYajREb3VONVB2N083UTNjNmY0MnVwR3pOejRaelUwdUdOWGZGMGg4cWpNd2tZbXhoZ250YmViREdvRTJEOTZNdUxyblZQRklSeWJwRHRDOVVVdjZOM2h5VlZHaWc?oc=5",
+      "source": "NPR",
+      "date": "Sun, 24 May 2026 00:23:43 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "特勤局在白宫检查站外致命射杀嫌疑人，旁观者受伤 - NPR"
+    },
+    {
+      "title": "Carter halts talk of Giants rift after Dart introduces Trump - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeWNRY0c4aEhhSlFTVEFOOUUtVEJGLTdvYWgwN2l2eDhEUHM2QU93eFMyQ0hfSzVQWUFCY0NQYi1FSEwwNVF1SmhKbnozd1MyMHFqRnlXSmpET1A5bWpzQ3NWWFhiTE55VjVHRjA2LWJqQ1VTQ2RDLWJsU29LZGFEZlNKdjR6NlYwZVFpakRoN2VqVHhvVGI5OXc5RTA?oc=5",
+      "source": "ESPN",
+      "date": "Sat, 23 May 2026 23:32:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "卡特在达特介绍特朗普后停止谈论巨人队的分歧 - ESPN"
+    },
+    {
+      "title": "Live - Trump says Iran deal largely negotiated, announcement expected shortly - ایران اینترنشنال",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWDhPeUs3b0VFZldUc3UzNzVpX3ZPNHdQNkNkLWNNS2FhaHYwOVFhOG1UeU5VeEJyVDNFbTJBOWRpMWJHc0JDM3ZzVU03MjBvY1FoWVJFcFowR1A3MVE?oc=5",
+      "source": "ایران اینترنشنال",
+      "date": "Sat, 23 May 2026 22:43:23 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "直播 - 特朗普表示伊朗协议基本谈妥，预计将很快宣布 - ایران اینترنشنال"
+    },
+    {
+      "title": "See Donald Trump Jr. and Bettina Anderson together over the years - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakFoRVYzME1raWNUbzJpa0NTLWhrNGJpS1c0akhQSGJxYS1VcWNaOEt2bVV2ZEw4eVZyN240anM4VHhxM3ZMMk9aWWdiQTZvY0ZfWG9LOWl6LWYwLWpKRTJ1SjBQbTlRMUkwM25JczZvNmhZWFBxQWlSakVOUUJTTHVqNF9KalJpbE1PMWZJTjZuWkl2VGN5T29BMWVQT1ZHZ1ktNEdCREJxSTlCVmF5NTRzTUhlQzA5?oc=5",
+      "source": "USA Today",
+      "date": "Sat, 23 May 2026 22:02:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z"
     },
     {
       "title": "Trump says Iran deal announcement coming ‘shortly’ - Roll Call",
@@ -69,8 +110,8 @@
       "source": "Roll Call",
       "date": "Sat, 23 May 2026 21:50:13 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "特朗普表示伊朗协议的宣布将在“短期内”到来 - 《滚动报道》"
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "特朗普表示伊朗协议的宣布将在“短期内”到来 - Roll Call"
     },
     {
       "title": "Donald Trump Jr. and Bettina Anderson Celebrate Marriage with Intimate Bahamas Wedding Ceremony - People.com",
@@ -78,90 +119,43 @@
       "source": "People.com",
       "date": "Sat, 23 May 2026 21:49:54 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z"
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "唐纳德·特朗普 Jr. 和贝蒂娜·安德森在巴哈马举行亲密婚礼庆祝婚姻 - People.com"
     },
     {
-      "title": "Agreement on Iran war ‘largely negotiated,’ Trump says amid fragile ceasefire - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHFIRGJOenNaZEZ6SWdNNl9QRlBpTzBvSGtIQVZGTEo2QjJZZ2F0LTR0eHNsOWFQSV9LMHBfa2kwMlotV0lRM2RiZm9VUjlwOFYyYmtfMkE5SEJMWFlmc0Z1dDFvWFdYWHlYV3J3Y19Pb1dGZ2pHNDRlSGkzWWpIU2FfdE5iQURRYks5S09LRDVIcGVHWFVlUkFqUzFVRGQ3SFo4QjJPMUdtaDIxWGhMbzROR3A4TnlkRFVjaHM4Tm4wVF8y?oc=5",
-      "source": "NBC News",
-      "date": "Sat, 23 May 2026 21:25:54 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z"
-    },
-    {
-      "title": "Trump Unravels in Alarming Truth Social Rampage - The Daily Beast",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1NJU1FIZENBQTNBUWdLdUNpUnRPNzNmQVZMbXZoMnRQTWo2TVVUX3JHaXVsWVRrZXNKZDNyZDJuTUhHWlZsMUlicWd6RElMT2tVSW5DYjBkdWMyd2JfM2h4c2RTYlkyQksxLTlIbFVrbkkxUkVERXFEekZnaG55N2VxY0Y?oc=5",
-      "source": "The Daily Beast",
-      "date": "Sat, 23 May 2026 21:19:00 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z"
-    },
-    {
-      "title": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEw5VWRTWHZxOHdyWTJ1TFdpSE51ell3MWVmbDVDNF9jS2lhSWM3VUYtYUU5eTZ6cEQ1UEE5dDFXZEY5dlNEVEpnYWFGNkNUY3JFNUszSkk3eXBWM0hzN2xvQzlucEwtRjVwYTJ5U3hRQ2l6ckpVRU8zN2dkaEVMTXFZcFJuRXVaVXRsSklORjVYZnB2cG9aVnJ5NGRKUHk0QVVKdnVIbUczcE9kbHFCWmZtZ9IBuAFBVV95cUxPQXZOall0dEpNMlNUUjdpZFBQNHpCajlNdXJQVHZTRVJMVE9OVzZhZnpBUDdpTFNLUnotRnlCMUNkQUZ4Y0g1bndRd3phZnVSRjhHOEtONG85Ym4xeG5BNC1qWXNSSzh6c1Jha3pTUlhrbnltNE54UDZta1k3QkNnOXl2MndlVHFZNnM2QkRhT3d3bzE1OGV2dUtCUzBlN3dEQzRVek9ndXlzY0VNQUtWZ01yR0Fzb05G?oc=5",
-      "source": "Al Jazeera",
-      "date": "Sat, 23 May 2026 21:14:01 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z"
-    },
-    {
-      "title": "Trump says deal with Iran, including opening Strait of Hormuz, is 'largely negotiated' - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkQ1NE9LTjVHOHhzTEg5eFJmNGdCZWlKckFjbnBpZXZscXZHMEhEU01aSzlxNnJucEk2SmFKTGlEMlp2eDRUNkFPNDJ0dFBvMmoxN1FjX0VqT2M0dTQtdGJ1djdNQl9yN0p2ZUFob2Vjb01PWllOYnptb1RqLW1EOEo4QWZuY2tiZk4ycUM1MmJxeHQweUxCY1ZVQnZYdG1XLWZMWjN6LURkOVdSZWM0SDY2V1l2X0o40gG-AUFVX3lxTE9pMlhUNThpV3VhSVoxdlQyWU1mVXdoNFpUOUFBdjZra0MzcmVIVVlaM3RpbE5DcG9ZamRiaFZkOXMydnFVRnRwS2FWSl9hRFRjMnVfdldQOXNkWEVnd0xXR1hVTlpVVDdKdk1pekFaVFotNVZrNnl4dlNzWHlGMzMySEVhVldFU1FHSlJBNHhHS01vWjQ2aUZqRWhjb2EwdXJTY1ZidzZYZjVnRUZXdWc1cHRTWnNnT2RFLWJWUHc?oc=5",
-      "source": "PBS",
-      "date": "Sat, 23 May 2026 20:50:22 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "特朗普表示与伊朗的协议，包括开放霍尔木兹海峡，已“基本谈妥” - PBS"
-    },
-    {
-      "title": "Trump says Iran deal 'largely negotiated,' had positive call with Netanyahu - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40Q3lUMENHU1NPZ2tlcWlHdTBZMHZsTGZ0WWE3ZTBqTFljT2piajZKMWl6bG9LaXdWb2NvMlBRVnlHU0hNcXhrY2F0REVudS1lTHpyTGZnREo3VWctWDJuUEl5Y3RWOHEtaXc?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "Sat, 23 May 2026 20:42:36 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z"
-    },
-    {
-      "title": "Tulsi Gabbard Resigns as Intelligence Chief - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tOUpwVml0bjh0N2drcTNZSlRjb1JmdEp1UDB6YlprekdzbU9MUFhOQkZJc0FGc1luMWdYdXNjNVFUMHBLT0xROUg3cDJka0RtdlR2Q1R5eGljbWg0SXZpal9naw?oc=5",
+      "title": "Donald Trump Jr. and Bettina Anderson Celebrate Marriage on Bahamas Private Island - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFVIMlA0LTJzYzlVOXFfRVZyVDhvMUdfb1JLcVFSSklEY2JkdklTWl96VTM1bHBrZnlsRmNLR29uRFliTjBsZ1l1NF9tUkVpR3g4dDFMaGEwSWxfOFJlSDhaaDhtdkxPOW13MHRfWnVFQkZfWVRQSm5WSUhWU3Z2Q1dzc19ncThMd2lTS0hTbw?oc=5",
       "source": "The New York Times",
-      "date": "Sat, 23 May 2026 20:30:00 GMT",
+      "date": "Sat, 23 May 2026 21:30:36 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z"
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "唐纳德·特朗普 Jr. 和贝蒂娜·安德森在巴哈马私人岛屿庆祝婚姻 - 纽约时报"
     },
     {
-      "title": "Trump met top advisers on Iran as he weighs return to war - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wcmJGaFl5Si0yaXRJSUcxYld4MFVzaTl2YW5Vb2ppSnBwdVdUeGEzX25KSHBTaWlod0JrQU03dTJzT0JvMXJUY0p5TmhkX0lUNkhlWmpPcThfNVRiRXotWjFuaFlLV3pkUlMyN2E2a3Nvczd0REE?oc=5",
-      "source": "Axios",
-      "date": "Sat, 23 May 2026 20:10:16 GMT",
+      "title": "Trump Visits New York to Boost House Republican’s Re-election Hopes - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qWXdqVl9BSlJ3TWx0WThibFktMUplUEdRd3hJRWVPT2duWXFuVThvX0MxYUZmRzN6c084a0hHOGdBeUpxdHJUeWVoZVNJXzdIb1BtWmtLRHgxZzhoekVBRWhhSklMRFZ4VWdmSE82SUppbDgwTkxLczAwLU1aZw?oc=5",
+      "source": "The New York Times",
+      "date": "Sat, 23 May 2026 21:07:00 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z"
-    },
-    {
-      "title": "Iran 'getting a lot closer' to agreement with US, Trump says - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BeXpHWk9FU1RfRHJIMGFNQ2tacWNvM2dCanhJNVlxODFJWWtrWS1aLTc2UVJKc1dGdC1HRC1fbTlQNnNBYWZYRnZJM0JTYUFXLXhYc0FEeWNCZw?oc=5",
-      "source": "BBC",
-      "date": "Sat, 23 May 2026 19:37:28 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "特朗普表示伊朗“离与美国达成协议越来越近” - BBC"
-    },
-    {
-      "title": "Trump spoke with Middle East leaders on Iran - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFZIU25xdkxHdURlZTZfLUgwU2NfUTh6S0hfMDh3Z1BCbFF1V2dZRkJQZzlyenRhb2lLVFJmLWpmTjQtRGs5b2FacW1YWlF3X2VuLTVrcFNFUU5TN2xFeGNZTXJVMGF2SS1qZHlkeHluRVNmdkNmeWtINjZQR3FkRjU4QTg4cmlvUE9Fbml3OUJpUdIBlwFBVV95cUxQUHNVTzlLQ0NNNHN6LUt3YnQ0MENuQ0NxckZBeTJZblJUSG1aUUpDMHoyWmVJajRDbjhDZDFKenVPNlV2UG9QaHZ6ei1PcUMzOTlEMXZHTjRLaHBSTEdlVWNPQXNGM2tBbDNoQlF2WldDeFltLUhxdlNseWdOMGY0c3VqYkgtQ1NjVzMwcFRYZnktQkY0X3Bz?oc=5",
-      "source": "NewsNation",
-      "date": "Sat, 23 May 2026 19:18:30 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z"
+      "fetchedAt": "2026-05-24T02:53:56.367Z"
     },
     {
       "title": "Donald Trump Is Too Busy Posting Weird Memes to Go to Don Jr.’s Wedding - Mother Jones",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1Jpc09uSWtxTmdOSkY1TVFpUWpaeU42aDJCTGNTaHE0QlJFcmRZbVZNT1VQcmNrSnJHcy0xWlV4TDhMNWFIeTFqSTMtT3FZMGo2UDcwOXdEbVpSaTFIZzI0bG5NQXk5c2RPRTE1a0Q2ZWk5MEpYaGtSZmE4ZG5iVi1vZlBpb2FZMDBTQkIwUlZmS2xpVy1xaThGNVlCLUd0emJpYUJDVGRWS2RNTWlWT2RLMzFoLUk?oc=5",
       "source": "Mother Jones",
-      "date": "Sat, 23 May 2026 17:53:17 GMT",
+      "date": "Sat, 23 May 2026 18:09:48 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "唐纳德·特朗普太忙于发布奇怪的表情包，无法参加唐 Jr. 的婚礼 - 《母亲琼斯》"
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "唐纳德·特朗普太忙于发布奇怪的表情包，无法参加唐 Jr. 的婚礼 - Mother Jones"
+    },
+    {
+      "title": "Exclusive: Trump says he's \"50/50\" on Iran deal, decision by Sunday - Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VSVVVb1MtbU9EZDdKSTkyLXk3ektSZEJOSXlIQnl2R3F5czBTcjFQVWpFaFNFWVVOVnRUVTNET3lROTR5SnN0eXlXOGtheDRPN3dmZjk1MnRoUDJhTlFuNHNpblJ6SDR6SFRGWEo3ME9Bb0hNS2o3eA?oc=5",
+      "source": "Axios",
+      "date": "Sat, 23 May 2026 17:52:29 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "独家：特朗普表示他对伊朗协议的态度是“50/50”，将在周日做出决定 - Axios"
     },
     {
       "title": "What will Trump do next with Iran? - NPR",
@@ -169,7 +163,7 @@
       "source": "NPR",
       "date": "Sat, 23 May 2026 17:49:28 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
       "titleZh": "特朗普接下来会对伊朗做什么？ - NPR"
     },
     {
@@ -178,68 +172,67 @@
       "source": "The New York Times",
       "date": "Sat, 23 May 2026 17:28:00 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "唐纳德·特朗普 Jr. 和贝蒂娜·安德森在西棕榈滩结婚 - 《纽约时报》"
+      "fetchedAt": "2026-05-24T02:53:56.367Z"
     }
   ],
   "topics": [
     {
       "title": "Iran Deal Negotiations",
-      "summary": "Recent discussions have focused on a potential agreement between the U.S. and Iran, with Donald Trump claiming that the deal is 'largely negotiated.' This has sparked significant interest and concern among political leaders and analysts regarding the implications for U.S. foreign policy and stability in the Middle East. The announcement of the deal is anticipated soon, particularly concerning the opening of the Strait of Hormuz.",
+      "summary": "Donald Trump has been vocal about the ongoing negotiations regarding a potential agreement with Iran. He claims that the deal has been largely negotiated and is awaiting finalization, which includes discussions about reopening the Strait of Hormuz. This topic has garnered significant media attention as it could have major implications for U.S.-Iran relations and regional stability.",
       "titleZh": "伊朗协议谈判",
-      "summaryZh": "最近的讨论集中在美国与伊朗之间潜在协议上，唐纳德·特朗普声称该协议“基本谈妥”。这引发了政治领导人和分析人士对美国外交政策及中东稳定的重大关注和担忧。预计该协议的宣布将很快到来，特别是关于霍尔木兹海峡的开放。",
-      "articleCount": 3,
-      "articleIndices": [
-        3,
-        12,
-        19
-      ],
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2pWv2robuEYNbhhtFplpax5RPAQBHiOdbgFwB2xmyKs4A1CvdgXHHPP-SzrA",
-      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2pWv2robuEYNbhhtFplpax5RPAQBHiOdbgFwB2xmyKs4A1CvdgXHHPP-SzrA"
-    },
-    {
-      "title": "Trump's Political Challenges",
-      "summary": "Donald Trump is facing significant political challenges as reports indicate a tough week for him on Capitol Hill, with GOP senators expressing dissatisfaction. Despite these challenges, Trump continues to push forward with his agenda, including controversial ideas that may not resonate well with the public or even his party members.",
-      "titleZh": "特朗普的政治挑战",
-      "summaryZh": "唐纳德·特朗普面临重大政治挑战，报告显示他在国会山度过了艰难的一周，共和党参议员表达了不满。尽管面临这些挑战，特朗普仍继续推进他的议程，包括可能与公众或他的党内成员不太契合的争议性想法。",
+      "summaryZh": "唐纳德·特朗普对正在进行的伊朗潜在协议谈判发表了明确的看法。他声称该协议已基本谈妥，正在等待最终确定，其中包括关于重新开放霍尔木兹海峡的讨论。这个话题引起了媒体的广泛关注，因为它可能对美伊关系和地区稳定产生重大影响。",
       "articleCount": 3,
       "articleIndices": [
         1,
-        9,
-        27
+        10,
+        31
       ],
-      "thumbnail": "https://ik.imagekit.io/po8th4g4eqj/production/tr:w-1168/Greene-TrumpEuropePolicies-Donald-Trump-in-Poland-Warsaw-Uprising-Monument-wikimedia-bannerimage-1168x440px.jpg",
-      "image": "https://ik.imagekit.io/po8th4g4eqj/production/tr:w-1168/Greene-TrumpEuropePolicies-Donald-Trump-in-Poland-Warsaw-Uprising-Monument-wikimedia-bannerimage-1168x440px.jpg"
+      "thumbnail": "https://ynet-pic1.yit.co.il/cdn-cgi/image/format=auto/picserver6/crop_images/2025/04/10/Bkba8srR1g/Bkba8srR1g_0_0_850_479_0_large.jpg",
+      "image": "https://ynet-pic1.yit.co.il/cdn-cgi/image/format=auto/picserver6/crop_images/2025/04/10/Bkba8srR1g/Bkba8srR1g_0_0_850_479_0_large.jpg"
+    },
+    {
+      "title": "Trump's Approval Ratings",
+      "summary": "Recent reports indicate that Trump's approval ratings have been affected by his stance on various politically unpopular ideas, particularly in light of recent events. Despite setbacks, he continues to push forward with his agenda, which some analysts suggest may be alienating certain voter demographics.",
+      "titleZh": "特朗普的支持率",
+      "summaryZh": "最近的报告显示，特朗普的支持率受到他在一些政治上不受欢迎的观点上的立场影响，尤其是在最近事件的背景下。尽管面临挫折，他仍继续推进自己的议程，一些分析人士认为这可能会疏远某些选民群体。",
+      "articleCount": 3,
+      "articleIndices": [
+        2,
+        24,
+        30
+      ],
+      "thumbnail": "https://catholicreview.org/wp-content/uploads/2025/04/trump-approval-768x512.jpg",
+      "image": "https://catholicreview.org/wp-content/uploads/2025/04/trump-approval-768x512.jpg"
     },
     {
       "title": "Donald Trump Jr.'s Wedding",
-      "summary": "Donald Trump Jr. recently got married to Bettina Anderson in a ceremony held in the Bahamas. This event has attracted media attention, particularly regarding the absence of Donald Trump at the wedding due to his busy schedule and ongoing political activities.",
+      "summary": "Donald Trump Jr. recently celebrated his marriage to Bettina Anderson in a private ceremony in the Bahamas. This event has attracted media attention, with reports highlighting the attendance of family members and the significance of the occasion amidst ongoing political developments.",
       "titleZh": "唐纳德·特朗普 Jr. 的婚礼",
-      "summaryZh": "唐纳德·特朗普 Jr. 最近在巴哈马举行了与贝蒂娜·安德森的婚礼。由于唐纳德·特朗普因忙碌的日程和持续的政治活动而缺席，此事件引起了媒体的关注。",
+      "summaryZh": "唐纳德·特朗普 Jr. 最近在巴哈马举行了与贝蒂娜·安德森的私人婚礼。此事件引起了媒体的关注，报道强调了家庭成员的出席以及在持续的政治发展中这一场合的重要性。",
       "articleCount": 3,
       "articleIndices": [
-        13,
+        12,
         22,
-        24
+        25
       ],
-      "thumbnail": "https://www.hola.com/us/horizon/43/e9fd0a16bee9-gettyimages-2202762529.jpg",
-      "image": "https://www.hola.com/us/horizon/43/e9fd0a16bee9-gettyimages-2202762529.jpg"
+      "thumbnail": "https://foto.haberler.com/crop/634x350/haber/2026/05/22/trump-oglunun-dugunune-gitmiyor_4eaa36541b_amp.jpg",
+      "image": "https://foto.haberler.com/crop/634x350/haber/2026/05/22/trump-oglunun-dugunune-gitmiyor_4eaa36541b_amp.jpg"
     }
   ],
   "summary24h": [
     {
       "time": "15:00 (PT)",
-      "text": "在白宫与中东领导人进行了重要电话会议，讨论与伊朗的协议。",
-      "videoQuery": "Donald Trump official public speech",
+      "text": "与多国领导人进行电话会议，讨论与伊朗的和平协议。",
+      "videoQuery": "Donald Trump Iran peace agreement meeting",
       "locationName": "Washington, D.C.",
       "locationCoords": [
-        38.8951,
-        -77.0364
+        38.89511,
+        -77.03637
       ],
       "truthSocialIds": []
     },
     {
-      "time": "16:00 (PT)",
+      "time": "18:00 (PT)",
       "text": "在社交媒体上发布了关于伊朗协议的最新声明。",
       "videoQuery": "",
       "truthSocialIds": [
@@ -250,10 +243,27 @@
   "socialMedia": [
     {
       "platform": "Truth Social",
+      "date": "2026-05-24T01:59:43.503Z",
+      "text": "The Democrats just released an “Autopsy” of their 2024 Presidential Campaign, typos and all, but they refused to discuss two very important words, BAD POLICY. The candidates, Sleepy Joe and then, Kamala, weren’t so “HOT” either! President DJT",
+      "likes": "5955",
+      "reposts": "1402",
+      "url": "https://truthsocial.com/@realDonaldTrump/116627078084596411",
+      "id": "116627078084596411",
+      "isReal": true,
+      "mediaAttachments": [],
+      "account": {
+        "username": "realDonaldTrump",
+        "display_name": "Donald J. Trump",
+        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
+      },
+      "textZh": "民主党刚刚发布了他们2024年总统竞选的“尸检报告”，错别字一堆，但他们拒绝讨论两个非常重要的词，糟糕的政策。候选人，昏昏欲睡的乔和卡马拉，也没那么“火热”！总统DJT"
+    },
+    {
+      "platform": "Truth Social",
       "date": "2026-05-23T20:30:37.481Z",
       "text": "I am in the Oval Office at the White House where we just had a very good call with President Mohammed bin Salman Al Saud, of Saudi Arabia, Mohammed bin Zayed Al Nahyan, of The United Arab Emirates, Emir Tamim bin Hamad bin Khalifa Al Thani, Prime Minister Mohammed bin Abdulrahman bin Jassim bin Jaber Al Thani, and Minister Ali al-Thawadi, of Qatar, Field Marshal Syed Asim Munir Ahmed Shah, of Pakistan, President Recep Tayyip Erdoğan, of Türkiye, President Abdel Fattah El-Sisi, of Egypt, King Abdullah II, of Jordan, and King Hamad bin Isa Al Khalifa, of Bahrain, concerning the Islamic Republic of Iran, and all things related to a Memorandum of Understanding pertaining to PEACE. An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries, as listed. Separately, I had a call with Prime Minister Bibi Netanyahu, of Israel, which, likewise, went very well. Final aspects and details of the Deal are currently being discussed, and will be announced shortly. In addition to many other elements of the Agreement, the Strait of Hormuz will be opened. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "likes": "38882",
-      "reposts": "8563",
+      "likes": "51702",
+      "reposts": "11299",
       "url": "https://truthsocial.com/@realDonaldTrump/116625784011805994",
       "id": "116625784011805994",
       "isReal": true,
@@ -263,14 +273,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "我在白宫的椭圆形办公室，刚刚与沙特阿拉伯的穆罕默德·本·萨勒曼·阿尔·沙特总统、阿联酋的穆罕默德·本·扎耶德·阿尔·纳哈扬、卡塔尔的塔米姆·本·哈马德·本·哈利法·阿尔·萨尼埃米尔、穆罕默德·本·阿卜杜拉赫曼·本·贾西姆·本·贾伯·阿尔·萨尼总理、卡塔尔的阿里·阿尔·萨瓦迪部长、巴基斯坦的赛义德·阿西姆·穆尼尔·艾哈迈德·沙赫场军、土耳其的雷杰普·塔伊普·埃尔多安总统、埃及的阿卜杜勒·法塔赫·塞西总统、约旦的阿卜杜拉二世国王和巴林的哈马德·本·伊萨·阿尔·哈利法国王进行了非常好的通话，讨论了关于伊朗伊斯兰共和国及与和平相关的谅解备忘录的所有事项。协议已经基本谈妥，待美国、伊朗伊斯兰共和国及其他各国最终确认。此外，我还与以色列的内塔尼亚胡总理进行了通话，同样进展顺利。协议的最终细节和方面目前正在讨论中，并将很快公布。除了协议的许多其他要素外，霍尔木兹海峡将会开放。感谢您对此事的关注！总统唐纳德·J·特朗普"
+      "textZh": "我在白宫的椭圆形办公室，刚刚与沙特阿拉伯的穆罕默德·本·萨勒曼总统、阿联酋的穆罕默德·本·扎耶德·阿尔·纳哈扬、卡塔尔的塔米姆·本·哈马德·本·哈利法·阿尔·萨尼总理、阿尔·萨尼的穆罕默德·本·阿卜杜拉赫曼·本·贾西姆·本·贾伯·阿尔·萨尼部长、巴基斯坦的赛义德·阿西姆·穆尼尔·艾哈迈德·沙赫场军、土耳其的雷杰普·塔伊普·埃尔多安总统、埃及的阿卜杜勒·法塔赫·塞西总统、约旦的阿卜杜拉二世国王和巴林的哈马德·本·伊萨·阿尔·哈利法国王进行了非常好的通话，讨论了伊朗伊斯兰共和国及与和平相关的谅解备忘录。协议已经大致谈妥，待美国、伊朗伊斯兰共和国及上述各国的最终确认。此外，我还与以色列的内塔尼亚胡总理进行了通话，同样进展良好。交易的最终细节目前正在讨论中，并将很快公布。除了协议的许多其他要素外，霍尔木兹海峡将会开放。感谢您对此事的关注！总统唐纳德·J·特朗普"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-23T16:59:18.152Z",
       "text": "https://www.pressandjournal.co.uk/fp/sport/golf/7019115/trump-international-lands-colin-montgomeries-seal-of-approval/",
-      "likes": "8680",
-      "reposts": "1816",
+      "likes": "10732",
+      "reposts": "2211",
       "url": "https://truthsocial.com/@realDonaldTrump/116624953059006946",
       "id": "116624953059006946",
       "isReal": true,
@@ -292,8 +302,8 @@
       "platform": "Truth Social",
       "date": "2026-05-23T16:58:23.738Z",
       "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116624948733776921",
-      "likes": "8884",
-      "reposts": "2079",
+      "likes": "10979",
+      "reposts": "2533",
       "url": "https://truthsocial.com/@realDonaldTrump/116624949486785240",
       "id": "116624949486785240",
       "isReal": true,
@@ -309,7 +319,7 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116624948733776921"
+      "textZh": "转发: https://truthsocial.com/users/realDonaldTrump/statuses/116624948733776921"
     },
     {
       "platform": "Truth Social",
@@ -326,14 +336,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "RT @realPatriotFreedomProject：那些现在对赦免感到崩溃的民主党人和反特朗普者，在美国人被不公正的监禁判决埋没、经济破产、以及被武器化的司法系统政治打击时却没有说一句话。有趣的是，“仁慈”现在突然变得重要。我看到检察官试图将普通的定罪变成毁灭人生的判决。我看到家庭被压垮，而媒体却对此无动于衷，因为被告的政治立场让他们容易被仇恨。有些人是无辜的。有些人明显被过度指控。许多人根本没有机会与这个系统抗衡。赦免和宽恕的存在是因为系统并不完美，假装相反是危险的。这就是我们最新的武器化观察文章的主题。@realDonaldTrump open.substack.com/pub/patriotfre…"
+      "textZh": "转发 @realPatriotFreedomProject 这些对赦免感到崩溃的民主党人和反特朗普者，在美国人被不公正的监禁判决埋没、经济被摧毁、以及被武器化的司法系统政治打击时却没有说一句话。奇怪的是，“仁慈”现在突然变得重要。我看到检察官试图将普通的定罪转变为毁灭人生的判刑。我看到家庭被压垮，而媒体却对此无动于衷，因为被告的政治立场让他们容易被仇恨。有些人是无辜的。有些人显然被过度指控。许多人根本没有机会与这个机器抗衡。赦免和宽恕的存在是因为系统并不完美，假装否则是危险的。这正是我们最新的武器化观察文章所讨论的。@realDonaldTrump open.substack.com/pub/patriotfre…"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-23T16:57:23.501Z",
       "text": "https://www.foxnews.com/politics/dem-governor-hot-seat-testing-limits-authority-major-move-ice",
-      "likes": "7877",
-      "reposts": "2380",
+      "likes": "9727",
+      "reposts": "2909",
       "url": "https://truthsocial.com/@realDonaldTrump/116624945545360144",
       "id": "116624945545360144",
       "isReal": true,
@@ -355,8 +365,8 @@
       "platform": "Truth Social",
       "date": "2026-05-23T16:56:32.100Z",
       "text": "We all miss the Huckster!",
-      "likes": "10235",
-      "reposts": "1998",
+      "likes": "12606",
+      "reposts": "2395",
       "url": "https://truthsocial.com/@realDonaldTrump/116624942172469666",
       "id": "116624942172469666",
       "isReal": true,
@@ -372,14 +382,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "我们都想念哈克斯特！"
+      "textZh": "我们都想念Huckster！"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-23T16:56:14.498Z",
       "text": "President Trump’s Fixation On Heaven Is Good For America: https://www.americanthinker.com/articles/2026/03/president_trump_s_fixation_on_heaven_is_good_for_america.html",
-      "likes": "9433",
-      "reposts": "2390",
+      "likes": "11582",
+      "reposts": "2870",
       "url": "https://truthsocial.com/@realDonaldTrump/116624941023353466",
       "id": "116624941023353466",
       "isReal": true,
@@ -389,14 +399,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "特朗普总统对天堂的执着对美国有好处： https://www.americanthinker.com/articles/2026/03/president_trump_s_fixation_on_heaven_is_good_for_america.html"
+      "textZh": "特朗普总统对天堂的执着对美国是有益的: https://www.americanthinker.com/articles/2026/03/president_trump_s_fixation_on_heaven_is_good_for_america.html"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-23T16:55:38.547Z",
       "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116624937762459378",
-      "likes": "8028",
-      "reposts": "1868",
+      "likes": "9761",
+      "reposts": "2226",
       "url": "https://truthsocial.com/@realDonaldTrump/116624938660853680",
       "id": "116624938660853680",
       "isReal": true,
@@ -412,14 +422,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116624937762459378"
+      "textZh": "转发: https://truthsocial.com/users/realDonaldTrump/statuses/116624937762459378"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-23T16:55:02.315Z",
       "text": "Republican House Should Staple SAVE America Act to Everything It Sends the GOP Senate: https://www.dailysignal.com/2026/05/15/save-act-house-senate/",
-      "likes": "9029",
-      "reposts": "2578",
+      "likes": "10976",
+      "reposts": "3110",
       "url": "https://truthsocial.com/@realDonaldTrump/116624936292481598",
       "id": "116624936292481598",
       "isReal": true,
@@ -429,14 +439,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "共和党众议院应该将SAVE America法案附加到它发送给共和党参议院的所有法案上： https://www.dailysignal.com/2026/05/15/save-act-house-senate/"
+      "textZh": "共和党众议院应将SAVE America法案附加到发送给共和党参议院的所有文件上: https://www.dailysignal.com/2026/05/15/save-act-house-senate/"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-23T16:54:46.891Z",
       "text": "America’s love affair with the road endures: https://www.washingtonexaminer.com/opinion/columnists/4570231/america-love-affair-roads-automobiles/",
-      "likes": "6294",
-      "reposts": "1441",
+      "likes": "7639",
+      "reposts": "1715",
       "url": "https://truthsocial.com/@realDonaldTrump/116624935281735015",
       "id": "116624935281735015",
       "isReal": true,
@@ -446,14 +456,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "美国与公路的爱情故事依然持续： https://www.washingtonexaminer.com/opinion/columnists/4570231/america-love-affair-roads-automobiles/"
+      "textZh": "美国与公路的爱情故事依然持续: https://www.washingtonexaminer.com/opinion/columnists/4570231/america-love-affair-roads-automobiles/"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-23T16:54:22.450Z",
       "text": "Won Big!https://www.washingtonexaminer.com/in_focus/4571185/thomas-massie-useless-tenure-congress-coming-to-an-end/",
-      "likes": "7784",
-      "reposts": "1804",
+      "likes": "9458",
+      "reposts": "2178",
       "url": "https://truthsocial.com/@realDonaldTrump/116624933679947822",
       "id": "116624933679947822",
       "isReal": true,
@@ -463,14 +473,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "赢得了巨大的胜利！ https://www.washingtonexaminer.com/in_focus/4571185/thomas-massie-useless-tenure-congress-coming-to-an-end/"
+      "textZh": "赢得了大胜！https://www.washingtonexaminer.com/in_focus/4571185/thomas-massie-useless-tenure-congress-coming-to-an-end/"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-23T16:54:07.444Z",
       "text": "Trump’s Global Gambit: How Strikes On Iran And Venezuela Are Fueling America’s Economic Comeback And Checking China: https://loomered.com/2026/04/28/trumps-global-gambit-how-strikes-on-iran-and-venezuela-are-fueling-americas-economic-comeback-and-checking-china/",
-      "likes": "6539",
-      "reposts": "1647",
+      "likes": "7952",
+      "reposts": "1971",
       "url": "https://truthsocial.com/@realDonaldTrump/116624932696824292",
       "id": "116624932696824292",
       "isReal": true,
@@ -480,75 +490,38 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "特朗普的全球策略：对伊朗和委内瑞拉的打击如何推动美国经济复苏并制衡中国： https://loomered.com/2026/04/28/trumps-global-gambit-how-strikes-on-iran-and-venezuela-are-fueling-americas-economic-comeback-and-checking-china/"
+      "textZh": "特朗普的全球策略：对伊朗和委内瑞拉的打击如何推动美国经济复苏并制衡中国: https://loomered.com/2026/04/28/trumps-global-gambit-how-strikes-on-iran-and-venezuela-are-fueling-americas-economic-comeback-and-checking-china/"
     }
   ],
-  "trends": [
-    {
-      "title": "cnn",
-      "traffic": "50000+",
-      "pubDate": "Sat, 23 May 2026 15:40:00 -0700",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXqW12X5liGvj7TSgpLE3GKZuZhFL_VWN5S0Ht3D_lUNntPHWYJZFbDlRfkyU",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXqW12X5liGvj7TSgpLE3GKZuZhFL_VWN5S0Ht3D_lUNntPHWYJZFbDlRfkyU",
-      "newsItems": [
-        {
-          "title": "Trump says Iran deal reopening Strait of Hormuz &apos;largely negotiated,&apos; will be announced soon",
-          "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
-          "source": "CNBC",
-          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXqW12X5liGvj7TSgpLE3GKZuZhFL_VWN5S0Ht3D_lUNntPHWYJZFbDlRfkyU",
-          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXqW12X5liGvj7TSgpLE3GKZuZhFL_VWN5S0Ht3D_lUNntPHWYJZFbDlRfkyU"
-        },
-        {
-          "title": "Middle East crisis live: fate of strait of Hormuz hangs in balance as Trump claims Iran deal ‘largely negotiated’",
-          "url": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
-          "source": "The Guardian",
-          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2pWv2robuEYNbhhtFplpax5RPAQBHiOdbgFwB2xmyKs4A1CvdgXHHPP-SzrA",
-          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2pWv2robuEYNbhhtFplpax5RPAQBHiOdbgFwB2xmyKs4A1CvdgXHHPP-SzrA"
-        },
-        {
-          "title": "U.S., Iran close to a deal to end war, official says",
-          "url": "https://www.axios.com/2026/05/23/us-iran-trump-deal-war",
-          "source": "Axios",
-          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxjDmN3n1CbR2ZufwUsMkVVAbGVqcMIZnxTMfGdxWWN5ybxGfzAiXMcLOesI",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxjDmN3n1CbR2ZufwUsMkVVAbGVqcMIZnxTMfGdxWWN5ybxGfzAiXMcLOesI"
-        }
-      ]
-    }
-  ],
-  "trendCount": 1,
+  "trends": [],
+  "trendCount": 0,
   "sources": [
     {
-      "title": "Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated' - NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd3Y3bUZKbFd2ZmFrc0U1aFlPNjZyRUFlM0tzbnp6RFRDZER2cmJpcUVKSnNDU2tHLTJ6RTNaX29VWENOSHVtN3VZYzk3b1BUT1ZvWFoxOHgyWDlHal93M1dJMWFkT1RUTmw5aC1tMVE1RlJRMUc4UE5uQ05MLXVtOQ?oc=5",
-      "source": "NPR",
-      "date": "Sat, 23 May 2026 23:00:02 GMT",
+      "title": "See Trump's approval rating after winning week for Trump-backed candidates - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZDc5aEc1a3FrWV9TU2h6YkNuREVVdG9qM0xLbG80SktLcGRENnRNVHN1d3VmOXBqTEJzalA1YnVWQm9rbDBKNGhCMW1McFROeE4yVTBYR2V0SjBXdzlxcVJWb0FGd0hNMVo4V2dhaEE4R0tfTjZnOTktXzktMkJtTXhJUUpzMFZsVTFiV1BJdnNoYTA3WHhNcjFubmtNeXVSRmU0d290U3Yxa2hSN2x4WERoN2tpMnBDaWVqUFFqWndLbXJKT2J0YVEtdDA4WWpLdmpKNDluamJubGxGWGc?oc=5",
+      "source": "The Detroit News",
+      "date": "Sun, 24 May 2026 02:45:00 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "特朗普表示与伊朗的协议和霍尔木兹海峡的开放“基本谈妥” - NPR"
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "看看特朗普支持的候选人在胜利周后的支持率 - 底特律新闻"
     },
     {
-      "title": "Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon",
-      "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
-      "source": "CNBC",
-      "date": "Sat, 23 May 2026 15:40:00 -0700",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXqW12X5liGvj7TSgpLE3GKZuZhFL_VWN5S0Ht3D_lUNntPHWYJZFbDlRfkyU",
-      "isTrend": true,
-      "trendTitle": "cnn",
-      "trendTraffic": "50000+",
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "特朗普表示，伊朗协议重新开放霍尔木兹海峡“基本谈妥”，将很快宣布"
-    },
-    {
-      "title": "Middle East crisis live: fate of strait of Hormuz hangs in balance as Trump claims Iran deal ‘largely negotiated’",
-      "url": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
+      "title": "Trump news at a glance: Does the president see a chance to end the war with Iran? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFpN2ZtLWdJMTNldk5fWmhMSVFlSHlCbkxHSmVEOVhNTERhaUJ4VUx0N2RSMGZCMGUtMDRxcTRlMy16NnpHV2t2bl9vZ3QyV0VWanY5X0E2MDJIMDVTMDB0dWU4WW54YVZXRlczWTZqQVJrM3JZRERhZWJGSzlNaFRHNHBoN0piOTgtNXhHWTlTWmFYOEM5YTBjaUdmTzVaZmMyeGtuREc1LUFieE9mYnJ3UFFlZEVMWlEtMi1oVVZ4ZEpTUGc?oc=5",
       "source": "The Guardian",
-      "date": "Sat, 23 May 2026 15:40:00 -0700",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2pWv2robuEYNbhhtFplpax5RPAQBHiOdbgFwB2xmyKs4A1CvdgXHHPP-SzrA",
-      "isTrend": true,
-      "trendTitle": "cnn",
-      "trendTraffic": "50000+",
-      "fetchedAt": "2026-05-23T23:12:38.040Z",
-      "titleZh": "中东危机直播：霍尔木兹海峡的命运悬而未决，特朗普称伊朗协议“基本谈妥”"
+      "date": "Sun, 24 May 2026 02:24:11 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "特朗普新闻一览：总统是否看到结束与伊朗战争的机会？ - 卫报"
+    },
+    {
+      "title": "Trump says Iran deal 'largely negotiated', dispute over strait reopening - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONEJxbF9SbGFoS1FVQVkzUmhEaGpJLXdRLWlUNDhxZVJKa241dm45U25PRlVSN1dFcmlaaXkzTUdXSEtYYlczQ1VlZjZ0UlZyVEtacWl2clkwVHdnSlczYUI2dkc5eVg2Sm45UDFMZHlKTWtTblNYT2ttNGt2RUVKUFpCZW01RElkYzFPRGJtOHlOeXFid3dfX25kM1dmTXJsb3p6UGlmUmdlVlI3Y2NkbzlaaUI?oc=5",
+      "source": "Reuters",
+      "date": "Sun, 24 May 2026 02:20:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-24T02:53:56.367Z",
+      "titleZh": "特朗普表示伊朗协议“基本谈妥”，关于海峡重开的争议 - 路透社"
     }
   ]
 }
