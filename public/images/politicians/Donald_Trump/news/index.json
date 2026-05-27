@@ -1,189 +1,375 @@
 {
   "posts": [
     {
-      "title": "Texas runoffs live updates: Trump-backed Ken Paxton and incumbent John Cornyn battle for Senate seat - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHdVdUJFSGJER1lXTW5fckNmWHYxRGo2UmRWMmI3MTRLM2ZISEo4N0FYbHF4Nl9JTHUyYnAzbDJsRkVMTzZLZVBxWDFNcm5tT1VGNWM4VXFpLVZNSHhlSUozLUd6ZHh3SnVOS25MZXAtUm9wUEowR284eTN3Tzh1bDV0bmhmcDFJVkpmZzYzZlVwTEl5S1JkY3VMQ3V1QnpxYXViQkRJb0dfOU1CNnVlRHczdGlvM1o0?oc=5",
-      "source": "NBC News",
-      "date": "Tue, 26 May 2026 14:38:33 GMT",
+      "title": "Trump-backed candidate wins GOP primary runoff for new Texas House seat - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkxaMGwwSjlmb0RZU3VsbHhiTXlBZGFNNXdmLUNfS2JSN2lOQ0NUWGNQb1dCT2RqYWRiYUk0a3RZbTRSMVI1cmN4WnhPWTZ6azhlOXU2NkhIcnV1VTFVZzdaU29aamZzd3dNNWxaTkdjdFJUY0lQWldneVA0RGoxb0lQUndDcV9GZlJjUdIBkgFBVV95cUxPTUh5UEFZZU5qVHJoQWdQT3h1LVpJWDZJT1JzMXo0RS1jX3FvSExRdGN3STl5bTRoMW9CM2hwMkVYWkxjTGtQQzdKX0lTS2FLck9CU0VsN0ZVblJEejI2ZEJ3a0tmMzJfT01kendGQ1phOE5ab3lCQ2hKbU1iRF9hMGNBZzBvTGVHM0JOZUVCM1R6QQ?oc=5",
+      "source": "The Hill",
+      "date": "Wed, 27 May 2026 00:25:00 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "德克萨斯州决选实时更新：特朗普支持的肯·帕克斯顿与现任参议员约翰·科宁争夺参议院席位 - NBC新闻"
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "特朗普支持的候选人在德克萨斯州新众议院席位的共和党初选决选中获胜 - 山丘"
     },
     {
-      "title": "Trump to host Cabinet meeting at Camp David on Wednesday as Iran talks continue - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rU1hnNzhIVFVEYXNncktHckdKX1lGTHFBcEw1Wk02bWdaY3dsSi1fTDVTNmlvc1RTOWpSZk4xc1gzXzJNNWpwbjhUZVZpeHBUa1FtT2JiZGpQUks2REJkblN1el93TlBlNktiVkNuRjkxWTZ20gF6QVVfeXFMTUtEcXUxUF90TWtrNG9YYWs3WXFfR1p3QjZkX0ttV3l2LXpyOFBXQktxNXVRNFNzaTJJLTBNRkFkSFgtS1RUOWstajByLUEwYlUzb2lFY0pnZkczY2JxNzB6Z2tJUWctYjNTSWw2TS1QVHY0RnRkS1F4eUE?oc=5",
-      "source": "CNBC",
-      "date": "Tue, 26 May 2026 14:35:33 GMT",
+      "title": "Trump pledges to protect the crypto industry and ensure prediction markets ‘thrive’ - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWtHZE5ZVW01aDMyNURMWFdITTNvOW9oQ0hfZU1wZnhXMXpzQnhMYWNDTWJjYVBXVm9KTU5ZbzV1eFk4aVJIQUhmbEUzcHhyNWIzSDQwNFM3Sjd5QmpZVTRXVVN4Z0poTVpEV1RmYUhpT205T0ZHQV9mWmIwNldrR09iU1NsSk1iSDRqYWJZWlM4Zm5r?oc=5",
+      "source": "NBC News",
+      "date": "Tue, 26 May 2026 23:59:10 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "特朗普将在周三于戴维营主持内阁会议，伊朗谈判持续进行 - CNBC"
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "特朗普承诺保护加密货币行业，确保预测市场“蓬勃发展” - NBC新闻"
+    },
+    {
+      "title": "Trump demands it, but Muslim-majority nations aren't ready to join the Abraham Accords - Politico",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUFiYXljTkstVHRvb3J4YTFpNTlTLV9Yd3ZTZGh0TnAwV3F0RTZNZ3JHUWN6TG8wU2FLRC1OVWdPN25lUzJDQ19uSTBqTGdDR0hCZWxpVWYxcV9HTkZzdmduUkFXUU9NRG8yNjNIa08tOFFLdmE4TGpaMXE3cGJwbmVtaXk5a2xDYm1iTVlFN0F1TkNUUmVvQm85MA?oc=5",
+      "source": "Politico",
+      "date": "Tue, 26 May 2026 23:45:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "特朗普要求，但穆斯林占多数的国家尚未准备好加入亚伯拉罕协议 - 政治家"
+    },
+    {
+      "title": "Trump urges Texas Republicans to vote for Ken Paxton as four-term senator John Cornyn fights to hold seat – live - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3pIMDUxS21MRzF5eTQ2d2k0cmpZbXFIVDFodHhqME5zeHZiNWVZWm90a0JNN3lTRmJLNVA2ZGstNk5Pczd1RmlxekMwZDNVS3JIMDhnZWdHdVZDaW40TXE4QnZUSkI5bGFVTlhIVndYRDQ5X3MzR1J4VDRKeXB5VnpIdmc2VnEzMVRwcWdHSmZLMnJNWDhIV291YTZsQTJLWTZMNVBfR1p5WFdvcGFKSzVPMHRDYlViekFwcFJmSmx2d3FudmVpR05QTkx3bi05?oc=5",
+      "source": "The Guardian",
+      "date": "Tue, 26 May 2026 23:29:58 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "特朗普呼吁德克萨斯州共和党人投票支持肯·帕克斯顿，四届参议员约翰·科宁争取保住席位 - 直播 - 卫报"
+    },
+    {
+      "title": "3 things to know about Trump's order raising the U.S. refugee cap only for white South Africans - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWRjRUZWcnBCQ28tTTM4U1VVVGJLR01VWmplVVd4UjZtTWlsdG5oaFl5MEdiaDI3amF4dmJMTTBRSjlLZWFfWFNOUUExcHZraDVCZUg1RTNreXlodXVqNHhnUnNDQ092Q3JpcWR6MEppaEs3bkJBbjNNTWQzYUJGaDBqanVrcHZya0pBaFpRN0dMd2szWG12V1ZoeTF4ZUtjR0s5TUU1TFJrbk5xODUwYTlCUWZCRDdSaV81SU1GMzhYLWdla2dEbWNIVdIB0AFBVV95cUxNYS01eXplc3dETFZUSzRCVkd5UWVDTnZfZ1NUSkJDSXY5ODNUMFh2V2lGb2ZhSjNQbUoxLWF0UTh1X1YxZ1ZDRVBKLVdwTmYyTWp0aEJYdnpzTldHR0IzdVVpWXhOODFKcFhDN3FxYzMxU0J0VzFOU3ZLVnc0X2hJTmNSZFZOTzNVUU9fejBlMXRVQXlJZzBCVE03TkNpUEQ1azJvYUdrbzJGYmU2cXR6S1N0aTVyT3I2akJPQTB2d3JCOW9mS3F1S1EzeFRRNkQw?oc=5",
+      "source": "PBS",
+      "date": "Tue, 26 May 2026 23:25:49 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "关于特朗普下令仅提高美国难民上限针对白人南非人的三件事 - PBS"
+    },
+    {
+      "title": "‘SCUM’: Trump enters prediction market fight with swing at regulator's critics - Politico",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0Z4UFNoREVrU1NZb2VPLUtMNHpuVTlUZy1Ga3dnN0VWcFdUVjBUa0NqRFF2a1VHMWkxdExCV19OQnJieFZWUkllMzhZUENiRWIxQThVUXcxeWdyUV94V250YjJvV2llWlRtc2o0RDcwQUtEeURUR1dkbkpuYUI4VGtqY2hoMGNjWDF6MUJVb0ZJZWNWYS10bQ?oc=5",
+      "source": "Politico",
+      "date": "Tue, 26 May 2026 23:24:56 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "‘渣滓’：特朗普在预测市场斗争中对监管机构的批评者发起攻击 - 政治家"
+    },
+    {
+      "title": "UFC Unveils Plans for White House Fight on Trump’s Birthday - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQU04cTV4WnVBUjItV1pVYnl6MlV5WEtxOUhsSzJkdFAwYktxTUpnTjV6MU1oSGxZbVdMczNqMkgzOG14OU8zRGdjOS1ndDZfWGhJVHNGODFzeDRrbTRwLVJ3LTFHQzY3TVdsbUVoQ1E4dXZmeElmbTRfVVZCeHRqcDJ0TE1lUQ?oc=5",
+      "source": "The New York Times",
+      "date": "Tue, 26 May 2026 23:20:40 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "UFC公布特朗普生日白宫战斗计划 - 纽约时报"
+    },
+    {
+      "title": "Does Donald Trump Know Men Are Also Allowed to Leave His Cabinet? - The Atlantic",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb3lfTnczTTVwdjEyVDBzMVdXaTdRd0JidXo3dk9jdTFNV1J0RlJ2OVZmTkdoY2FLU0cyeVpGQlRfXzVYaGFiR2lLTDlVWkN1bkVqdHJmc0l0MUNpSEhQVmxEa2NKcEtoclFZaERlb3VWV1ppRE01YWp4aU05cjhpckdrQm5ZLWxS?oc=5",
+      "source": "The Atlantic",
+      "date": "Tue, 26 May 2026 22:01:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z"
+    },
+    {
+      "title": "UFC fighting cage under construction on White House lawn - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjZUWHpQbVNxS1hjQjhIN2ZWRDMtbFFvOXdEblk2U2kxRWVIc3VJenJnZGFGeVBRM2lTX2Z3NFpDOUV3ZURpejVhT2syVzVvUDlZQXRYdEE5TktCdHQ0SnFYNGh1bkdXWDMySWNmS2U0Y1JtcHZpcXBWVVVqTWw3X2lhOVIyREVKcGxkUk9LMmVJNFZXdm1EWVUxSzE?oc=5",
+      "source": "ESPN",
+      "date": "Tue, 26 May 2026 21:46:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z"
+    },
+    {
+      "title": "Deal or no deal? Trump’s social media posts add confusion to Iran conflict - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFYwczlwSFJSTzZ3MDlYR0U5bTdYWjBYb3NjbFVFVWJVMUVvVUI4M09FRmNNUkhoYVFkaXhSVHJxMVMxZU1LN3ZsUWhYbXVUUWxCakNCYUZEcVpKSDdUQ0I1NHdRczdPNmNNWmxBLXQxeVNRMWVvQXBrQkI1cnl3Ykh5bVlqbHRzLUpZUlFDRVZld0Ewa19wenQ1ZEFsOHN2aVVUZ1ZrU19Dc0dXRlBzTTJDUGV1NmZscHdiYXZodw?oc=5",
+      "source": "NBC News",
+      "date": "Tue, 26 May 2026 21:37:11 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "交易还是不交易？特朗普的社交媒体帖子让伊朗冲突更加混乱 - NBC新闻"
     },
     {
       "title": "Live Updates: Iran accuses U.S. of \"grave violation\" of ceasefire as Trump seeks \"good deal or no deal\" - CBS News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWV90b0dVbHBrdzl0ZmxyUzl5d1dEZk5VbEtNVjBoRUtHVVkxRzNoWmxERVhhUVhTR19fbkZoWjRzdFhqeHlqY1pkZUR2WmgyQ2JOeHpyX3U2MDNLOUtsVko3VmVWSEtWaXlQTHVSRFV3TFJXVHZTQ2NIei1tUlBaOWFTRXBONUhIZmxGSllR0gGTAUFVX3lxTFBkZDdUNkFPQmptUk5mTDJ3VkNqMElGOUFORkJRWEFhMThnQzU5U09LQXhHZEJkLTZtNGR0TE9KNFVoR0lSekV4SXBfZWNBa1F5MC1EUFJkNjEwekY1RUdNLTNKVEtISGtBX2tVMm5MT2RnZjN1SnF1T2kxb05uMlJwVUdKOEJSUWtva0ZudmV1Q1p0QQ?oc=5",
       "source": "CBS News",
-      "date": "Tue, 26 May 2026 14:29:00 GMT",
+      "date": "Tue, 26 May 2026 21:36:00 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
+      "fetchedAt": "2026-05-27T00:47:08.436Z",
       "titleZh": "实时更新：伊朗指责美国严重违反停火协议，特朗普寻求“好交易或没有交易” - CBS新闻"
     },
     {
-      "title": "Texas prompts Democratic hopes; Trump’s GOP grip falters: Join the live discussion - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnZKNUVyQlF1UFNPMnVGcm4td0hSS1RDQmhrWE5Pd0FlU2E0LVFXWlBFeGJNWk9DVzE3ZU5vOWdwYjNaRVBmX1JjRmxJNmFwbHJkTUpENjNMT295dUNqRmc5V3NMYm5yZW1zdFlQVUdWS2xJeE1HRlhIdUVGVzI1RFlDVVQyVUVmclh4TXg5MEJlTW1k0gGaAUFVX3lxTE9CenFCUGZoNHhfM2xDblgyYlZQSTZCcnNRRnc1ZXRicC1UM3RnS0xnLWFXdzFQT1lOcmRSQjVkX3h5RVBtNmNLaEJhZzFXQ1R1NFdRVVppLXRSNkw2VEJvSlloM2Y3SXJIOThHdjdVQm51R1VGZF9YTmwwT1ZsRl9kUzEwSTUxdHY4azRUMldYQWtIZ2dXVmUyQ0E?oc=5",
+      "title": "Trump to no longer hold Cabinet meeting at Camp David - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkw2SHQtSlNmMzFKb29RMWROa01jT1cycTBqaEtDZHJtR2d0ODAxc183LTNDRDZyX3ZicEFjUWw2eFJXMTJrWGcwVTlXaklmVHF1UmRxaV8yY2ZmWG9QOW4yM25namtVZmd2ZlRoTDFPOGhNVktrN1hCMGV3YnUxbnZINlhmcXVtMkZuMNIBkgFBVV95cUxNbURuOGdTcDlhSmtpZzI5T05fZ1lVY3h6YTNJMnplZ0xmMWhkMm9KdjM2Qk9tMnA2VmtHdkh2bFdjRXZ3TmpHU0oxTUFyMzdIY1JyR3hKQ1d4a2hnM01remxTZUF1cm5jZ0xGbkhubXRJcW1wUldpbnhid3pGMm1sSGN6VmF5dFFycW95aVl0UldkUQ?oc=5",
       "source": "The Hill",
-      "date": "Tue, 26 May 2026 14:08:00 GMT",
+      "date": "Tue, 26 May 2026 21:20:00 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "德克萨斯州激发民主党希望；特朗普的共和党控制力减弱：加入实时讨论 - The Hill"
+      "fetchedAt": "2026-05-27T00:47:08.437Z"
     },
     {
-      "title": "Donald Trump Is Attempting to Pardon Himself - The Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZzR2bE9CNEpvSWFrQ216enl3a3pUT3BaN0ZXVlR2c1I0d0E3UUNveEtiZHdjU0I4NmVOdm9DWFVFcnlOSE9IVXZYUDRPRl8xSmk5eVk3OFVya3BveGppVFpTS3gxU1RaMDY0SHpCVUV4aXM2Z0RaNnIxcE4zdHJMdE42alYzRkhfRmRvWFgwYWlvbWJOTFRVbzZUT01sX0lubWxkUTZxYw?oc=5",
-      "source": "The Dispatch",
-      "date": "Tue, 26 May 2026 13:36:34 GMT",
+      "title": "Trump moves Cabinet meeting from Camp David to White House due to weather - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05ZmFHclBTUm5OX0lURmZ4UlBJN2NNLWdFLUQ4Q1h3NW9JcG9FNjVzdDdCRmJjUEtrLUZHTmplMXZvT0t3RkVlSzl2bjlLdWE0NzVYaGtQWldIem5LTFpIdXJFdTFDekpkQllPZ25VMXQyc3ZXWmfSAXtBVV95cUxOWXFDSG9UTjYxc2Y3QWdFSy1tbGNTaWhxZXc5UUU3TjdibUVodktncTZrYTg4X3lNamdOOUhmWC1WNmZSeXpPV1QwV3AxRUtReHhpOXVNRFlrNzByTkp3eHIxMEliUEdWVXlWS0V5bmpzVXFZbF9mdTBZLUE?oc=5",
+      "source": "CBS News",
+      "date": "Tue, 26 May 2026 21:03:55 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z"
+      "fetchedAt": "2026-05-27T00:47:08.437Z"
     },
     {
-      "title": "Trump fumes at Congress and courts for holding up his ballroom - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTk5LU19PVXE3c25NQThoNFlPVFcxak5Lb05wNWcyeHhGTXdfcjd2UVdDYnowUXJoUTFPb28yNWVUR2JWZ0doY0ZsQkpQaF9TRl83MkZnc0FkZnBKRTlPN2pFVHNVdU5yVEF3RTg2bHNVdzBNaU8wX3V6SG04UWFTenQyVnFRSndlZ0U1WkhyVFJTMElHdkFiZFFlZVc5eV9yTFQtbmtVRVlPYjhleGVPdQ?oc=5",
-      "source": "The Washington Post",
-      "date": "Tue, 26 May 2026 13:35:57 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "特朗普对国会和法院因阻碍他的舞厅而愤怒 - 华盛顿邮报"
-    },
-    {
-      "title": "Trump returns to Walter Reed for third checkup in 13 months - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RWmJmd3RuejJGSGxrdnVQN0pONTRYRk8xSEsxRHFJMzlxOEpIZDhpdmZHQzZRVjRpQW8xaE1pSXB5Ukk5enpMckc2R1dPMHNpTXVNc0hJbXJqbncxWVdfU0pXOGFyT0JZeks0VncxSy1DZHAyd1l0Z2FVcXbSAYIBQVVfeXFMUHdZWEN0UWVLMTR0bVJzd093Sm1hdnRUcXRILXZ2eTZRRFZnbWZTSXVpWE8wVlNrd3p5WC1KWHhMUEJTOHdVckhBeFhpaHNGRjZyaTNwMzRMdC1qSnNYcHVORlJFN3YxMk42X2d4VFFRdDUtRzNxQk53RHlOZVBhWG8zUQ?oc=5",
-      "source": "NewsNation",
-      "date": "Tue, 26 May 2026 13:12:46 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z"
-    },
-    {
-      "title": "Trump, near 80, to have annual physical amid scrutiny of recent ailments - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSlRlTHo1MlJ4anVOUUJnbGh0NUVTcXFpSklvaEJ5cFFTWEFaRUhLZjF4cVc4dTAtMENRZXBoa1hvdEZ3U19ZTFdac1NnaWhyU2Z4Yzl3V2lyS2ZVQmw5aTZXdm5jRTlTV1luMFlOajhud3pqNDdtMUwyeThWS09Vekcyc0lDOGtSRmp2NXJ1THZod3h6R2YyTjhsLW5NMm9OblliNmRYSVZhSmlSdGdMd0VIVnNHOUh0cWVzRHhTU0YyVVROZEF2TkZxWEd2d05wbmc?oc=5",
-      "source": "Reuters",
-      "date": "Tue, 26 May 2026 13:05:58 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "接近80岁的特朗普将在公众关注近期健康问题的情况下进行年度体检 - 路透社"
-    },
-    {
-      "title": "Trump headed to Walter Reed for medical exam - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1U2UUFPaWhBMDdUUlVJRllxT1lUYUd6SDNvTWpXY2ViTlFPcVZHN3ltdDhXS3RRNFdWeUhHRF82U0tXV1RsY0JiRFNnRkxSTXc2dW9LNS1LdXpFdWlZa29fZ3d4N2tCSm9WYndwSVdQZGlXRTh0SWY5M3p0M2JNRWdreUR4NEVHT284WVBHMGF3TkhGYy0tc3psNTZlUdIBowFBVV95cUxNZUZfc2xyUjJnc1N4Q2x6QUlCaHBoX1N3eGhkbjZZanBXRjk2YmFqVlJXTXF2WjhtRGpEdi1DQi1jVHN3VzQ5WmVWdDRYUGJKcmtRMExoMDZ6M0drd29waUlybFJkLVFIb2F1TFJUc0N1RFZXaVVaN29UZzNxd0pZeHBVMEZmdXpIN1hkVnJxVndjMkdXVGFLRHJiUUotMUg0NnJz?oc=5",
-      "source": "The Hill",
-      "date": "Tue, 26 May 2026 13:03:00 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "特朗普前往沃尔特·里德进行体检 - The Hill"
-    },
-    {
-      "title": "Trump scheduled to see doctors at Walter Reed for his annual physical - KCRA",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMU0FueXlNVUZ0dmNqYlhyZUhXTEoyN2o4VVZaY1lhc0F4RDd1TzFLaWplallJRzlsSTFFUTdmdi1IMlBaQTkzdXJKT2tJWUFlZHJPdV8wanRzM1M4S2lzOTNxVWxGV1VrVjBJc21KUGNpYlE?oc=5",
-      "source": "KCRA",
-      "date": "Tue, 26 May 2026 13:00:00 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z"
-    },
-    {
-      "title": "Instagram gives glimpse at Donald Trump Jr., Bettina Anderson wedding - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTlBbmJnMGd0cThGWS1ZWmkwRDFDYmdiQzBodjcxbExGUGZ1QXB5UUNESTdHUFYwTkh2TndKR094c0pGNE1IZzhtWmNuX01yWWEySkFxNFlFdVEtWWRyU3ppcUZYOS1xR2NDaTNLcVYzYWJvSXgwcXYweTRLQTMxMUYtX3FMdEY2a3dfY1BJSkhtQVVHMHpPSTN5S1l4ajA5RnNQYVBRQTFjX25iSzVra0ZGeUtuaWM?oc=5",
-      "source": "USA Today",
-      "date": "Tue, 26 May 2026 12:38:00 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z"
-    },
-    {
-      "title": "As Trump Politicizes Justice Dept., Prosecutors Struggle With Grand Juries - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXdtQktQTmI4WHk5cWdnNllLTDFiV3ZISXpacG9rLWVJbk03VVlzc2RJaVdVUFpIYWRMT0NtTzRNdzgxMDg2bXZNOGJfUElLd3NFalp5ZzNrMTFkaWNyNnJHS2tRVURzcEVCM19oQkxQSnROZG91T0ZUMlBaOTNoTTk1d1VfRHJ2Y1E5aUs1cFQ1TDA?oc=5",
-      "source": "The New York Times",
-      "date": "Tue, 26 May 2026 12:17:38 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "特朗普将司法部政治化，检察官与大陪审团斗争 - 纽约时报"
-    },
-    {
-      "title": "Trump to undergo annual physical after year of public attention to health issues - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSzFGQUQzbzVzU1hGaVAtODJJVkZXM01aNDFMMFhWSFlJaWJ6MTBUa3FvTnZBNVQ5bGNTS2xWVWFzUmc1YnZoaWhQWHllcWtKWHltTzhOWEs1TXNDV05nZHRuS3B4eGRsVndkVG4ySEpkbzYxbGxKU1BuOHhKNGVCSENwUDJkUlJDc3VV?oc=5",
-      "source": "The Guardian",
-      "date": "Tue, 26 May 2026 11:53:00 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "特朗普将在公众关注健康问题的一年后进行年度体检 - 卫报"
-    },
-    {
-      "title": "Trump says negotiations with Iran are 'proceeding nicely' while also warning fighting could resume - KCRA",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51T3lPTjdnSklRd3MzQ3BtdDdrT21TVDBhdVFzdUUzRlhydWZiNFBiZUlSV0V3TzRpY2RDQWVOXzI0Q014d2UxY0k4ZU9jRzBHb0dkLUx4R0lxNHBraGg2emZjRlp4MFpIT19GdE1MLXJ1bnhkZHZBRXBR?oc=5",
-      "source": "KCRA",
-      "date": "Tue, 26 May 2026 11:35:00 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z"
-    },
-    {
-      "title": "Trump heads to Walter Reed for his annual physical - KFVS12",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2k3cHoydVpFNGduTW1FU0hRNnVmVkV6d1hBNVRjai1TaUxBY2QtUlF2UjJxUTloYV9mTW5oZ1V2WmRibkdWUkpPLVUxamMybEhPWUQxYVk0TUwyaDVvVFp3RmVrMkVmekxHQ08yQXk4cmN3X2NjZjJ1SkhNSXpKdUtfb3RfYklDZzhTaDY0a1Z6MFRhSjM4cklFTUZkY2NTSUtPcTNBM29MMldRQ1E?oc=5",
-      "source": "KFVS12",
-      "date": "Tue, 26 May 2026 11:30:00 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z"
-    },
-    {
-      "title": "War, what is it good for? Well, it’s a great way for Donald Trump to duck out of his son’s wedding | Marina Hyde - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeW5LLV9Eb2wxOHdEZ25fWmdRQnU5SVZBYlUxSE5DS0dnYzRfRi1JWUpjWHJ2YTBoTjBjejcwU05zdzhjV3g2ajM0bGFmNkI5bGdjR2FTZC1qWXZXc203ZXNJMHZKLXhRNDJKODFkY2dJanptYUN3REUwUzlPakx6d2J6WE5nemo1N3ZKN1hQQ3FUeHE5UkdaZmgxazZqMVJDTmNhTQ?oc=5",
-      "source": "The Guardian",
-      "date": "Tue, 26 May 2026 11:06:00 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "战争有什么好处？好吧，这是唐纳德·特朗普逃避他儿子婚礼的好方法 | 玛丽娜·海德 - 卫报"
-    },
-    {
-      "title": "Fifty for 150: Colorado Supreme Court in 2023 finds Trump engaged in insurrection - Colorado Newsline",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbW0wNi10a2dSd2llUkpobDZzemF5TFh3VFhCY2VsQUpRYXEza0h0a3l2MkF4NUxTTzJGeTh4Rl95LTlyWktGTnpBaGtpODBTU1ZvTXZZWnQwc0lGZXRIS1h2Y0JBTUQ0UE9OV0ZKajRLS1Q4LTRxOXRENlA0MXRYXzh4Wmg4M094X24wLW9WMFI?oc=5",
-      "source": "Colorado Newsline",
-      "date": "Tue, 26 May 2026 10:05:05 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "150中的50：科罗拉多州最高法院在2023年发现特朗普参与叛乱 - 科罗拉多新闻线"
-    },
-    {
-      "title": "Trump’s advanced age and threats to his life serve as reminders of his own mortality - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3hYWnpTTGJjY0NhQ3M4X1FyNHlGakxzTVpYMml3WWdFUUhNWnJWVGViQzJ3OUpHb3A5MlJ2TDM2TDk0ZTAzak9HUGgxRnZGT1AzQUNXQVJBOGlxbmlPNnNOMzdXdzlpQTBoQlB2Zjg3S0VEbDNYd3Vsb2Z4TlRXcjJR?oc=5",
+      "title": "Photos offer glimpses of Donald Trump Jr. and Bettina Anderson’s luxurious, tropical wedding weekend - CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbkc3Wmw0cVRVWDEwWjd2c0JXNUhkSUVVQzNFNWtDWjBKbzhhVXl2Q0x6ajNOUTZuVEs5ZHhZSW5NLUpSZHFLdjRaTTl2YjRLTHN6TTFGODNrbjdqQmNLNkl4dXZqcUI3WWx1eU11NEpWaXFub0c4eWhKQTlYeXBwTW5keEMtcmlpUGZLeHg2Wmc?oc=5",
       "source": "CNN",
-      "date": "Tue, 26 May 2026 10:00:08 GMT",
+      "date": "Tue, 26 May 2026 20:39:55 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "特朗普的高龄和生命威胁提醒着他自己的死亡 - CNN"
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "照片展示了唐纳德·特朗普 Jr. 和贝蒂娜·安德森奢华的热带婚礼周末 - CNN"
     },
     {
-      "title": "Opinion | Why Trump is desperate to get rid of the Senate parliamentarian - MS NOW",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4QW8zem1YazJha1c3ekdOUEo5TndGZjIxZXM1RV9jc0V5UXhObmItR1lORVBRU3BOSEdZLTdNTFlzM1BUQnl3cmNMbjU4aFBNUkNSUkZRN1l4UFpxUWQ5eUU0QWh4aFdEVnNaa29leVBZNG02ZjNVZ3ZmTl8?oc=5",
-      "source": "MS NOW",
-      "date": "Tue, 26 May 2026 10:00:00 GMT",
+      "title": "How Trump’s Inner Circle Helped Pave the Road to War With Iran - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzhvMEZXWWQ3NGtSQ3JVSUVhTVJlM0x4ZENUQWxJWUtPMWFOM1JxTjJpTnlmVmJBQ1hPY3NZeExRU010amxiRnNoQ1BfMkhLTUdRZzlCOTluUWlfUUhwbjlzd1MtTHljajNZQkNaWTJ3bkF6c250a3dPMXU0WVAzR1VNaHNVajhiQThINmdqaC02MnBqeVlIUm5zdnFhczZMOUE?oc=5",
+      "source": "PBS",
+      "date": "Tue, 26 May 2026 19:45:08 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "观点 | 为什么特朗普急于摆脱参议院议会主任 - MS NOW"
+      "fetchedAt": "2026-05-27T00:47:08.437Z"
     },
     {
-      "title": "President Trump Abandoned Environmental Justice Communities. Scientists Can Fill the Void. - The Equation - Union of Concerned Scientists",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkhhdldmeXBjYzE0ajFQbl9zZ09ubzR5M053UmVfUlVKcTBzV1RCVmJtQ0ZqSTg2ZFlrX1U4Z0cxdWVCejE1eUxscUwwZ00wa1h0YTdhM2x2R2lYTlhCM0lxVUN3RDhoZ3JZSjlnbldVelJCXzRJMGxNYm8tZm9maDlqTHJ3aGNKVnZoaTI4TnliRUE2VlI3WGdmbmR3UWpEclJJb0hFNXEtUmdXXzd6RnFKWmNTV0tRb3JYekg0cGZndw?oc=5",
-      "source": "The Equation - Union of Concerned Scientists",
-      "date": "Tue, 26 May 2026 10:00:00 GMT",
+      "title": "Trump moves Cabinet meeting from Camp David to the White House - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0pSVEZHd2lnV0lzcGtQUnhxbzZqM0hSNTB5RS1wOFQ3cW5vdWY1X19DUFVFOHIxOWhVMDU5am5mVTkyTmNZSXpyTGRXYllqVERhaExyeEc0ektxZU8wZDNVVWppUE1GSktFVXRPcGZyMzFYbFJNWlg5d1k1b1RWbWxOaXFCNFVuXzNYQU1mVkwzSjdPeW9ZS3dxZmZXTHlsVzhKaU9sNNIBrAFBVV95cUxOQ0JQbWlSYjhrM2dkYmhTVmo5VUxQMkNESldsRDBxYmM1VnVzUm56d3lPcFFfWTUwLVhLb3MyR0EwQ2M2ZndZRU5GOWFhcERQb2RlYU9iWGNuc1ZPbzItTTdsZkd3V2RfdDVYYTAyWnBKendURi1FeE9SLXhXSjBrOXktU2duVERzcmREWFBZa3V2RHFueE1QZFVsTDZWOHl1dUpWMkxFclhFUFFv?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "Tue, 26 May 2026 19:03:31 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "特朗普抛弃了环境正义社区。科学家可以填补这一空白。 - The Equation - 关心科学家联盟"
+      "fetchedAt": "2026-05-27T00:47:08.437Z"
+    },
+    {
+      "title": "Justices give Trump a win on federal worker speech crackdown - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0lIdEhMbjVHVnUwV3N6ZTJyWk5ZT3AzZEx3YlFpOXU4ekFZbUdBRmZpYzVUeHA0SV9hYjNwU21OeGZneUNuZ05SM3kyTVBMMS04aU1qOXEtTmFYanhJaEFuUmM0d0ptbWlFeVRtcWxWN19pVjhhRjFKNGJxT3FJYklmaXhWdGptUXZ3azhPWXdPR215a2NF?oc=5",
+      "source": "Courthouse News",
+      "date": "Tue, 26 May 2026 18:36:10 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z"
+    },
+    {
+      "title": "South Carolina Senate rejects Trump's push to redraw congressional maps - PBS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXVQemZwajh1Mmk2bjhPdjE3dkRGZlRFdXlieXBOZEpPRGp1ZHg1RUdoWnZQY0Vwa0F2cGlKekI4dXRINnJsRnJEMWdDVHYxLTRLNktXbV9qWXZfOVRKbFZlRmdpOXFRNHlSVGdvX3BKMkpVQXh2cC1xd2k5M2J5MEFodG1hQy0tMFoyVHR2QVR6MUJDVkpQeTZ6MFJYZGljcnRrNXZsNFkwd2JZ0gGyAUFVX3lxTE5iUWR5dDYyMDc5bW1tcXNpTTRPcFdvelhRMUo5bms2Rl92d2VVRGJRTHBuTS1lZ3RYeFFkZC1pRGcxZEd2SW90ajVHMXRhU2NTeGlmbWxtbUxienlWRWVTaGtTN1hoVWRHRHIweW9yV0w4RUN6T3h6d3dDU21SV3lQSGlMQ2w4R1BrVTI4MVBhYmlrcUVaUlpIRmR3Y21BUElEWWw5Wkc3OGMtTjdZU1ZYNWc?oc=5",
+      "source": "PBS",
+      "date": "Tue, 26 May 2026 18:09:28 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z"
+    },
+    {
+      "title": "Trump administration proposes non-disclosure agreements for federal employees to stop leaks - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0hlRklya2JUTm9KUUw5STBPMzE4NEFVOTZaSWh3emxhck0zN0JDd3N3cVVmZmV0VWdGQlctLTNoQldOWnMtOUU5ZWdvNHl4UlBIX0t4MjkyeVE0dkNOVlJGNHRLUTZZTjhQTXhGbmlCY0RNRHVKMnpzeWI5THVSNkl1c0Y1QXZxNml2b3loeTFyc2Jwa3o3NFBwYTFYNk9la3g3OV82MTlJbjZWVHVkcjdubENITGFjZVMzajYwazlBZnZBSFpDQtIBzgFBVV95cUxOREl1WW1DbDZhT3JSLWhqdVFEc1JkR21GN1lLYnEwbERwRkc3MEJnakV3LWJEaFgwWllqSzllTWtqZ04tbmo5M2hJM2lqbWRpcEZDNUE3T0VTWmdxNlV0VXpGSlMzX2RBeS0zREt0YWVyWE1BMEdqWWVHVVZhbXcwYzJHMjZ3Q092Z2FlVmlya3hmOGlfOXJUOEstY2FkLVhWMkFWWjZtSklhbG1abFk5WnRqZDAyYXBVajJjZjZJWHpPYkRQN0V2NG1zTDFlUQ?oc=5",
+      "source": "PBS",
+      "date": "Tue, 26 May 2026 18:03:18 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "特朗普政府提议为联邦员工制定保密协议以防止泄密 - PBS"
+    },
+    {
+      "title": "Court sides with Trump administration in dispute over immigration judges, declines to hear Florida suit against other states over immigrant driver’s licenses - SCOTUSblog",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHFkRUZpWEJTNzA1RGd1Z0pyU2VwUHBFbEQxQTJ3cHhZOGpCZ1FIdU03ZHBjWm5aS2lXSnc3SnF0ckw1OGxLM3drV25VTGxnLTY1YWtGOGgzM2wtVnViMkNxaHVmM3hod1lPM3VfVlFzblJnekd1Rng4X0ZTWThaOWR2VGg0ZlA0OVEzeVQ0YU12SzBmUXYtX1VPUk1PWVFnYXhuWnlCY0E2WW5kSzY0NGNPWE1Wb2ExMmxPNHY2bGlVVC1jamxOQkN4d1Y?oc=5",
+      "source": "SCOTUSblog",
+      "date": "Tue, 26 May 2026 17:49:15 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "法院支持特朗普政府在移民法官争议中的立场，拒绝审理佛罗里达州对其他州移民驾照的诉讼 - SCOTUSblog"
     }
   ],
-  "topics": [],
-  "summary24h": [],
+  "topics": [
+    {
+      "title": "Health and Physical Exam",
+      "summary": "Donald Trump recently underwent a physical examination at Walter Reed, declaring himself in 'perfect health.' This announcement comes amidst ongoing discussions about his age and health status, particularly as he continues to engage in political activities. His health updates are closely monitored by both supporters and critics, reflecting the heightened scrutiny of his public persona.",
+      "titleZh": "健康与体检",
+      "summaryZh": "唐纳德·特朗普最近在沃尔特·里德进行了一次体检，宣称自己“健康完美”。这一声明是在他继续参与政治活动的同时发布的，尤其是在关于他年龄和健康状况的讨论中。他的健康更新受到支持者和批评者的密切关注，反映出公众对他形象的高度审视。",
+      "articleCount": 3,
+      "articleIndices": [
+        2,
+        15,
+        31
+      ],
+      "thumbnail": "https://i0.wp.com/www.geminiurgentcare.com/wp-content/uploads/2023/07/pediatric-physician-with-protection-mask-stethoscope-listening-breath-girl-doctor-specialist-medicine-providing-health-care-services-consultation-treatment-during-covid-19-hospital-min.jpg?resize=1000,438&ssl=1",
+      "image": "https://i0.wp.com/www.geminiurgentcare.com/wp-content/uploads/2023/07/pediatric-physician-with-protection-mask-stethoscope-listening-breath-girl-doctor-specialist-medicine-providing-health-care-services-consultation-treatment-during-covid-19-hospital-min.jpg?resize=1000,438&ssl=1"
+    },
+    {
+      "title": "Political Endorsements and Campaigns",
+      "summary": "Trump has been actively endorsing candidates for upcoming elections, including his support for Byron Donalds in Florida's gubernatorial race. His endorsements are part of a broader strategy to maintain influence within the Republican Party and ensure alignment with his 'America First' agenda. This involvement highlights his ongoing role in shaping the political landscape as he prepares for future elections.",
+      "titleZh": "政治支持与竞选",
+      "summaryZh": "特朗普积极支持即将举行的选举候选人，包括他对佛罗里达州州长竞选中拜伦·唐纳兹的支持。他的支持是维持在共和党内影响力和确保与“美国优先”议程一致的更广泛战略的一部分。这种参与突显了他在为未来选举做准备时继续塑造政治格局的角色。",
+      "articleCount": 3,
+      "articleIndices": [
+        5,
+        7,
+        30
+      ],
+      "thumbnail": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3900707380301282387",
+      "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3900707380301282387"
+    },
+    {
+      "title": "International Relations and Military Stance",
+      "summary": "Trump's recent comments regarding Iran and military actions reflect his assertive stance on international relations. He has expressed a strong position against Iran, suggesting that their military capabilities are diminished. This rhetoric is part of his broader narrative on national security and foreign policy, which resonates with his base and aims to position him as a strong leader on the global stage.",
+      "titleZh": "国际关系与军事立场",
+      "summaryZh": "特朗普最近关于伊朗和军事行动的评论反映了他在国际关系上的强硬立场。他对伊朗表达了强烈的看法，暗示他们的军事能力已经减弱。这种言辞是他关于国家安全和外交政策的更广泛叙述的一部分，与他的支持者产生共鸣，并旨在将他定位为全球舞台上的强大领导者。",
+      "articleCount": 3,
+      "articleIndices": [
+        12,
+        22,
+        37
+      ],
+      "thumbnail": "https://i.guim.co.uk/img/media/20c7c6f9ca7b3afa27dc88ea96b7ca53bfe20973/583_0_6154_4923/master/6154.jpg?width=465&dpr=1&s=none&crop=none",
+      "image": "https://i.guim.co.uk/img/media/20c7c6f9ca7b3afa27dc88ea96b7ca53bfe20973/583_0_6154_4923/master/6154.jpg?width=465&dpr=1&s=none&crop=none"
+    }
+  ],
+  "summary24h": [
+    {
+      "time": "09:00 (PT)",
+      "text": "刚刚完成在沃尔特·里德的六个月体检，一切都检查得完美。",
+      "videoQuery": "Donald Trump Walter Reed physical exam",
+      "locationName": "Walter Reed Medical Center",
+      "locationCoords": [
+        38.992,
+        -77.094
+      ],
+      "truthSocialIds": [
+        "116641867405994600"
+      ]
+    },
+    {
+      "time": "10:00 (PT)",
+      "text": "在社交媒体上发布了关于伊朗的声明，强调美国的军事力量。",
+      "videoQuery": "",
+      "truthSocialIds": [
+        "116642543193922330"
+      ]
+    },
+    {
+      "time": "11:00 (PT)",
+      "text": "在社交媒体上支持佛罗里达州的拜伦·唐纳兹竞选州长。",
+      "videoQuery": "",
+      "truthSocialIds": [
+        "116642799421262985"
+      ]
+    },
+    {
+      "time": "12:00 (PT)",
+      "text": "因天气原因，推迟了内阁会议，改在白宫举行。",
+      "videoQuery": "Donald Trump Cabinet meeting",
+      "locationName": "White House",
+      "locationCoords": [
+        38.8977,
+        -77.0365
+      ],
+      "truthSocialIds": [
+        "116642836649690961"
+      ]
+    }
+  ],
   "socialMedia": [
+    {
+      "platform": "Truth Social",
+      "date": "2026-05-26T21:19:56.261Z",
+      "text": "It is critically important that the CFTC’s exclusive authority over Prediction Markets is maintained, and that they will thrive. Under my leadership, we are setting “rules of the road” that are the Gold Standard for the States. We cannot have SCUM like Chris Christie, Letitia James, Tim Walz, and JB Pritzker setting the rules! Other Countries are after this new form of Financial Market, and we want to remain at the top. Likewise, and even more importantly, where we are currently the Crypto (Bitcoin, etc.) Capital of the World, other Countries are trying diligently to replace us in that capacity, but we won’t let that happen. It is a major Industry, and we must protect it. Mike Selig, CFTC Chairman, and respected by all, is doing a great job. Thank you Mike! President DONALD J. TRUMP",
+      "likes": "19744",
+      "reposts": "4467",
+      "url": "https://truthsocial.com/@realDonaldTrump/116642964849373081",
+      "id": "116642964849373081",
+      "isReal": true,
+      "mediaAttachments": [],
+      "account": {
+        "username": "realDonaldTrump",
+        "display_name": "Donald J. Trump",
+        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
+      },
+      "textZh": "保持CFTC对预测市场的独占权至关重要，我们希望它们能够蓬勃发展。在我的领导下，我们正在制定“道路规则”，这将成为各州的黄金标准。我们不能让像克里斯·克里斯蒂、莱蒂蒂亚·詹姆斯、蒂姆·沃尔兹和JB·普利茨克这样的败类来制定规则！其他国家正在争夺这种新型金融市场，我们希望保持领先地位。同样，更重要的是，我们目前是全球加密货币（比特币等）的中心，其他国家正在努力取代我们，但我们不会让这种情况发生。这是一个重要的行业，我们必须保护它。迈克·塞利格，CFTC主席，受到所有人的尊重，做得非常出色。谢谢你，迈克！总统唐纳德·J·特朗普"
+    },
+    {
+      "platform": "Truth Social",
+      "date": "2026-05-26T20:47:20.089Z",
+      "text": "Based on the possible bad weather conditions tomorrow, we will be having our Cabinet Meeting in the White House, and will be postponing the Cabinet trip to Camp David. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "likes": "13120",
+      "reposts": "2738",
+      "url": "https://truthsocial.com/@realDonaldTrump/116642836649690961",
+      "id": "116642836649690961",
+      "isReal": true,
+      "mediaAttachments": [],
+      "account": {
+        "username": "realDonaldTrump",
+        "display_name": "Donald J. Trump",
+        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
+      },
+      "textZh": "鉴于明天可能出现恶劣天气，我们将在白宫召开内阁会议，并将推迟内阁前往戴维营的行程。感谢您对此事的关注！总统唐纳德·J·特朗普"
+    },
+    {
+      "platform": "Truth Social",
+      "date": "2026-05-26T20:37:52.023Z",
+      "text": "Highly Respected Congressman Byron Donalds is running for Governor of Florida, a State that I love, and WON BIG, in 2016, 2020, and 2024.I know Byron well, have seen him tested at the highest and most difficult levels, and he is a TOTAL WINNER! Byron has a great wife, Erika, and three beautiful sons. They are very proud of him! As Governor, Byron will have a BIG Voice, and work closely with me to advance our America First Agenda. He will fight tirelessly to help Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military, Protect our Veterans, Advance American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Defend our always under siege Second Amendment.Byron Donalds will be a truly Great and Powerful Governor for Florida, and has my Complete and Total Endorsement — HE WILL NOT LET YOU DOWN!",
+      "likes": "13249",
+      "reposts": "3239",
+      "url": "https://truthsocial.com/@realDonaldTrump/116642799421262985",
+      "id": "116642799421262985",
+      "isReal": true,
+      "mediaAttachments": [],
+      "account": {
+        "username": "realDonaldTrump",
+        "display_name": "Donald J. Trump",
+        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
+      },
+      "textZh": "备受尊敬的国会议员拜伦·唐纳尔德正在竞选我所热爱的佛罗里达州州长，并在2016年、2020年和2024年取得了巨大胜利。我非常了解拜伦，见证了他在最高和最困难的层面上的考验，他是一个彻底的赢家！拜伦有一个出色的妻子埃里卡和三个美丽的儿子。他们为他感到非常自豪！作为州长，拜伦将拥有一个强大的声音，并与我紧密合作，推进我们的美国优先议程。他将不懈努力，帮助确保我们的边界安全，制止移民犯罪，加强我们的军队，保护我们的退伍军人，推动美国能源的主导地位，减税和减少监管，促进美国制造，并捍卫我们始终受到攻击的第二修正案。拜伦·唐纳尔德将成为佛罗里达州真正伟大而强大的州长，并获得我完全的支持——他不会让你失望！"
+    },
+    {
+      "platform": "Truth Social",
+      "date": "2026-05-26T19:32:42.306Z",
+      "text": "If Iran surrenders, admits their Navy is gone and resting at the bottom of the sea, and their Air Force is no longer with us, and if their entire Military walks out of Tehran, weapons dropped and hands held high, each shouting “I surrender, I surrender” while wildly waving the representative White Flag, and if their entire remaining Leadership signs all necessary “Documents of Surrender,” and admit their defeat to the great power and force of the magnificent U.S.A., The Failing New York Times, The China Street Journal (WSJ!), Corrupt and now Irrelevant CNN, and all other members of the Fake News Media, will headline that Iran had a Masterful and Brilliant Victory over The United States of America, it wasn’t even close. The Dumacrats and Media have totally lost their way. They have gone absolutely CRAZY!!! President DJT",
+      "likes": "31193",
+      "reposts": "7050",
+      "url": "https://truthsocial.com/@realDonaldTrump/116642543193922330",
+      "id": "116642543193922330",
+      "isReal": true,
+      "mediaAttachments": [],
+      "account": {
+        "username": "realDonaldTrump",
+        "display_name": "Donald J. Trump",
+        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
+      },
+      "textZh": "如果伊朗投降，承认他们的海军已经消失，沉没在海底，他们的空军不再存在，如果他们整个军队从德黑兰走出，武器扔掉，双手高举，每个人都大喊“我投降，我投降”，同时疯狂挥舞代表性的白旗，如果他们所有剩余的领导层签署所有必要的“投降文件”，承认他们对伟大的美国的强大力量的失败，《纽约时报》、华尔街日报（WSJ！）、腐败且现在无关紧要的CNN，以及所有其他假新闻媒体，将头条报道伊朗在对美国的战争中取得了卓越而辉煌的胜利，根本没有悬念。民主党人和媒体完全迷失了方向。他们已经完全疯狂了！！！总统DJT"
+    },
+    {
+      "platform": "Truth Social",
+      "date": "2026-05-26T16:47:22.478Z",
+      "text": "Teen takeover in Chicago. Five officers badly hurt. Mayor and Governor are terrible. Should call for help!",
+      "likes": "20560",
+      "reposts": "4947",
+      "url": "https://truthsocial.com/@realDonaldTrump/116641893088020729",
+      "id": "116641893088020729",
+      "isReal": true,
+      "mediaAttachments": [],
+      "account": {
+        "username": "realDonaldTrump",
+        "display_name": "Donald J. Trump",
+        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
+      },
+      "textZh": "芝加哥发生青少年接管事件，五名警官受重伤。市长和州长糟糕透顶。应该呼吁帮助！"
+    },
+    {
+      "platform": "Truth Social",
+      "date": "2026-05-26T16:40:50.602Z",
+      "text": "Just finished my 6 month physical at Walter Reed Military Medical Center. Everything checked out PERFECTLY. Thank you to the great Doctors and Staff! Heading back to the White House. President DJT",
+      "likes": "44966",
+      "reposts": "7623",
+      "url": "https://truthsocial.com/@realDonaldTrump/116641867405994600",
+      "id": "116641867405994600",
+      "isReal": true,
+      "mediaAttachments": [],
+      "account": {
+        "username": "realDonaldTrump",
+        "display_name": "Donald J. Trump",
+        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
+      },
+      "textZh": "刚刚在沃尔特·里德军事医疗中心完成了六个月的体检。一切检查结果完美。感谢伟大的医生和工作人员！正在返回白宫。总统DJT"
+    },
     {
       "platform": "Truth Social",
       "date": "2026-05-26T12:18:55.043Z",
       "text": "Great job by Congressman Derrick Van Orden on FoxNews. A real PRO! President DJT",
-      "likes": "7712",
-      "reposts": "1480",
+      "likes": "17335",
+      "reposts": "3026",
       "url": "https://truthsocial.com/@realDonaldTrump/116640837468653063",
       "id": "116640837468653063",
       "isReal": true,
@@ -199,8 +385,8 @@
       "platform": "Truth Social",
       "date": "2026-05-26T11:26:15.489Z",
       "text": "Historian, and far beyond that, Victor Davis Hanson, is GREAT. That’s all I have to say. There is no further explanation needed. A fantastic man! President DJT",
-      "likes": "13151",
-      "reposts": "2862",
+      "likes": "24720",
+      "reposts": "5122",
       "url": "https://truthsocial.com/@realDonaldTrump/116640630404037479",
       "id": "116640630404037479",
       "isReal": true,
@@ -210,14 +396,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "历史学家，远不止于此，维克多·戴维斯·汉森真是太棒了。这就是我想说的。无需进一步解释。一个了不起的人！总统DJT"
+      "textZh": "历史学家，远不止于此，维克托·戴维斯·汉森非常出色。我只想说这些。不需要进一步解释。一个了不起的人！总统DJT"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-26T11:19:12.158Z",
       "text": "Exclusive: Key Biden DOJ official raised red flags about FBI’s Mar-a-Lago raid, memo shows: https://justthenews.com/government/courts-law/biden-doj-official-had-concerns-trump-declassified-documents-seized-fbis-mar",
-      "likes": "8128",
-      "reposts": "2151",
+      "likes": "14913",
+      "reposts": "3783",
       "url": "https://truthsocial.com/@realDonaldTrump/116640602660695683",
       "id": "116640602660695683",
       "isReal": true,
@@ -227,14 +413,14 @@
         "display_name": "Donald J. Trump",
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
-      "textZh": "独家：拜登司法部关键官员对联邦调查局对马阿拉歌的突袭表示担忧，备忘录显示： https://justthenews.com/government/courts-law/biden-doj-official-had-concerns-trump-declassified-documents-seized-fbis-mar"
+      "textZh": "独家：拜登司法部关键官员对FBI对马阿拉戈的突袭提出了警告，备忘录显示： https://justthenews.com/government/courts-law/biden-doj-official-had-concerns-trump-declassified-documents-seized-fbis-mar"
     },
     {
       "platform": "Truth Social",
       "date": "2026-05-26T11:18:48.504Z",
       "text": "U.S. attorney in Miami sends ‘message’ to deep state with indictment against ex-prosecutor: https://justthenews.com/accountability/political-ethics/us-attorney-miami-sends-message-deep-state-indictment-against-ex",
-      "likes": "8068",
-      "reposts": "2003",
+      "likes": "14565",
+      "reposts": "3459",
       "url": "https://truthsocial.com/@realDonaldTrump/116640601110526474",
       "id": "116640601110526474",
       "isReal": true,
@@ -250,8 +436,8 @@
       "platform": "Truth Social",
       "date": "2026-05-26T10:07:08.936Z",
       "text": "Great job on FoxNews by Alex Gray. Thanks Alex!!! President DJT",
-      "likes": "8454",
-      "reposts": "1573",
+      "likes": "13406",
+      "reposts": "2344",
       "url": "https://truthsocial.com/@realDonaldTrump/116640319334016190",
       "id": "116640319334016190",
       "isReal": true,
@@ -267,8 +453,8 @@
       "platform": "Truth Social",
       "date": "2026-05-26T10:02:50.400Z",
       "text": "https://truthsocial.com/users/SpiritualStreetfighter/statuses/116635950751637260",
-      "likes": "10069",
-      "reposts": "2605",
+      "likes": "16994",
+      "reposts": "4403",
       "url": "https://truthsocial.com/@realDonaldTrump/116640302390587616",
       "id": "116640302390587616",
       "isReal": true,
@@ -284,8 +470,8 @@
       "platform": "Truth Social",
       "date": "2026-05-26T10:01:20.532Z",
       "text": "https://truthsocial.com/users/Imaluckyangel/statuses/116634887599602834",
-      "likes": "10068",
-      "reposts": "2642",
+      "likes": "16287",
+      "reposts": "4218",
       "url": "https://truthsocial.com/@realDonaldTrump/116640296501012524",
       "id": "116640296501012524",
       "isReal": true,
@@ -301,8 +487,8 @@
       "platform": "Truth Social",
       "date": "2026-05-26T10:00:48.373Z",
       "text": "https://truthsocial.com/users/IStandWithTrump47/statuses/116634844670581336",
-      "likes": "9024",
-      "reposts": "1854",
+      "likes": "14460",
+      "reposts": "2847",
       "url": "https://truthsocial.com/@realDonaldTrump/116640294393468349",
       "id": "116640294393468349",
       "isReal": true,
@@ -318,8 +504,8 @@
       "platform": "Truth Social",
       "date": "2026-05-26T10:00:13.661Z",
       "text": "https://truthsocial.com/users/1776WeThePeople1776Q/statuses/116634771557391388",
-      "likes": "10552",
-      "reposts": "3789",
+      "likes": "16899",
+      "reposts": "6045",
       "url": "https://truthsocial.com/@realDonaldTrump/116640292118558842",
       "id": "116640292118558842",
       "isReal": true,
@@ -335,8 +521,8 @@
       "platform": "Truth Social",
       "date": "2026-05-26T09:59:50.002Z",
       "text": "https://truthsocial.com/users/Imaluckyangel/statuses/116634918808075195",
-      "likes": "10760",
-      "reposts": "3202",
+      "likes": "16840",
+      "reposts": "4954",
       "url": "https://truthsocial.com/@realDonaldTrump/116640290568039212",
       "id": "116640290568039212",
       "isReal": true,
@@ -352,8 +538,8 @@
       "platform": "Truth Social",
       "date": "2026-05-26T09:59:31.485Z",
       "text": "https://truthsocial.com/users/Imaluckyangel/statuses/116634885298397647. Texas, Vote for Ken Paxton, our Country’s BEST Attorney General!",
-      "likes": "9445",
-      "reposts": "2620",
+      "likes": "14635",
+      "reposts": "3905",
       "url": "https://truthsocial.com/@realDonaldTrump/116640289354505970",
       "id": "116640289354505970",
       "isReal": true,
@@ -364,139 +550,37 @@
         "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
       },
       "textZh": "https://truthsocial.com/users/Imaluckyangel/statuses/116634885298397647。德克萨斯州，投票支持肯·帕克斯顿，我们国家最优秀的检察长！"
-    },
-    {
-      "platform": "Truth Social",
-      "date": "2026-05-26T09:56:28.949Z",
-      "text": "https://truthsocial.com/users/dpritsky/statuses/116634739174498414",
-      "likes": "8995",
-      "reposts": "2017",
-      "url": "https://truthsocial.com/@realDonaldTrump/116640277391760989",
-      "id": "116640277391760989",
-      "isReal": true,
-      "mediaAttachments": [],
-      "account": {
-        "username": "realDonaldTrump",
-        "display_name": "Donald J. Trump",
-        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
-      },
-      "textZh": "https://truthsocial.com/users/dpritsky/statuses/116634739174498414"
-    },
-    {
-      "platform": "Truth Social",
-      "date": "2026-05-26T09:56:14.097Z",
-      "text": "https://truthsocial.com/users/lpsychology/statuses/116634696012655362",
-      "likes": "8533",
-      "reposts": "2211",
-      "url": "https://truthsocial.com/@realDonaldTrump/116640276418472460",
-      "id": "116640276418472460",
-      "isReal": true,
-      "mediaAttachments": [],
-      "account": {
-        "username": "realDonaldTrump",
-        "display_name": "Donald J. Trump",
-        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
-      },
-      "textZh": "https://truthsocial.com/users/lpsychology/statuses/116634696012655362"
-    },
-    {
-      "platform": "Truth Social",
-      "date": "2026-05-26T09:54:40.148Z",
-      "text": "https://truthsocial.com/users/IStandWithTrump47/statuses/116634874790791060",
-      "likes": "7205",
-      "reposts": "1533",
-      "url": "https://truthsocial.com/@realDonaldTrump/116640270261424904",
-      "id": "116640270261424904",
-      "isReal": true,
-      "mediaAttachments": [],
-      "account": {
-        "username": "realDonaldTrump",
-        "display_name": "Donald J. Trump",
-        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
-      },
-      "textZh": "https://truthsocial.com/users/IStandWithTrump47/statuses/116634874790791060"
-    },
-    {
-      "platform": "Truth Social",
-      "date": "2026-05-26T09:53:47.312Z",
-      "text": "https://truthsocial.com/users/lauramarks/statuses/116634728742534171",
-      "likes": "7621",
-      "reposts": "1630",
-      "url": "https://truthsocial.com/@realDonaldTrump/116640266798821002",
-      "id": "116640266798821002",
-      "isReal": true,
-      "mediaAttachments": [],
-      "account": {
-        "username": "realDonaldTrump",
-        "display_name": "Donald J. Trump",
-        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
-      },
-      "textZh": "https://truthsocial.com/users/lauramarks/statuses/116634728742534171"
-    },
-    {
-      "platform": "Truth Social",
-      "date": "2026-05-26T09:53:29.015Z",
-      "text": "https://truthsocial.com/users/lauramarks/statuses/116634724803550055",
-      "likes": "6842",
-      "reposts": "1367",
-      "url": "https://truthsocial.com/@realDonaldTrump/116640265599728280",
-      "id": "116640265599728280",
-      "isReal": true,
-      "mediaAttachments": [],
-      "account": {
-        "username": "realDonaldTrump",
-        "display_name": "Donald J. Trump",
-        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
-      },
-      "textZh": "https://truthsocial.com/users/lauramarks/statuses/116634724803550055"
-    },
-    {
-      "platform": "Truth Social",
-      "date": "2026-05-26T09:52:48.227Z",
-      "text": "https://truthsocial.com/users/IStandWithTrump47/statuses/116634832160073750",
-      "likes": "6740",
-      "reposts": "1757",
-      "url": "https://truthsocial.com/@realDonaldTrump/116640262926602501",
-      "id": "116640262926602501",
-      "isReal": true,
-      "mediaAttachments": [],
-      "account": {
-        "username": "realDonaldTrump",
-        "display_name": "Donald J. Trump",
-        "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg"
-      },
-      "textZh": "https://truthsocial.com/users/IStandWithTrump47/statuses/116634832160073750"
     }
   ],
   "trends": [],
   "trendCount": 0,
   "sources": [
     {
-      "title": "Texas runoffs live updates: Trump-backed Ken Paxton and incumbent John Cornyn battle for Senate seat - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHdVdUJFSGJER1lXTW5fckNmWHYxRGo2UmRWMmI3MTRLM2ZISEo4N0FYbHF4Nl9JTHUyYnAzbDJsRkVMTzZLZVBxWDFNcm5tT1VGNWM4VXFpLVZNSHhlSUozLUd6ZHh3SnVOS25MZXAtUm9wUEowR284eTN3Tzh1bDV0bmhmcDFJVkpmZzYzZlVwTEl5S1JkY3VMQ3V1QnpxYXViQkRJb0dfOU1CNnVlRHczdGlvM1o0?oc=5",
+      "title": "Trump-backed candidate wins GOP primary runoff for new Texas House seat - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkxaMGwwSjlmb0RZU3VsbHhiTXlBZGFNNXdmLUNfS2JSN2lOQ0NUWGNQb1dCT2RqYWRiYUk0a3RZbTRSMVI1cmN4WnhPWTZ6azhlOXU2NkhIcnV1VTFVZzdaU29aamZzd3dNNWxaTkdjdFJUY0lQWldneVA0RGoxb0lQUndDcV9GZlJjUdIBkgFBVV95cUxPTUh5UEFZZU5qVHJoQWdQT3h1LVpJWDZJT1JzMXo0RS1jX3FvSExRdGN3STl5bTRoMW9CM2hwMkVYWkxjTGtQQzdKX0lTS2FLck9CU0VsN0ZVblJEejI2ZEJ3a0tmMzJfT01kendGQ1phOE5ab3lCQ2hKbU1iRF9hMGNBZzBvTGVHM0JOZUVCM1R6QQ?oc=5",
+      "source": "The Hill",
+      "date": "Wed, 27 May 2026 00:25:00 GMT",
+      "isTrend": false,
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "特朗普支持的候选人在德克萨斯州新众议院席位的共和党初选决选中获胜 - 山丘"
+    },
+    {
+      "title": "Trump pledges to protect the crypto industry and ensure prediction markets ‘thrive’ - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWtHZE5ZVW01aDMyNURMWFdITTNvOW9oQ0hfZU1wZnhXMXpzQnhMYWNDTWJjYVBXVm9KTU5ZbzV1eFk4aVJIQUhmbEUzcHhyNWIzSDQwNFM3Sjd5QmpZVTRXVVN4Z0poTVpEV1RmYUhpT205T0ZHQV9mWmIwNldrR09iU1NsSk1iSDRqYWJZWlM4Zm5r?oc=5",
       "source": "NBC News",
-      "date": "Tue, 26 May 2026 14:38:33 GMT",
+      "date": "Tue, 26 May 2026 23:59:10 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "德克萨斯州决选实时更新：特朗普支持的肯·帕克斯顿与现任参议员约翰·科宁争夺参议院席位 - NBC新闻"
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "特朗普承诺保护加密货币行业，确保预测市场“蓬勃发展” - NBC新闻"
     },
     {
-      "title": "Trump to host Cabinet meeting at Camp David on Wednesday as Iran talks continue - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rU1hnNzhIVFVEYXNncktHckdKX1lGTHFBcEw1Wk02bWdaY3dsSi1fTDVTNmlvc1RTOWpSZk4xc1gzXzJNNWpwbjhUZVZpeHBUa1FtT2JiZGpQUks2REJkblN1el93TlBlNktiVkNuRjkxWTZ20gF6QVVfeXFMTUtEcXUxUF90TWtrNG9YYWs3WXFfR1p3QjZkX0ttV3l2LXpyOFBXQktxNXVRNFNzaTJJLTBNRkFkSFgtS1RUOWstajByLUEwYlUzb2lFY0pnZkczY2JxNzB6Z2tJUWctYjNTSWw2TS1QVHY0RnRkS1F4eUE?oc=5",
-      "source": "CNBC",
-      "date": "Tue, 26 May 2026 14:35:33 GMT",
+      "title": "Trump demands it, but Muslim-majority nations aren't ready to join the Abraham Accords - Politico",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUFiYXljTkstVHRvb3J4YTFpNTlTLV9Yd3ZTZGh0TnAwV3F0RTZNZ3JHUWN6TG8wU2FLRC1OVWdPN25lUzJDQ19uSTBqTGdDR0hCZWxpVWYxcV9HTkZzdmduUkFXUU9NRG8yNjNIa08tOFFLdmE4TGpaMXE3cGJwbmVtaXk5a2xDYm1iTVlFN0F1TkNUUmVvQm85MA?oc=5",
+      "source": "Politico",
+      "date": "Tue, 26 May 2026 23:45:00 GMT",
       "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "特朗普将在周三于戴维营主持内阁会议，伊朗谈判持续进行 - CNBC"
-    },
-    {
-      "title": "Live Updates: Iran accuses U.S. of \"grave violation\" of ceasefire as Trump seeks \"good deal or no deal\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWV90b0dVbHBrdzl0ZmxyUzl5d1dEZk5VbEtNVjBoRUtHVVkxRzNoWmxERVhhUVhTR19fbkZoWjRzdFhqeHlqY1pkZUR2WmgyQ2JOeHpyX3U2MDNLOUtsVko3VmVWSEtWaXlQTHVSRFV3TFJXVHZTQ2NIei1tUlBaOWFTRXBONUhIZmxGSllR0gGTAUFVX3lxTFBkZDdUNkFPQmptUk5mTDJ3VkNqMElGOUFORkJRWEFhMThnQzU5U09LQXhHZEJkLTZtNGR0TE9KNFVoR0lSekV4SXBfZWNBa1F5MC1EUFJkNjEwekY1RUdNLTNKVEtISGtBX2tVMm5MT2RnZjN1SnF1T2kxb05uMlJwVUdKOEJSUWtva0ZudmV1Q1p0QQ?oc=5",
-      "source": "CBS News",
-      "date": "Tue, 26 May 2026 14:29:00 GMT",
-      "isTrend": false,
-      "fetchedAt": "2026-05-26T14:51:05.876Z",
-      "titleZh": "实时更新：伊朗指责美国严重违反停火协议，特朗普寻求“好交易或没有交易” - CBS新闻"
+      "fetchedAt": "2026-05-27T00:47:08.437Z",
+      "titleZh": "特朗普要求，但穆斯林占多数的国家尚未准备好加入亚伯拉罕协议 - 政治家"
     }
   ]
 }
